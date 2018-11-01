@@ -1,0 +1,783 @@
+## Comments in this file must be preceded by double number-sign (#)
+## Roster codes must be preceded by single number-sign (#)
+## tabs and >> are reserved characters/sequences for splitting and marking individual lines
+## when multiple roster codes apply, they must be separated by semi-colon, ex.: B10;A21
+## PART 1: constituents abbreviations
+## PART 2: other abbreviations - these are roster code AND constituent sensitive, in the sense that the same abbreviations may be resolved in different ways depending on the roster codes and/or constituents associated to them.
+
+
+## PART1: constituents abbreviations
+#constituents
+-INC	incidentals
+--i	introduction
+-ae	aerial photography
+-cy	city scenes
+-dy	daily
+-eh	expedition house
+-el	expedition life
+-eq	equipment
+-fl	file log
+-fn	fauna
+-fr	flora
+-hl	health and medical
+-id	individuals
+-iv	inventory
+-lb	labeling
+-lg	log
+-ls	landscape
+-mk	marker
+-mt	methods and techniques
+-nm	name, address, references
+-ns	notes on time sequencing
+-ny	next year
+-oa	official activities
+-ov	overall shot
+-pc	people and customs
+-ph	phase
+-pr	public relations (excludes visitors)
+-pw	public works
+-rc	recording
+-rd	roster definition
+-rs	record shot
+-sf	staff
+-sg	strategy
+-sn	section
+-so	site overall
+-sp	special project
+-sr	strata description
+-st	storage
+-su	summary
+-sy	surveying
+-tr	transmittal
+-tv	travel
+-vb	village buildings
+-vg	village, general
+-vr	varia
+-vs	visits and visitors
+-wa	work activities
+-we	weather
+-wk	workmen
+-zx	site general, excavations
+^	specific labels
+a	aggregates
+b	assemblages
+c	composites
+e	traces
+f	features
+g	graphics
+h	phases
+i	items
+k	loci
+j	joins
+m	markers
+p	plots
+r	relays
+s	strata
+qi	q-items
+qp	pottery
+qb	bones
+q	q lots
+n	negatives
+t	templates
+v	view photos
+w	view drawings
+y	drawing schematics
+z	zeros
+## END OF PART 1
+
+## PART2: other abbreviations
+>>a;f;^
+#BA1;B10;A20;A21;C20
+a	accumulation 
+aa	accumulation A 
+ab	accumulation B 
+ac	accumulation C 
+ad	accumulation D 
+ash	ash
+b	burial
+ba	band
+be	bench
+bf	brickfall 	
+bk	brick
+bm	brickmelt
+bp	brick pile 	
+bu	burial 	
+co	collapse 	
+cr	corridor
+d	doorway
+f	floorsurface in general
+f1	fill in primary context 	
+f2	fill in secondary context 	
+fa	floor, type a 	
+fb	floor, type b 	
+fc	floor, type c 	
+fd	floor, type d 	
+fi	fill 	
+gv	grave 	
+he	hearth
+ho	hole
+hs	house
+is	installation 	
+ki	kiln
+l	lens 	
+la	lens type a 	
+lb	lens type b 	
+lc	lens type c 	
+ld	lens type d 	
+lm	laminations 	
+ly	layer 	
+mx	mixed features
+mix	mixed features
+pa	pavement, type a 	
+pb	pavement, type b 	
+pc	pavement, type c 	
+pf	platform
+pt	pit
+pv	pavement 	
+r	room
+rf	roofing material
+rh	rodent hole
+s	structure
+sf	subfloor 	
+so	soil
+st	isolated stone
+st-is	stone installation 	
+ta	tannur 	
+tr	trench, trough
+ts	topsoil
+uc	uncertain
+uk	unknown
+vm	volumetrically defined layer
+vr	various
+w	wall
+
+
+>>b;c;e;i;qi;qp;j;n;z
+#BA1;B10;A20;A21;C20
+ar	arrowhead
+awl	awl
+ax	ax(head)
+b	bowl
+ba	bone artifact
+baf	bone artifact
+bd	bead
+bd-c	bead (clay)
+be	bench
+bk	brick
+bl	blade
+bn	bin
+bo	bowl 	
+board	board 	
+bp	brick pile 	
+bt	bottle 	
+c	cup
+ca	clay artifact
+caf	clay artifact
+cb	carbon
+cl	clay lump (and possible tablet)
+cs	carbon
+cv	ceramic vessel
+d	stand
+db	debitage
+di	dish (small platter)
+ds	door socket
+e	epigraphic 	
+fg	figurine
+ga	glass artifact
+gaf	glass artifact
+gl	glass
+go	goblet 	
+gr	grinding stone
+gs	grinding stone
+h	jar shoulder
+hb	human body 	
+ia	item aggregate 	
+in	inlays 	
+j	jar
+ja	jar 	
+je	jewelry item
+k	worked disk
+kw	kiln waste 	
+kwr	kiln waster 	
+l	plate
+la	lithic artifact
+laf	lithic artifact
+ls	lithic specimen 	
+ma	metal artifact
+mace	mace
+maf	metal artifact
+mud	mud 	
+o	other
+or	organic refuse or midden 	
+ov	oven
+p	pot
+peg	peg
+pi	pin
+pl	platter 	
+po	pot
+pol	polishing stone 	
+qb	bone lot
+qp	pottery lot
+rf	roofing material 	
+ro	root
+s	strainer
+sa	sample
+saf	shell artifact
+sb	sling ball
+sc	sculpture
+se	seal
+sg	slag (from metal smelting)
+sh	shell
+si	seal impression 	
+sl	sealing 	
+sm	sample 	
+so	soil
+sp	specimen 	
+spd	spearhead
+spoon	spoon
+str	strainer
+string	string
+su	statue
+t	tablet 	
+ta	tannur
+ta-o	tannur 	
+to	tool
+uc	uncertain
+uk	unknown
+v	other vessel
+var	various
+vr	various
+vs	vessel
+w	bowl carination
+wa	wood artifact
+waf	wood artifact
+wd	wood
+we	weapon
+wh	wheel
+
+
+## the aggregate definition is a delicate matter. Note for aggregates w = wall, not bowl carination
+>>a
+#BA1;B10;A20;A21;C20
+ar	arrowhead
+awl	awl
+ax	ax(head)
+b	bowl
+ba	bone artifact
+baf	bone artifact
+bd	bead
+bd-c	bead (clay)
+be	bench
+bk	brick
+bl	blade
+bn	bin
+bo	bowl 	
+board	board 	
+bp	brick pile 	
+bt	bottle 	
+c	cup
+ca	clay artifact
+caf	clay artifact
+cb	carbon
+cl	clay lump (and possible tablet)
+cs	carbon
+cv	ceramic vessel
+d	stand
+db	debitage
+di	dish (small platter)
+ds	door socket
+e	epigraphic 	
+fg	figurine
+ga	glass artifact
+gaf	glass artifact
+gl	glass
+go	goblet 	
+gr	grinding stone
+gs	grinding stone
+h	jar shoulder
+hb	human body 	
+ia	item aggregate 	
+in	inlays 	
+j	jar
+ja	jar 	
+je	jewelry item
+k	worked disk
+kw	kiln waste 	
+kwr	kiln waster 	
+l	plate
+la	lithic artifact
+laf	lithic artifact
+ls	lithic specimen 	
+ma	metal artifact
+mace	mace
+maf	metal artifact
+mud	mud 	
+o	other
+or	organic refuse or midden 	
+ov	oven
+p	pot
+peg	peg
+pi	pin
+pl	platter 	
+po	pot
+pol	polishing stone 	
+qb	bone lot
+qp	pottery lot
+rf	roofing material 	
+ro	root
+s	strainer
+sa	sample
+saf	shell artifact
+sb	sling ball
+sc	sculpture
+se	seal
+sg	slag (from metal smelting)
+sh	shell
+si	seal impression 	
+sl	sealing 	
+sm	sample 	
+so	soil
+sp	specimen 	
+spd	spearhead
+spoon	spoon
+str	strainer
+string	string
+su	statue
+t	tablet 	
+ta	tannur
+ta-o	tannur 	
+to	tool
+uc	uncertain
+uk	unknown
+v	other vessel
+var	various
+vr	various
+vs	vessel
+w	wall
+wa	wood artifact
+waf	wood artifact
+wd	wood
+we	weapon
+wh	wheel
+
+
+
+>>q
+#BA1;B10;A20;A21;C20
+p	pottery
+b	bones
+i	items
+I	items
+qi	q-items
+b,i	bones, q-items
+b-i	bones, q-items
+bi	bones, q-items
+pi	pottery, q-items
+p,i	pottery, q-items
+p i	pottery, q-items
+P i	pottery, q-items
+p-i	pottery, q-items
+p,I	pottery, items
+ip	pottery, q-items
+i,p	pottery, q-items
+I,p	pottery, items	
+pb	pottery, bones
+p,b	pottery, bones
+p-b	pottery, bones
+bp	pottery, bones
+b,p	pottery, bones
+pib	pottery, bones, q-items	
+p-i-b	pottery, bones, q-items
+pbi	pottery, bones, q-items
+p-b-i	pottery, bones, q-items
+pbI	pottery, bones, items
+ibp	pottery, bones, q-items
+p,i,b	pottery, bones, q-items
+p,b,i	pottery, bones, q-items	
+b,i,p	pottery, bones, q-items
+b,p,i	pottery, bones, q-items
+p,b,I	pottery, bones, items
+p,I,b	pottery, bones, items
+I,b,p	pottery, bones, items
+I,p,b	pottery, bones, items
+pbiI	pottery, bones, items, q-items
+pbIi	pottery, bones, items, q-items
+p,b,i,I	pottery, bones, items, q-items
+p,b,qi,i	pottery, bones, items, q-items
+p,b,i,qi	pottery, bones, items, q-items
+
+>>r
+#D10
+k	known
+K	known
+t	taped
+T	taped
+
+>>a;f;b;e;i;qi;qp;qb;j;n;z;^
+#K3;ZcaW0
+BC	Bi-Color Ware
+bn	bone
+BR	Dark Brick Red Ware
+br	Dark Brick Red Ware
+CH	Chaff Tempered
+CH	Chaff Temper Ware
+cl	clay
+DB	Dark Brick Red
+DBR	Dark Brick Red Ware
+DRB	Dark Red Burnished Ware
+ETC	Early Transcaucasian Ware
+FC	Fine Chaff Temper Ware
+FP	Fine Pebble Temper Ware
+G	Gray Ware
+gl	glass or frit
+H	Khabur
+H?	Khabur?
+HF	Chaff Temper Ware
+IBC	Imitation Bi-Color Ware
+IM	Imitation Metallic Ware
+INC	Chaff or Fine Chaff Incised
+LC	Late Chalcolithic Ware
+LCF	Late Chalcolithic Fine Ware
+LCG	Late Chalcolithic Gray Ware
+LCGb	Green-Buff Slip Ware
+LCH	Late Chalcolithic Chaff Temper Ware
+LCT	Tan Slip Ware
+LGR	Late Chalcolithic Gray Ware
+li	lithic 
+M	Metallic Ware
+mt	metal
+nin	Ninevite 5 Ware
+NIN	Ninevite 5 Ware
+ob	obsidian
+p	Pebble Temper Ware
+P	Pebble Temper Ware
+r	Rough Ware
+R	Rough Ware
+Rc	Red Orange Calcite Temper Ware
+rc	Red Orange Calcite Temper Ware
+RC	Red Orange Calcite Temper Ware
+Rc1	Fine Red Orange Calcite Temper Ware
+RC1	Fine Red Orange Calcite Temper Ware
+ROG	Red Orange Calcite Temper Ware
+ROG2	Red Orange Calcite Temper Ware
+s	Simple ware
+S	Simple Ware
+sh	shell
+wd	wood
+Ws	Wet Smooth Ware
+WS	Wet Smooth Ware
+
+>>f;a;b;e;i;q;qi;qb;qp;j;n;z;^
+#F2
+1a	cuts 	
+1b	intrudes 	
+2a	leans against 	
+2b	rests on 	
+3a	abuts 	
+3b	bonds with 	
+4a	covers 	
+4b	overlays 	
+5a	caps 	
+5b	sits in 	
+cu	cuts
+in	intrudes
+le	leans against
+re	rests on
+ab	abuts
+bo	bonds with
+co	covers
+ov	overlays
+ca	caps
+si	sits in
+
+>>b;e;i;qi;qp;j;n;z;^
+#K4;B10
+
+a	casserole
+b	bowl
+c	cup
+d	stand
+g	pitcher
+j	jar
+k	worked disk or stopper
+l	platter or plate
+o	other
+p	pot
+s	strainer
+t	bottle
+
+x1	interior ledge for holding cover
+x2	interior groove
+x3	other
+
+>>a;f;b;e;i;j;n;qi;qp;qb;v;w;p;t
+#O11
+c	close-up
+f	far shot
+m	medium shot
+t	tight shot
+w	wide shot
+
+>>a;f;b;e;i;j;n;qi;qp;qb;v;w;p;t
+#O21
+m	medium shot
+w	wide shot
+
+>>a;f;b;e;i;j;n;qi;qp;qb;v;w;p;t
+#O22
+n	looking north
+N	looking north
+e	looking east
+E	looking east
+s	looking south
+S	looking south
+w	looking west
+W	looking west
+o	looking west
+O	looking west
+ne	looking northeast
+NE	looking northeast
+nne	looking north-northeast
+NNE	looking north-northeast
+nw	looking northwest
+NW	looking northwest
+no	looking northwest
+NO	looking northwest
+nnw	looking north-northwest
+NNW	looking north-northwest
+nno	looking north-northwest
+NNO	looking north-northwest
+se	looking southeast
+SE	looking southeast
+sse	looking south-southeast
+SSE	looking south-southeast
+sw	looking southwest
+SW	looking southwest
+so	looking southwest
+SO	looking southwest
+ssw	looking south-southwest
+SSW	looking south-southwest
+sso	looking south-southwest
+SSO	looking south-southwest
+~n	~looking north
+~N	~looking north
+~e	~looking east
+~E	~looking east
+~s	~looking south
+~S	~looking south
+~w	~looking west
+~W	~looking west
+~o	~looking west
+~O	~looking west
+~ne	~looking northeast
+~NE	~looking northeast
+~nne	~looking north-northeast
+~NNE	~looking north-northeast
+~nw	~looking northwest
+~NW	~looking northwest
+~no	~looking northwest
+~NO	~looking northwest
+~nnw	~looking north-northwest
+~NNW	~looking north-northwest
+~nno	~looking north-northwest
+~NNO	~looking north-northwest
+~se	~looking southeast
+~SE	~looking southeast
+~sse	~looking south-southeast
+~SSE	~looking south-southeast
+~sw	~looking southwest
+~SW	~looking southwest
+~so	~looking southwest
+~SO	~looking southwest
+~ssw	~looking south-southwest
+~SSW	~looking south-southwest
+~sso	~looking south-southwest
+~SSO	~looking south-southwest
+
+>>i;qi;qp
+#ZaiK1
+sp	spin
+
+>>i;qi;qp
+#ZaiK2
+an	angle
+
+>>i;qi;qp
+#ZaiK3
+t1	thread1
+
+>>i;qi;qp
+#ZaiK4
+t2	thread2
+
+>>i;qi;qp
+#ZaiK5
+tw	twists
+
+>>i;qi;qp
+#ZaiK6
+wv	weave
+
+>>i;qi;qp
+#ZaiA7
+hd	hole diameter
+
+>>i;qi;qp
+#ZcaS1
+
+a	upper wall angled toward exterior
+ba	coba (bowl)
+c	conical (cup)
+cr	carinated
+d	deep
+g	globular body
+gf	footed goblet
+h	hole mouth
+he	hemishperical
+hr	hammer-rim
+m	small or miniature
+n	necked
+o	other
+r	round sided
+s	straight sided
+sh	shouldered
+w	wide rim diameter
+
+
+>>i;qi;qp
+#ZcaS2
+cu	curved upper body
+dm	double-mouthed
+f	flaring (necked)
+fl	flaring body
+h	short (necked)
+r	rounded (carination)
+rb	rib at juncture
+re	restricted necked
+rg	restricted necked, corrugation on the interior
+rh	rough
+rp	rope decoration
+s	straight
+sa	sharp (carination)
+sc	sharp carination and curved upper wall
+sm	smooth interior
+tr	handle near rim
+ug	corrugation on interior
+w	wheel marks
+wi	wheel marks on interior
+we	wheel marks on exterior
+
+>>i;qi;qp
+#ZcaS4
+a	rim: angular rim	a
+b	rim: beaked	b	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>rim: beaked</a>
+c	rim: plain collared	c	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>rim: collared</a>
+ci	rim: collared-incised	ci	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>rim: collared-incised</a>
+cg	rim: collared-grooved	cg	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>rim: collared: grooved</a>
+d	rim: divided	d
+de	rim: depression on top of rim
+dp	rim: double strand (lower one pointed)	dp	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>rim: double (lower one pointed)</a>
+dr	rim: double strand (both rounded)	dr	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>rim: double (both rounded)</a>
+e	rim: extened rim
+ee	rim: extended toward exterior
+ei	rim: extended toward interior
+eie	rim: extended to interior and exterior
+et	rim: externally thickened
+f	rim: flat	f	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>rim: flat</a>
+fd	rim: folded
+fl	rim: flaring
+fli	rim: flaring with slight interior lip
+flr	rim: flaring with rib below rim
+fr	rim: flat on top with rounded exterior
+fw	rim: flat and wide
+fwe	rim: flat, wide and slightly inclined to exterior
+g	rim: grooved
+ge	rim: exterior groove
+gf	rim: folded with interior groove
+gd	rim: deep groove on interior
+gm	rim: simple with interior grrove
+gr	rim: interior groove with rib below rim
+gt	rim: groove on top
+h	lid
+i	rim: interior groove or ledge	i	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>rim: interior groove or ledge</a>
+il	rim: interior lugs
+in	rim: indentation on rim
+ip	rim: interior projection
+it	rim: in-turned	it	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>rim: inturned</a>
+li	rim: interior lip
+n	rim: notched	n	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>rim: notched</a>
+p	rim: pointed	p	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>rim: pointed</a>
+pn	rim: pinched
+ps	rim: pointed rim slanted
+pse	rim: pointed rim slanted to exterior
+psi	rim: pointed rim slanted to interior
+r	rim: rounded	r	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>rim: rounded</a>
+rb	rim: ribbed on top and exterior of rim	rb	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>rim: ribbed on top and exterior of rim</a>
+rc	rim: curved toward exterior
+re	rim: restricted
+ri	rim: ribbed on top of rim only	ri	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>rim: ribbed on top of rim only</a>
+rr	rim: ribbed below rim
+ro	rim: out-turned	ro	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>rim:out-turned</a>
+rt	rim: thickened rim
+s	rim: simple	s	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>rim: simple</a>
+sh	rim: simple with horseshoe handle	sh
+sl	rim: slanted	sl
+sle	rim: slanted toward exterior	sle
+sli	rim: slanted toward interior	sli
+sp	spout
+sq	rim: square	sq	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>rim: square</a>
+sqe	rim: square rim on exterior edge
+sqer	rim: square rim on exterior edge, slightly restricted
+sr	rim: simple with rope decoration
+st	rim: straight
+v	rim: various
+t	handle: type unspecifed
+tch	handle: crescent-shaped
+tdp	handle: double pierced lugs
+tk	handle: knob
+tkr	handle: round knob
+tkv	handle: oval knob
+to	handle: other
+toe	handle: exterior oval
+tos	handle: oval in section
+tp	handle: pierced
+tr	handle: round
+trs	handle: double-strand round
+ts	handle: semi-circular, exterior
+tsi	handle: semi-circular, interior
+tsp	handle: single pierced lug
+tss	handle: simple
+tst	handle: strap, rectangular in section
+tt	handle: exterior tab
+tti	handle: interior tab
+x	base: type unspecified
+xd	base: disk base, type unspecified
+xdc	base: disk base, slightly concave	xdc	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>base: disk, slightly concave</a>
+xdcw	base: disk base, convex, wide
+xdf	base: disk base, flat	xdf	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>base: disk, flat</a>
+xdx	base: disk base, slightly convex	xdx	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>base: disk, slightly convex</a>
+xdw	base: disk base, wide
+xel	base: exterior ledge	xel	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>base: exterior ledge</a>
+xf	base: flat	xf	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>base: flat</a>
+xfc	base: flat, slightly concave or slight depression in center	xfc	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>base: flat, slightly concave</a>
+xfx	base: flat, slightly convex	xfx	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>base: flat, slightly convex</a>
+xh	base: hollow	xh	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>base: hollow</a>
+xhf	base: high footed	xhf	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>base: high footed</a>
+xhg	base: convex footed
+xlf	base: holed in center of base
+xo	base: other
+xp	base: pointed	xp	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>base: pointed</a>
+xrd	base: rounded	xrd	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>base: rounded</a>
+xrdc	base: round base, type c
+xrds	base: round base, type s
+xrg	base: ring	xrg	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>base: ring</a>
+xrh	base: high ring
+xrl	base: low ring
+xsb	base: string cut bowl
+xsc	base: string cut cup	xsc	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>base: string cut</a>
+xsf	base: solid footed	xsf	<a href="/mz/a/mz/texts/c1/secLex.htm" target=B>base: solid footed</a>
+xsfc	base: solid footed, convex
+xsfl	base: solid footed, low
+xsfv	base: solid footed, slightly concave
+
+##END OF PART2

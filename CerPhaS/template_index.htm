@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Shapes by Phase INDICES</title>
+	<link rel="stylesheet" href="CerPhaS_style.css">
+	<script type="text/javascript" src="CerPhaS_sorttable.js"></script>
+	<script>
+		function up(id) {
+			document.getElementById('update').innerHTML = document.getElementById(id).innerHTML;
+			return false;
+		}
+	</script>
+</head>
+
+
+<body>
+<div id="main"><a name="0"></a>
+	<br>
+	 
+	<center>
+		<h1>Indices and Synopses</h1>
+		<a href="/MZ/A/CERAMICS/TEXTS/A1/authorship.htm">Authorship</a><br>
+		Updated {{date}}<br>
+	</center>
+	<br>
+
+	<p><b>Introduction</b><br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This page provides complete indices of the sherds, items and q-items included in the Shapes by strata section, with an overview of the number and distribution according to phase, frequency, excavation unit, ware and shape.</p>
+	<a name="index-synopses"></a><br>
+	&nbsp;&nbsp;I<small>NDICES AND </small>S<small>YNOPSES</small><br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{filename_index}}#phase">Index by phase</a><br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{filename_index}}#stratum">Index by stratum</a><br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{filename_index}}#feature">Index by feature</a><br>
+	<div class="spc"></div>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{filename_index}}#ware">Index by ware</a><br>
+	<div class="spc"></div>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{filename_index}}#shapemain">Index by shape: overall</a><br>
+	<a name="index-only"></a><br>
+	&nbsp;&nbsp;I<small>NDICES </small>O<small>NLY</small><br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{filename_index}}#shapefamily">Index by shape: overall / family</a><br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{filename_index}}#shapesubfamily">Index by shape: overall / family / sub-family</a><br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{filename_index}}#shapetype">Index by shape: overall / family / sub-family / type</a><br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{filename_index}}#shapedetail">Index by shape: overall / family / sub-family / type / detail</a><br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{filename_index}}#shaperimbase">Index by shape: details (overall not defined)</a><br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{filename_index}}#shapecomprehensive">Index by shape: comprehensive</a><br>
+	<div class="spc"></div>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{filename_index}}#unit">Index by unit</a><br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{filename_index_vessel}}#sherd">Index by vessel and sherd</a><br>
+
+
+{%- if indices %}
+	{% for index,href,type,total,sub in indices %}
+<!-- - - - - - - - - - {{index}} - - - - - - - - - -->
+	{% if index == indices[0][0] %}<a id="{{href}}"></a><br><br><br>
+	{% else %}<a href="#0" id="{{href}}"><small><small>Back to top</small></small></a><br><br><br>{% endif %}
+	<b>Index by {{index}}</b><span class="small">&nbsp; &nbsp;(click on column headers to change sort order)</span>
+	<div class="wrapper">
+	<table class="sortable index">
+	<thead>
+		<tr>
+			<th class="sorttable_sorted col40p">{{type}}</th>
+			<th class="col100">Total</th>
+			<th class="sorttable_nosort col100">Percentage</th>
+			<th class="sorttable_nosort">Histogram</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for sub_type,sub_type_lex,sub_link,sort,sub_total,sherds in sub -%}
+		<tr>
+			<td{% if sort %} sorttable_customkey="{{sort}}"{% endif %}><a href="{{sub_link}}">{{sub_type}}</a></td>
+			<td><a href="#" onClick="up('{{sub_type.replace(' ','')+'-m'}}')" class="bl">{{sub_total}}</a></td>
+			<td>{{"{:.0%}".format(sub_total/total)}}</td>
+			<td><span class="meter" style="width: {{"{:.2%}".format(sub_total/total)}}"></span></td>
+		</tr>
+		{%- endfor %}
+	</tbody>
+	<tfoot>
+		<tr>
+			<td>Total</td>
+			<td>{{total}}</td>
+			<td>100%</td>
+			<td></td>
+		</tr>
+	</tfoot>
+	</table>
+	</div>
+	{%- endfor -%}
+	<a href="#0"><small><small>Back to top</small></small></a><br><br><br><br>
+	<a href="{{filename_index_vessel}}#sherd"><b>Index by {{vessel_sherd}}</b></a><br><br><br><br><br><br><br><br>
+
+{%- else %}{# Vessel and sherd index #}
+	{% for index,href,type,total,units in sherds_all %}
+<!-- - - - - - - - - - {{index}} - - - - - - - - - -->
+	<a id="{{href}}"></a><br><br><br>
+	<b>Index by {{index}}</b>
+	<p>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Go to:
+		{%- for unit,sub in units %}&nbsp; &nbsp; &nbsp;<a href="#{{unit}}">{{unit}}</a>{% endfor %}
+	</p>
+	<div class="wrapper">
+	<table class="index">
+	<thead>
+		<tr>
+			<th class="col25p">{{type}}</th>
+			<th class="col25p">Phase</th>
+			<th class="col25p">Ware</th>
+			<th class="col25p">Shape</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for unit,sub in units -%}
+		{% for sherd,sherd_link,phase,phase_link,ware,ware_link,main_shape,main_shape_link in sub -%}
+		{% if sherd==sub[0][0] %}<tr id="{{unit}}">{% else %}<tr>{% endif %}
+			<td><a href="{{sherd_link}}">{{sherd}}</a></td>
+			<td><a href="{{phase_link}}">Phase {{phase}}</a></td>
+			<td><a href="{{ware_link}}">{{ware}}</a></td>
+			<td><a href="{{main_shape_link}}">{{main_shape}}</a></td>
+		</tr>
+		{%- endfor %}
+		{%- endfor %}
+	</tbody>
+	</table>
+	</div>
+	<a href="#0"><small><small>Back to top</small></small></a><br><br><br><br>
+	{%- endfor %}
+{% endif %}
+
+
+
+</div>
+
+
+<div id="menu">
+	<b><i>Shapes</i></b><br>
+	<br>
+	<div id="update">
+		{%- if indices %}<span class="small">Click on totals to see list of sherds.</span>
+		{%- else %}<a href="index.htm#"><a href="#0"><small><small>Back to top</small></small></a></a>{% endif %}
+	</div>
+</div>
+
+
+{% if indices %}
+<div style="display:none;"> <!-- html for right menu preload-->
+{% for index,href,type,total,sub in indices %}{% if index %}
+{% for sub_type,sub_type_lex,sub_link,sort,sub_total,sherds in sub -%}
+<div id="{{sub_type.replace(' ','')+'-m'}}">
+{%- block menu scoped -%}
+<a href="{{sub_link}}">{{sub_type.split(' - ')[0]}}</a>{% if sub_type_lex and sub_type_lex.lower() != sub_type.lower() %} ({{sub_type_lex}}){% endif %}
+<div class="small" id="menu-list"><br>{% for sherd,sherd_link in sherds -%}
+<a href="{{sherd_link}}">{{sherd}}</a><br>{# javascript link? #}
+{%- endfor %}</div><br>{% endblock menu %}
+</div>
+{%- endfor %}
+{%- endif %}{% endfor %}
+</div>
+{% endif %}
+
+</body>
+</html>

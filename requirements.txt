@@ -1,0 +1,4 @@
+# Python libraries required for the programs to run
+# Install with "python -m pip install -r requirements.txt"
+
+Jinja2
