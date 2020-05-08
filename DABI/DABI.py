@@ -138,7 +138,7 @@ def main():
     except KeyboardInterrupt:
         observer.stop()
     observer.join()
-    logger.info('\n\nProgram ended prematurely. Press ENTER to quit.')
+    logger.warning('Program ended prematurely. Press ENTER to quit.')
     logging.shutdown()
     input()
     sys.exit(1)

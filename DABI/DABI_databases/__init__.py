@@ -64,7 +64,7 @@ def parse_bibl(text, file_id, file, settings, authorship_dict):
             continue
 
         # @@@ for different summary entries
-        new_entry = re.fullmatch(r'@@@(?P<book>[A-Z]*) *', line)
+        new_entry = re.fullmatch(r'@@@(?P<book>[A-z]*) *', line)
         if new_entry:
             book = new_entry['book'].strip()
             if book not in books:

@@ -73,6 +73,7 @@ def init_logging(logfile, debug=False):
         logger.setLevel(logging.INFO)
     logging.addLevelName(35, 'PRINT')
     #logging.addLevelName(logging.ERROR, '[-]')
+    colorama.init()
 
     # console handler
     console_handler = logging.StreamHandler(stream=sys.stdout)
