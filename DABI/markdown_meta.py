@@ -62,6 +62,8 @@ class MetaPreprocessor(Preprocessor):
                     break  # no meta data - done
         if not meta.get('title') and meta.get('t'):
             meta['title'] = meta['t']
+        if not meta.get('date') and meta.get('d'):
+            meta['date'] = meta['d']
         if not meta.get('template') and meta.get('html'):
             meta['template'] = meta['html']
         self.md.Meta = meta

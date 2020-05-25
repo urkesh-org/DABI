@@ -17,7 +17,7 @@ class BaseFormatter(logging.Formatter):
         if not hasattr(record, '_edited') and record.levelname != 'PRINT':
             record._edited = True
             # format multiline messages 'nicely' to make it clear they are together
-            record.msg = record.msg.replace('\n', '\n  | ')
+            record.msg = str(record.msg).replace('\n', '\n  | ')
             record.args = tuple(arg.replace('\n', '\n  | ') if isinstance(arg, str) else
                                 arg for arg in record.args)
             
@@ -69,8 +69,6 @@ def init_logging(logfile, debug=False):
     """Customize log and send it to console and logfile"""
     
     logger = logging.getLogger()  # root logger
-    if debug:
-        logger.setLevel(logging.INFO)
     logging.addLevelName(35, 'PRINT')
     #logging.addLevelName(logging.ERROR, '[-]')
     colorama.init()
@@ -84,4 +82,3 @@ def init_logging(logfile, debug=False):
     file_handler = logging.FileHandler(logfile, mode='a')
     file_handler.setFormatter(TextFormatter())
     logger.addHandler(file_handler)
-

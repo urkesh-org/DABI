@@ -1,20 +1,22 @@
 # DABI: Digital Analysis of Bibliographical Information
 
-Generate static website from .md files and databases, using metadata and MarkDown.
+Generate static website from .md pages and .d databases, using metadata and MarkDown.
 
 
-## Website structure
+## Website structure in root directory
 
 ```
-./                      -->  input files, .md are processed with templates and databases
-./_DABI_config.ini      -->  configuration for DABI program
-./_DABI_log.txt         -->  log of DABI program
-./_databases/*/*.d      -->  databases for custom pages (bibliography, notes, etc)
-./_templates/*.html     -->  templates for generating the HTML from .md (written with jinja2 scripting)
-./_archives/            -->  old versions of website, NOT editable
+/_databases/*/*.d      -->  databases for custom pages (bibliography, notes, etc)
+/_templates/*.html     -->  templates for generating the HTML from .md (written with jinja2 scripting)
+/_website/*.*          -->  output of the program, NOT user editable
+/_archives/*.*         -->  old versions of website, NOT editable
+/_DABI.exe             -->  DABI program
+/_DABI.log             -->  log of DABI program
+/_DABI_config.ini      -->  configuration for DABI program
+/*.*                   -->  input files, .md are processed and converted to .htm, other files are hardlinked
 ```
 
-All filenames starting with "_" are ignored.
+All input filenames starting with "_" are ignored by the the program.
 
 
 
@@ -22,7 +24,7 @@ All filenames starting with "_" are ignored.
 
 All pages have metadata at the top followed by the content (separated by a couple of new lines).
 
-The metadata is in the format `KEY Value` for each line.
+The metadata is in the format `KEY value` for each line.
 
 The content is in MarkDown, see here for documentation: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
 Normal HTML is allowed.  
@@ -39,17 +41,35 @@ D date (if missing last file modification date will be used)
 T title
 S (optional) subtitle
 DE (optional) description, used for describing the page to Search Engines (as Google)
+HTML (optional) custom template
 
 
 
 ## Databases .d
 
 See inside "_databases/" for the description of each database.  
-The files are processed by the program and are available to the pages using `{database_ID}file_name` inside the content.  
-Example: `{B}Abusch2015Gilgamesh`  
-Output: `<a href="bibl.htm#Abusch2015Gilgamesh">Abusch 2015 Gilgamesh</a>`
+The files are processed by the program and are available to the templates in the `database_bibl` variable.
+The variable contain a list of `Bibliography` objects, one for each .d file:
+```
+class Bibliography:
+    ID: str
+    ID_full: str
+    OLD_ID: List[str]
+    AU: List[str]
+    AU_extra: str
+    Y: str
+    T: str
+    P: str
+    entries: List[BibliographyEntry]
 
-(advanced) For direct access to the data use the database name as a python class in jinja2.  
-Example: `{{ B.get('Abusch2015Gilgamesh').SA }}`  
-Output:  Summary Author of Abusch2015Gilgamesh  
+class BibliographyEntry:
+    sites: List[str]
+    SA: List[str]
+    SD: str
+    NR: List[str]
+    TO: List[str]
+    summary: str
+```
+
+To reference other entries: `{B}site/ID_of_the_entry` (e.g. `{B}R/Abusch2015Gilgamesh` ).
 

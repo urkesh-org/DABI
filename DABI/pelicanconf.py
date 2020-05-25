@@ -9,14 +9,13 @@ SITETITLE = ''  # 'Urkesh'
 #SITESUBTITLE = ''
 #SITE_DESCRIPTION = 'Structural, Digital and Philosophical Aspects of the Excavated Record'
 VERSION = '01'
-#AUTHOR = ''  # default Author
-#DEFAULT_METADATA = {'Title': 'No title',}
 
 DEFAULT_LANG = 'en'
 LOCALE = (DEFAULT_LANG, 'en', 'en_US', '')
 TIMEZONE = 'UTC'  # for Atom and RSS
 DEFAULT_DATE = 'fs'  # file system mtime
 DEFAULT_DATE_FORMAT = '%B %Y'
+#DEFAULT_METADATA = {'Title': 'No title',}
 
 # updated on program run
 MONTH = ''  # datetime.now().strftime('%B %Y').title()
@@ -25,20 +24,20 @@ YEAR = ''  # datetime.datetime.now().strftime("%Y")
 
 # --- File locations ---
 PATH = '.'  # current working directory, all paths are relative to this
-IGNORE_FILES = ['_*', '*/_*']  # ignore all files and directories starting with "_"
-OUTPUT_PATH = ''  # or OUTPUT_PATH = '_website/'
-DELETE_OUTPUT_DIRECTORY = False  # or DELETE_OUTPUT_DIRECTORY = True
+IGNORE_FILES = ['_*', '*/_*', 'web.config']  # ignore all files and directories starting with "_"
+OUTPUT_PATH = '_website/'
+DELETE_OUTPUT_DIRECTORY = False  # ATTENTION!
 RELATIVE_URLS = True
 READERS = {'html': None, 'htm': None, 'rst': None, 'markdown': None, 'mkd': None, 'mdown': None}  # only *.md rendering
-FILENAME_METADATA = '(?P<title>.*)'  # get title from filename
-PATH_METADATA = '(?P<path_no_ext>.*)\..*'  # also '(?P<path_no_file>.*?)[^/]*'
+FILENAME_METADATA = r'(?P<title>.*)'  # get default title from filename
+PATH_METADATA = r'^(?P<path_no_ext>(?P<folder>[^/\n]*)(^|\/).*)\..*$'  # get main folder and filename
 # USE_FOLDER_AS_CATEGORY = True  # example: 01 / Introduction / sidebartitle
 SLUGIFY_SOURCE = 'basename'  # slug = filename
 SLUG_REGEX_SUBSTITUTIONS = []
 
-STATIC_PATHS = []  # or STATIC_PATHS = ['']  # copy directly
-#STATIC_EXCLUDES = ['_*']
-#STATIC_CREATE_LINKS = True  # create hardlinks
+STATIC_PATHS = ['']  # copy directly
+# STATIC_EXCLUDES = ['_*']
+STATIC_CREATE_LINKS = True  # create hardlinks
 #STATIC_CHECK_IF_MODIFIED = True  # compare mtimes (instead of hardlinks)
 
 PAGE_PATHS = ['']
@@ -73,23 +72,25 @@ DIRECT_TEMPLATES = []  # ['index', 'menu_list', 'archives', 'categories', ..]
 # --- Theme --- https://docs.getpelican.com/en/stable/themes.html#common-variables
 THEME = '_templates'
 THEME_TEMPLATES_OVERRIDES = ['_templates']  # first import templates from here
+# TODO: custom default template ?
 #TEMPLATE_EXTENSIONS = ['.html']
 #THEME_STATIC_PATHS = ['static']  # files to copy directly to THEME_STATIC_DIR
 #THEME_STATIC_DIR = ''
 #CSS_FILE = 'main.css'
 #MENUITEMS = [(Title, URL)]
 
-# JINJA_ENVIRONMENT = {'trim_blocks': True, 'lstrip_blocks': True, 'extensions': []}  # custom extensions
+# JINJA_ENVIRONMENT = {'trim_blocks': True, 'lstrip_blocks': False, 'extensions': []}
 # JINJA_FILTERS = {'urlencode': urlencode_filter}
 
 # https://python-markdown.github.io/reference/#markdown
 MARKDOWN = {
     'extension_configs': {
         #'markdown.extensions.codehilite': {'css_class': 'highlight'},
-        'markdown.extensions.extra': {},
+        'markdown.extensions.extra': {},  # use <div markdown="1"> for markdown in HTML
         'markdown.extensions.meta': {},
         'markdown_meta': {},
-        'markdown.extensions.nl2br': {},
+        'markdown_comments': {},
+        # 'markdown.extensions.nl2br': {},  # line break on 
         'markdown.extensions.smarty': {'smart_angled_quotes': True},  # https://python-markdown.github.io/extensions/smarty/
         # 'markdown.extensions.toc': {},
         # 'markdown.extensions.tables': {},
@@ -101,7 +102,6 @@ MARKDOWN = {
 
 # --- DABI ---
 DATABASES_PATH = '_databases/'
-#DB_FORMATTED_FIELDS = ['S']  # see pelican FORMATTED_FIELDS (Markdown formatted)
 DATABASES_BOOKS = []
 
 
