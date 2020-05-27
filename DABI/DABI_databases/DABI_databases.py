@@ -162,7 +162,7 @@ def parse_bibl(text, file_id, sites_abbr, settings, authorship_dict):
     for bibliography_entry in bibliography.entries:
         _md.reset()
         bibliography_entry.summary = _md.convert(bibliography_entry.summary)
-        bibliography_entry.summary = linker_regex.sub(replace_link_match, bibliography_entry.summary)
+        bibliography_entry.summary = linker_regex.sub(replace_link_match(sites_abbr), bibliography_entry.summary)
     
     return bibliography
 
@@ -239,11 +239,6 @@ def fetch_dabi_data(generators):
             generator.context['errors'] = errors
 
 
-def update_localcontext(page_generator, content):
-    content.site = content.settings['SITE'].get(content.folder,'')
-    return 'test'
-
-
 def replace_link_content(content):
     """Update link {B} in content and remove comments."""
     if isinstance(content, contents.Static):
@@ -270,6 +265,11 @@ def replace_link_match(sites_abbr):
 
 def add_spaces_to_id(id):
     return re.sub(r'\B([A-Z]|[0-9]{4})', r' \1', id)
+
+
+def update_localcontext(page_generator, content):
+    content.site = content.settings['SITE'].get(content.folder, content.settings['SITE'][''])
+    return 'test'
 
 
 def register():

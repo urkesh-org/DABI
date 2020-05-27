@@ -51,9 +51,9 @@ def get_settings(settings_file):
 
             # print more information if "DEBUG" in config
             if 'DEBUG' in ini_parser['DEFAULT']:
-                logger.parent.setLevel(logging.INFO)
+                logger.parent.setLevel(logging.DEBUG)
             else:
-                logger.parent.setLevel(logging.WARNING)
+                logger.parent.setLevel(logging.INFO)
             
             logger.info(f'Importing configuration for "{settings.get("SITENAME")}".')
             
