@@ -102,8 +102,8 @@ def main():
     last_mtime_settings = 0
 
     # auto-reload observer
-    my_handler = FileChangedHandler(patterns=['*'], ignore_patterns=['*/_website/*', LOG_FILE], ignore_directories=True,
-                                    case_sensitive=False)
+    my_handler = FileChangedHandler(patterns=['*'], ignore_patterns=['*/_website/*', LOG_FILE, '*/*.filepart'],
+                                    ignore_directories=True, case_sensitive=False)
     observer = Observer()
     observer.schedule(my_handler, '.', recursive=True)
     observer.start()
@@ -135,6 +135,8 @@ def main():
                 raise
             except UserWarning as err:
                 logger.critical(err)
+            except FileNotFoundError as err:
+                logger.debug(f'FileNotFoundError exception: {err}')
             except Exception as err:  # logs any error with Traceback
                 logger.critical(err, exc_info=True)
 

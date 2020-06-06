@@ -1,5 +1,5 @@
-import sys
 from pathlib import Path
+import codecs
 import re
 import logging
 import dataclasses
@@ -7,7 +7,6 @@ from typing import List
 from pelican import signals, settings, contents
 from markdown import Markdown
 from pelican.generators import ArticlesGenerator, PagesGenerator
-from pelican.utils import pelican_open
 
 logger = logging.getLogger(__name__)
 
@@ -84,7 +83,7 @@ def parse_bibl(text, file_id, sites_abbr, settings, authorship_dict):
         # @@@ for different summary entries
         new_entry = re.fullmatch(r'@@@(?P<sites>.*)', line)
         if new_entry:
-            sites = list(map(str.strip, new_entry.group('sites').strip().strip(',;').split(';')))
+            sites = list(map(str.strip, new_entry.group('sites').strip().strip(',;').split('; ')))
             for site in sites:
                 if site not in sites_abbr:
                     raise UserWarning(f'unrecognised @@@ site reference "{site}" (line {line_number})')
@@ -127,7 +126,7 @@ def parse_bibl(text, file_id, sites_abbr, settings, authorship_dict):
                     if match:
                         text = match.group(1)
                         setattr(bibliography, 'AU_extra', match.group('extra'))
-                text = filter(None, map(str.strip, text.strip().strip(',;').split(';')))
+                text = filter(None, map(str.strip, text.strip().strip(',;').split('; ')))
                 getattr(bibliography, key).extend(text)
         else:
             if not bibliography.entries:
@@ -137,7 +136,7 @@ def parse_bibl(text, file_id, sites_abbr, settings, authorship_dict):
                     raise UserWarning(f'found multiple keys "{key}" for same entry')
                 setattr(bibliography.entries[-1], key, text)
             else:  # list entries
-                getattr(bibliography.entries[-1], key).extend(filter(None, map(str.strip, text.strip(',;').strip().split(';'))))
+                getattr(bibliography.entries[-1], key).extend(filter(None, map(str.strip, text.strip(',;').strip().split('; '))))
 
     # 'AU', 'T', 'Y', '@@@' are mandatory
     missing = []
@@ -190,24 +189,26 @@ def fetch_dabi_data(generators):
                 if re.search(r' [A-z]{2}[0-9]{3}', file_id):  # ignore files with date in filename (old file version)
                     continue
                 raise UserWarning(f'spaces in filename allowed ONLY for dates (ZA000 format)')
-
-            with file.open(mode='r', encoding='utf-8-sig') as handler:
-                bibliography = parse_bibl(handler.read(), file_id, sites_abbr, settings, authorship_dict)
-                for entry in bibliography.entries:
-                    for site in entry.sites:
-                        if bibliography not in database_bibl[site]:
-                            database_bibl[site].append(bibliography)
             
-        except UnicodeError as err:  # ? automatically convert to utf-8
-            error = f'"{file.name}": bad characters in file, convert to UTF-8 (UnicodeError: {err}).'
-            logger.error(error)
-            errors.append(error)
-        except UserWarning as error:
+            try:
+                with file.open(mode='r', encoding='utf-8-sig') as handler:
+                    bibliography = parse_bibl(handler.read(), file_id, sites_abbr, settings, authorship_dict)
+                    for entry in bibliography.entries:
+                        for site in entry.sites:
+                            if bibliography not in database_bibl[site]:
+                                database_bibl[site].append(bibliography)
+            
+            except UnicodeError as err:
+                # try to convert to utf-8 from Windows-1252
+                with codecs.open(file, mode='r', encoding='cp1252') as f:
+                    text = f.read()
+                with codecs.open(file, mode='w', encoding='utf-8') as f:
+                    f.write(text)
+            
+        except (UserWarning, OSError, UnicodeError) as error:
             error = f'"{file.name}": {error}.'
             logger.error(error)
             errors.append(error)
-        except IOError:
-            raise
 
     # ? website = True if filename.endswith('.dw') else False
 
