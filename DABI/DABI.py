@@ -44,10 +44,7 @@ def get_settings(settings_file):
             # each section is the path of a custom site settings
             settings.update({'SITE': dict()})
             for section in ini_parser:
-                if section != 'DEFAULT':
-                    settings['SITE'].update({section: dict(ini_parser.items(section))})
-                else:
-                    settings['SITE'].update({'': dict(ini_parser.items(section))})  # default site
+                settings['SITE'].update({section: dict(ini_parser.items(section))})
 
             # print more information if "DEBUG" in config
             if 'DEBUG' in ini_parser['DEFAULT']:

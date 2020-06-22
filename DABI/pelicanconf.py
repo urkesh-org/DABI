@@ -69,10 +69,11 @@ DIRECT_TEMPLATES = []  # ['index', 'menu_list', 'archives', 'categories', ..]
 
 
 
-# --- Theme --- https://docs.getpelican.com/en/stable/themes.html#common-variables
+# --- Theme ---  https://docs.getpelican.com/en/stable/themes.html#common-variables
 THEME = '_templates'
 THEME_TEMPLATES_OVERRIDES = ['_templates']  # first import templates from here
 # TODO: custom default template ?
+#       see https://github.com/getpelican/pelican-themes/blob/master/graymill/templates/base.html
 #TEMPLATE_EXTENSIONS = ['.html']
 #THEME_STATIC_PATHS = ['static']  # files to copy directly to THEME_STATIC_DIR
 #THEME_STATIC_DIR = ''
@@ -80,6 +81,7 @@ THEME_TEMPLATES_OVERRIDES = ['_templates']  # first import templates from here
 #MENUITEMS = [(Title, URL)]
 
 # JINJA_ENVIRONMENT = {'trim_blocks': True, 'lstrip_blocks': False, 'extensions': []}
+# JINJA_GLOBALS = {'var': var}
 # JINJA_FILTERS = {'urlencode': urlencode_filter}
 
 # https://python-markdown.github.io/reference/#markdown
@@ -111,11 +113,6 @@ PLUGINS = ['DABI_databases']  # also: 'optimize_images', 'minify'
 
 
 
-#LOG_FILTER = [(logging.WARN, 'TAG_SAVE_AS is set to False')]  # logs to be ignored
-
-
-
-
 # Cache only in memory
 LOAD_CONTENT_CACHE = False
 #CONTENT_CACHING_LAYER = 'reader'  # cache raw content
@@ -124,19 +121,9 @@ LOAD_CONTENT_CACHE = False
 #CACHE_PATH = '_cache'  # ? in the program folder
 
 
-
 # NO Feed generation
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-
-
-
-""" Pelican themes:
-https://docs.getpelican.com/en/4.2.0/themes.html
-https://github.com/getpelican/pelican-themes/blob/master/graymill/templates/base.html
-"""
-
-
