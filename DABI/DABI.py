@@ -149,9 +149,8 @@ def main():
     logging.shutdown()
     sys.exit(1)
     
-    # TODO?: convert to UTF automatically
-    # TODO: update db only if *.d modified
-    # TODO: 404, sub-Bibl redirect to Bibl, anchor in Bibl
+    # TODO: convert pages to UTF automatically
+    # TODO: 404, sub-Bibl rename to Bibl
     
     '''
     if len(sys.argv) > 1:

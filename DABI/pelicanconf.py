@@ -42,7 +42,6 @@ STATIC_CREATE_LINKS = True  # create hardlinks
 
 PAGE_PATHS = ['']
 #PAGE_EXCLUDES = ['_*']
-#PAGE_DIRNAME = '.'  # TODO: what does it do?
 PAGE_URL = '{path_no_ext}.htm'
 PAGE_SAVE_AS = '{path_no_ext}.htm'  # or '{path_no_ext}/index.html'
 #PAGE_LANG_URL = '{path_no_ext}-{lang}.htm'
@@ -62,11 +61,6 @@ TAG_SAVE_AS = ''
 CATEGORY_SAVE_AS = ''
 DIRECT_TEMPLATES = []  # ['index', 'menu_list', 'archives', 'categories', ..]
 #TEMPLATE_PAGES = {'_templates/sitemap.xml': 'sitemap.xml'}  # custom direct_templates
-
-
-######INTRASITE_LINK_REGEX = '[{|](?P<what>.*?)[|}]'  # TODO: implement {B}
-
-
 
 
 # --- Theme ---  https://docs.getpelican.com/en/stable/themes.html#common-variables
@@ -108,7 +102,7 @@ DATABASES_BOOKS = []
 
 
 # --- Plugins ---
-PLUGIN_PATHS = [Path(__file__).parent]  # same as program path  # TODO: check if it works in .exe bundle
+PLUGIN_PATHS = ['']  # same as program path
 PLUGINS = ['DABI_databases']  # also: 'optimize_images', 'minify'
 
 
