@@ -39,6 +39,7 @@ The HTML headers and menu are added automatically using the templates.
 AU author(s), separated by semicolon
 D date (if missing last file modification date will be used)
 T title
+TO (optional) topics (semicolon separated)
 S (optional) subtitle
 DE (optional) description, used for describing the page to Search Engines (as Google)
 HTML (optional) custom template
@@ -48,28 +49,7 @@ HTML (optional) custom template
 ## Databases .d
 
 See inside "_databases/" for the description of each database.  
-The files are processed by the program and are available to the templates in the `database_bibl` variable.
-The variable contain a list of `Bibliography` objects, one for each .d file:
-```
-class Bibliography:
-    ID: str
-    ID_full: str
-    OLD_ID: List[str]
-    AU: List[str]
-    AU_extra: str
-    Y: str
-    T: str
-    P: str
-    entries: List[BibliographyEntry]
-
-class BibliographyEntry:
-    sites: List[str]
-    SA: List[str]
-    SD: str
-    NR: List[str]
-    TO: List[str]
-    summary: str
-```
+The files are processed by the program and are available to the templates in the `database_bibl`, `chapters`, and `database_topics` variable.
 
 To reference other entries: `{B}site/ID_of_the_entry` (e.g. `{B}R/Abusch2015Gilgamesh` ).
 

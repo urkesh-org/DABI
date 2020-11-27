@@ -5,15 +5,18 @@ import logging
 import locale
 import dataclasses
 import copy
+from itertools import groupby
 from datetime import datetime
 from typing import List
+import jinja2
 from markdown import Markdown
 from pelican import signals
 
 logger = logging.getLogger(__name__)
 
-BIBL_LINKER_REGEX = re.compile(r"{B}(?P<site>[\w-]*?)/(?P<id>[\w\-&]*)")  # [A-Za-zÀ-ÖØ-öø-ÿ]
 META_REGEX = re.compile(r'^(?P<key>[A-Z]+)(\s|$)(?P<value>.*)')
+LINKER_REGEX = re.compile(r"{(?P<page>[BN])}(?P<site>[\w-]*?)/(?P<id>[\w\-&\.]*(?<!\.))")  # \w or [A-Za-zÀ-ÖØ-öø-ÿ]
+HTML_TAG_REGEX = re.compile(r'<[^>]+>')
 file_extensions = ['d']
 
 
@@ -40,7 +43,7 @@ class Bibliography:
     OLD_ID: List[str] = dataclasses.field(default_factory=list)
     AU: List[str] = dataclasses.field(default_factory=list)  # Authors
     AU_extra: str = ''
-    # TODO: W website
+    W: bool = False  # is it a Website
     Y: str = ''  # Year
     T: str = ''  # Title
     P: str = ''  # Publication
@@ -84,27 +87,91 @@ class Chapter:
     site: str = ''
 
 
-def bibl_linker(text, ID, sites_abbr, database_bibl, errors=None, add_to_NR=None):
+def linker(text, ID, sites_abbr, database_bibl, chapters, errors=None, add_to_NR=None):
+    """Convert {B|N} links"""
     def capture_and_replace_link_match(match):
-        site = sites_abbr.get(match.group("site"), match.group("site"))
-        id_text = match.group("id")
+        site = sites_abbr.get(match.group('site'), match.group('site'))
+        id_text = match.group('id')
+        error = False
+        
+        if match.group('page') == 'B':
+            try:
+                bibliography = next(b for b in database_bibl if b.site == site and b.ID == id_text)
+                ref = bibliography.REF
+                if add_to_NR:
+                    bibliography.entries[0].NR.append(add_to_NR)
+            except StopIteration:  # entry not in bibliography
+                error = True
+                ref = re.sub(r'\B([A-Z]|[0-9]{4}|&|-)', r' \1', id_text)  # add spaces
 
-        try:
-            bibliography = next(b for b in database_bibl if b.site == site and b.ID == id_text)
-            ref = bibliography.REF
-            if add_to_NR:
-                bibliography.entries[0].NR.append(add_to_NR)
+            new_text = f'<a href="/{site}/bibl.htm#{id_text}">{ref}</a>'
+                
+        else:  # match.group('page') == 'N':
+            ch = id_text.split('.', 1)[0]
+            try:
+                chapter = next(chapter for chapter in chapters if chapter.site == site and chapter.ID == ch)
+                sub_chapter = next(sub_chapter for sub_chapter in chapter.sub_chapters if sub_chapter.ID == id_text)
+            except StopIteration:  # entry not in notes
+                error = True
+            
+            new_text = f'<a href="/{site}/Notes/{ch.zfill(2)}.htm#{id_text}">{id_text}</a>'
+        
+        if error:
+            error_text = f'"{ID}": link reference "{match.group()}" not found in database.'
+            logger.error(error_text)
+            if errors is not None:
+                errors.append(error_text)
+            
+        return new_text
+        
+    return LINKER_REGEX.sub(capture_and_replace_link_match, text)
 
-        except StopIteration:  # entry not in bibliography
-            error = f'"{ID}": bibliography reference "{site}/{id_text}" not found.'
-            logger.error(error)
-            if errors:
-                errors.append(error)
-            ref = re.sub(r'\B([A-Z]|[0-9]{4}|&|-)', r' \1', id_text)
 
-        return f'<a href="{{filename}}/{site}/bibl.md#{id_text}">{ref}</a>'
+def add_filters_to_context(page_generator):
+    """Custom functions for Jinja2 templates"""
+    def filter_site(database, site=''):
+        return [entry for entry in database if entry.site == site]
+    
+    def select_chapter(chapters, ch, site=''):
+        return next(chapter for chapter in chapters if chapter.site == site and chapter.ID == ch)
+    
+    def author_bibl_list(database_bibl):
+        """generate short author index"""
+        database_bibl_short = dict()  # {AU: [bibliography, ], }
+        for bibliography in database_bibl:
+            for AU in bibliography.AU:
+                database_bibl_short[AU] = database_bibl_short.get(AU, []) + [bibliography]
+            # ? AU + ' <small>(with ..)' / (eds.)
+        return [(AU, database_bibl_short[AU]) for AU in sorted(database_bibl_short, key=locale.strxfrm)]
+    
+    def filter_SA(database_bibl, author):
+        for bibl in database_bibl:
+            if any(author == SA.text for b_entry in bibl.entries for SA in b_entry.SA):
+                yield bibl
 
-    return BIBL_LINKER_REGEX.sub(capture_and_replace_link_match, text)
+    def filter_NA(chapters, author):
+        for chapter in chapters:
+            for sub_chapter in chapter.sub_chapters:
+                for i, note in enumerate(sub_chapter.notes):
+                    if any(author == NA.text for NA in note.NA):
+                        letter = chr(97 + i)  # letter note reference
+                        yield note, letter
+    
+    def short_title(title):
+        return HTML_TAG_REGEX.sub('', title.split('<br>',1)[0].replace('&ldquo;','').replace('&rdquo;',''))
+
+    @jinja2.environmentfilter
+    def sorted_groupby(environment, value, attribute):
+        expr = jinja2.filters.make_attrgetter(environment, attribute)
+        return [jinja2.filters._GroupTuple(key, list(values)) for key, values in groupby(value, expr)]
+    
+    # add filters to context
+    page_generator.env.filters.update({'filter_site': filter_site,
+                                       'select_chapter': select_chapter,
+                                       'author_bibl_list': author_bibl_list,
+                                       'filter_SA': filter_SA, 'filter_NA': filter_NA,
+                                       'short_title': short_title,
+                                       'sorted_groupby': sorted_groupby, 'chr': chr})
 
 
 def parse_authorship(file):
@@ -139,7 +206,7 @@ def parse_authorship(file):
 
 
 def parse_chapters(path):
-    """Generate chapters list from tab separated files."""
+    """Generate chapters list from one space separated files."""
     chapters = []
      
     for file in path.glob('*.txt'):
@@ -152,32 +219,38 @@ def parse_chapters(path):
                     if line.startswith(';') or not line:  # skip comments or empty lines
                         continue
                     try:
-                        number, title = map(str.strip, line.split('\t', 1))
+                        number, title = map(str.strip, line.split(' ', 1))
                         number = number.strip('.')
                     except ValueError:
-                        logger.error(f'"{file}": failed to parse line {line_number}.')
+                        logger.error(f'"{file}": missing chapter title (line {line_number}).')
                         continue
                     
-                    if '.' not in number:  # if is a chapter
+                    if '.' not in number:  # if chapter
                         chapters.append(Chapter(ID=number, title=title, site=file.stem))
-                    else:  # if is a sub-chapter
+                        chapters[-1].sub_chapters.append(SubChapter(ID=f'{number}', title=f''))
+                    else:  # if sub-chapter
                         chapters[-1].sub_chapters.append(SubChapter(ID=number, title=title))
 
         except (IndexError, OSError, UnicodeError) as err:
             raise UserWarning(f'"{file}": Can\'t parse chapters ({err}).')
-    
+        
+    # TODO: more error corrections? (eg: missing chapters, double references)
     return chapters
 
 
 def parse_date(date):
+    """Parse 'day Month Year' date, day is used only for sorting"""
     try:
-        return datetime.strptime(date, '%d %B %Y').date()
+        datetime.strptime(date, '%Y')
     except ValueError:
-        return datetime.strptime(date, '%B %Y').date()
+        try:
+            return datetime.strptime(date, '%B %Y').replace(hour=1)
+        except ValueError:
+            return datetime.strptime(date, '%d %B %Y').replace(hour=2)
 
 
 def parse_bibl(text, file_id, sites_abbr, settings, authorship_dict):
-    """ Parse a Database file, :return: Bibliography object."""
+    """Parse a Database file, :return: Bibliography object."""
     bibliography = Bibliography(ID=file_id)
     notes = []
     
@@ -230,7 +303,7 @@ def parse_bibl(text, file_id, sites_abbr, settings, authorship_dict):
         value = meta.group('value').strip()
         
         if not block:
-            if key not in ('OLD_ID', 'AU', 'Y', 'T', 'P'):
+            if key not in ('OLD_ID', 'AU', 'W', 'Y', 'T', 'P'):
                 raise UserWarning(f'unrecognised metadata key "{key}" (line {line_number})')
             
             if key in ('Y', 'T', 'P'):  # str entries
@@ -240,8 +313,12 @@ def parse_bibl(text, file_id, sites_abbr, settings, authorship_dict):
                     setattr(bibliography, key, getattr(bibliography, key) + '<br>' + value)
             
             else:  # list entries
+                if key == 'W':
+                    setattr(bibliography, 'W', True)
+                    key = 'AU'
+                    
                 if key == 'AU':
-                    match_AU_extra = re.fullmatch(r'(.*)\s?\((?P<extra>.*?)\)\s?\.?', value)
+                    match_AU_extra = re.fullmatch(r'(.*)\s+\((?P<extra>.*?)\)\s?\.?', value)
                     if match_AU_extra:
                         value = match_AU_extra.group(1)
                         setattr(bibliography, 'AU_extra', match_AU_extra.group('extra'))
@@ -252,11 +329,16 @@ def parse_bibl(text, file_id, sites_abbr, settings, authorship_dict):
         elif block == 'summary':
             if key not in ('SA', 'SD', 'NR', 'TO'):
                 raise UserWarning(f'unrecognised metadata key "{key}" (line {line_number})')
-            
+
             if key in ('SD',):  # str entries
                 if getattr(bibliography.entries[-1], key):
                     raise UserWarning(f'found multiple keys "{key}" for same entry (line {line_number})')
-                        
+                if key == 'SD' and value:
+                    try:
+                        value = parse_date(value)
+                    except ValueError:
+                        raise UserWarning(f'can\'t parse date "{value}" (line {line_number})')
+                
                 setattr(bibliography.entries[-1], key, value)
 
             else:  # list entries
@@ -278,7 +360,7 @@ def parse_bibl(text, file_id, sites_abbr, settings, authorship_dict):
                     raise UserWarning(f'found multiple keys "{key}" for same entry (line {line_number})')
                 if key == 'ND' and value:
                     try:
-                        value = parse_date(value)  # .strftime('%B %Y')
+                        value = parse_date(value)
                     except ValueError:
                         raise UserWarning(f'can\'t parse date "{value}" (line {line_number})')
                     
@@ -290,7 +372,7 @@ def parse_bibl(text, file_id, sites_abbr, settings, authorship_dict):
                     values = [authorship_dict.get(NA, TextWithLink(NA)) for NA in values]
                 getattr(notes[-1], key).extend(values)
     
-    # Render Markdown in text, T, P
+    # Render Markdown in text, AU, T, P
     _md = Markdown(**settings['MARKDOWN'])
     _md.preprocessors.deregister('meta')  # no metadata extraction
     
@@ -305,18 +387,18 @@ def parse_bibl(text, file_id, sites_abbr, settings, authorship_dict):
         if missing:
             raise UserWarning(f'missing mandatory keys "{", ".join(missing)}"')
 
+        bibliography.AU = [_md.convert(AU)[len('<p>'):-len('</p>')] for AU in bibliography.AU]  # [len('<p>'):-len('</p>')]
         bibliography.T = _md.convert(bibliography.T)
         bibliography.P = _md.convert(bibliography.P)
         
-        # add REF from ID if missing: REF = Authors + year
+        # generate REF from ID
         if not bibliography.REF:
-            try:
-                bibliography.REF = re.search('^.*[0-9]{4}', bibliography.ID).group(0)
-            except AttributeError:
-                bibliography.REF = bibliography.ID
-
-            bibliography.REF = re.sub(r'\B([A-Z]|[0-9]{4}|&|-)', r' \1', bibliography.REF)  # add spaces
-    
+            bibliography.REF = re.sub(r'\B([A-Z]|[0-9]{4}|&|-)', r' \1', bibliography.ID)  # add spaces
+            # try:
+            #     bibliography.REF = re.search('^.*[0-9]{4}', bibliography.ID).group(0)
+            # except AttributeError:
+            #     bibliography.REF = bibliography.ID
+            
     else:  # no bibliography
         return None, notes
     
@@ -342,7 +424,7 @@ def fetch_dabi_data(page_generator):
         if not file.is_file() or file.suffix[1:] not in file_extensions:
             continue
         try:
-            # TODO: cache already parsed content with mtime
+            # TODO: ? cache already parsed content with mtime
             file_id = file.stem
             if ' ' in file_id:
                 if re.search(r' [A-z]{2}[0-9]{3}', file_id):  # ignore files with date in filename (old file version)
@@ -391,18 +473,21 @@ def fetch_dabi_data(page_generator):
             logger.error(error)
             errors.append(error)
     
-    # convert {B} links and add them to NR
+    # convert {B|N} links and add them to NR
     for bibliography in database_bibl:
         for bibliography_entry in bibliography.entries:
-            bibliography_entry.text = bibl_linker(bibliography_entry.text, bibliography.ID, sites_abbr, database_bibl, errors)
+            bibliography_entry.text = linker(bibliography_entry.text, bibliography.ID, sites_abbr, database_bibl, chapters, errors)
     for chapter in chapters:
         for sub_chapter in chapter.sub_chapters:
             for note in sub_chapter.notes:
                 add_to_NR = TextWithLink(note.ID, link=f'Notes/{note.ID.split(".", 1)[0].zfill(2)}.htm#{note.ID}')
-                note.text = bibl_linker(note.text, note.file_ID, sites_abbr, database_bibl, errors, add_to_NR=add_to_NR)
-
-    # sort bibliography by ID and Y
-    database_bibl.sort(key=lambda b: (locale.strxfrm(b.ID), locale.strxfrm(b.Y)))  # TODO: bool(b.W)
+                note.text = linker(note.text, note.file_ID, sites_abbr, database_bibl, chapters, errors, add_to_NR=add_to_NR)
+            
+            # sort notes by ND
+            sub_chapter.notes.sort(key=lambda note: note.ND or datetime(1, 1, 1))
+            
+    # sort bibliography by ID and Y; W for last
+    database_bibl.sort(key=lambda b: (b.W, locale.strxfrm(b.ID), locale.strxfrm(b.Y)))
     
     # generate topic index
     database_topics = []
@@ -410,49 +495,37 @@ def fetch_dabi_data(page_generator):
         for entry in bibliography.entries:
             for TO in entry.TO:
                 database_topics.append(Topic(TO=TO, section='Bibliography', text=bibliography.REF,
-                                             link='bibl.htm#'+bibliography.ID, site=bibliography.site))
-    database_topics.sort(key=lambda t: (locale.strxfrm(t.TO), locale.strxfrm(t.section), locale.strxfrm(t.text)))
+                                             link=f'bibl.htm#{bibliography.ID}', site=bibliography.site))
+    for chapter in chapters:
+        for sub_chapter in chapter.sub_chapters:
+            for note in sub_chapter.notes:
+                for TO in note.TO:
+                    database_topics.append(Topic(TO=TO, section='Notes', text=note.ID,
+                                                 link=f'Notes/{chapter.ID.zfill(2)}.htm#{note.ID}', site=note.site))
     
-    def filter_site(database, site=''):
-        """Jinja2 filter, select bibliography for each site"""
-        return [b for b in database if site == b.site]
-    
-    def author_bibl_list(database_bibl):
-        """Jinja2 filter, author index"""
-        database_bibl_short = dict()  # {AU: [bibliography, ], }
-        for bibliography in database_bibl:
-            for AU in bibliography.AU:
-                database_bibl_short[AU] = database_bibl_short.get(AU, []) + [bibliography]
-            # ? AU + ' <small>(with ..)' / (eds.)
-        return [(AU, database_bibl_short[AU]) for AU in sorted(database_bibl_short, key=locale.strxfrm)]
-    
-    def short_title(title):
-        return title.split('<br>',1)[0].replace('&ldquo;','').replace('&rdquo;','')
-
     # add databases and filters to context
     page_generator.context['database_bibl'] = database_bibl
     page_generator.context['chapters'] = chapters
     page_generator.context['database_topics'] = database_topics
     page_generator.context['errors'] = errors
-    page_generator.env.filters.update({'filter_site': filter_site,
-                                       'author_bibl_list': author_bibl_list,
-                                       'short_title': short_title})
+    add_filters_to_context(page_generator)
 
 
 def update_pages(page_generator):
-    """Update {B} links in content, save references in bibliography, save topics"""
-    
+    """Update {B|N} links in content, save references in bibliography, save topics"""
     sites_abbr = {page_generator.settings['SITE'][site].get('ABBR', ''): site for site in page_generator.settings['SITE']}
     database_bibl = page_generator.context['database_bibl']
+    chapters = page_generator.context['chapters']
     database_topics = page_generator.context['database_topics']
     
     for page in page_generator.pages:
         # content.content is read-only, edit content._content
         if not page._content:
             continue
-        page._content = bibl_linker(page._content, page.save_as, sites_abbr, database_bibl)
-
-    # TODO: save topics, ? how to choose Section
+        page._content = linker(page._content, page.save_as, sites_abbr, database_bibl, chapters)
+    
+    # TODO: save TO in database_topics, ? how to choose Section
+    database_topics.sort(key=lambda t: (locale.strxfrm(t.TO), locale.strxfrm(t.section), locale.strxfrm(t.text)))
 
 
 def update_localcontext(page_generator, content):
@@ -469,18 +542,6 @@ def register():
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 '''
 def initialized(pelican):
     """Set custom Pelican settings."""
@@ -490,51 +551,3 @@ def initialized(pelican):
 #signals.initialized.connect(initialized)
 '''
 
-'''
-class DabiReader(BaseReader):
-    """Reader for .d files. Written using the core MarkdownReader as a template."""
-    file_extensions = ['d']
-
-    #def __init__(self, *args, **kwargs):
-    #    super().__init__(*args, **kwargs)
-
-    def _parse(self, meta):
-        """Process the metadata dict from top to bottom, textilizing the value of the keys 'S', 'T' and 'P'."""
-        output = {}
-        for name, value in meta.items():
-            name = name.lower()
-            # if name == "text":
-            #    value = textile(value)  # TODO: run Markdown on it
-            output[name] = self.process_metadata(name, value)
-        return output
-
-    # pelican read method: takes a filename, returns content and metadata.
-    def read(self, source_path):
-        """Pelican method: take filename, return content and metadata of dabi_data files."""
-
-        with pelican_open(source_path) as text:
-
-            parts = text.split('----', 1)
-            if len(parts) == 2:
-                headerlines = parts[0].splitlines()
-                headerpairs = map(lambda l: l.split(':', 1), headerlines)
-                headerdict = {pair[0]: pair[1].strip()
-                              for pair in headerpairs
-                              if len(pair) == 2}
-                metadata = self._parse(headerdict)
-                content = parts[1]
-            else:
-                metadata = {}
-                content = text
-
-            ## read md file - create a MarkdownReader
-            #md_reader = MarkdownReader(self.settings)
-            #content, metadata = md_reader.read(md_filename)
-
-        return content, metadata
-
-def add_reader(readers):
-    readers.reader_classes['d'] = DabiReader
-
-#signals.readers_init.connect(add_reader)
-'''

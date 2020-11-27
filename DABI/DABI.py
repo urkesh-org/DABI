@@ -6,7 +6,6 @@
 #
 
 import sys
-from configparser import ConfigParser
 from pathlib import Path
 import time
 from datetime import datetime
@@ -150,7 +149,7 @@ def main():
     sys.exit(1)
     
     # TODO: convert pages to UTF automatically
-    # TODO: 404, sub-Bibl rename to Bibl
+    # TODO: 404, nav, sub-Bibl rename to Bibl
     
     '''
     if len(sys.argv) > 1:
