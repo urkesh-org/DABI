@@ -147,34 +147,6 @@ def main():
     observer.join()
     logging.shutdown()
     sys.exit(1)
-    
-    # TODO: convert pages to UTF automatically
-    # TODO: 404, nav, sub-Bibl rename to Bibl
-    
-    '''
-    if len(sys.argv) > 1:
-    def livereload(c):
-        """Automatically reload browser tab upon file modification."""
-        from livereload import Server
-        build(c)
-        server = Server()
-        # Watch the base settings file
-        server.watch(CONFIG['settings_base'], lambda: build(c))
-        # Watch content source files
-        content_file_extensions = ['.md', '.rst']
-        for extension in content_file_extensions:
-            content_blob = '{0}/**/*{1}'.format(SETTINGS['PATH'], extension)
-            server.watch(content_blob, lambda: build(c))
-        # Watch the theme's templates and static assets
-        theme_path = SETTINGS['THEME']
-        server.watch('{}/templates/*.html'.format(theme_path), lambda: build(c))
-        static_file_extensions = ['.css', '.js']
-        for extension in static_file_extensions:
-            static_file = '{0}/static/**/*{1}'.format(theme_path, extension)
-            server.watch(static_file, lambda: build(c))
-        # Serve output path on configured port
-        server.serve(port=CONFIG['port'], root=CONFIG['deploy_path'])
-    '''
 
 
 if __name__ == '__main__':

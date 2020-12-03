@@ -1,0 +1,12 @@
+AU Kelly-Buccellati, Marilyn
+Y 2005
+T "Urkesh and the North: Recent Discoveries"
+P in *Studies on the Civilization and Culture of the Nuzi and the Hurrians* 15, General Studies and Excavations at Nuzi, 11/1 pp. 3-28
+
+@@@R
+SA gB
+SD July 2013
+
+A description of cultural elements that connect Urkesh with the northerly regions, including the original publication of seal A15.270, used as an illustration on the cover of the Italian edition of "*Quando in alto i cieli...*". See the full text in the [Urkesh website](urkesh.org).
+
+;the direct link to the article is not working, so I put a simple generic reference to Urkesh.org

@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}{{ page.t }} – {{ page.site.SITENAME }}{% endblock %}
+{% block main -%}
+
+
+<div style="text-align:center">
+<h3><i>{{ page.site.SITETITLE }}{% if page.site.SUBTITLE %}<br>{{ page.site.SUBTITLE }}{% endif %}</i></h3>
+<h1>{{page.t}}</h1>
+{% block subtitle %}{%- if page.s %}<h2>{{page.s}}</h2>{% endif %}{% endblock %}
+</div>
+
+
+{% block content %}
+<div class="content">
+{{ page.content }}
+</div>
+{% endblock %}
+
+
+{%- endblock %}

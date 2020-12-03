@@ -1,0 +1,49 @@
+{% extends "page.html" %}
+
+{% set chapter = chapters|select_chapter(page.ch, page.folder) %}
+{% block subtitle %}<h2><small>{{page.s}}<br>Notes to Chapter {{chapter.ID}}. {{chapter.title}}</small></h2>{% endblock %}
+
+{% block content %}
+<div class="content">
+{{ page.content }}
+</div>
+
+{# Index #}
+<br>
+<small>
+{%- for sub_chapter in chapter.sub_chapters %}
+    {% if not '.' in sub_chapter.ID %}{% if sub_chapter.notes %}<a href="#{{sub_chapter.ID}}">General notes on Chapter {{sub_chapter.ID}}</a><br>{% endif %}{% else -%}
+    {%- if sub_chapter.ID.count('.') >= 2 %}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{% endif -%}
+    {% if sub_chapter.notes %}<a href="#{{sub_chapter.ID}}">{{sub_chapter.ID}} {{sub_chapter.title}}</a><br>
+    {% else %}{{sub_chapter.ID}} {{sub_chapter.title}}<br>{% endif %}{% endif -%}
+{%- endfor %}
+</small>
+<br><br>
+
+
+{%- if errors %}
+<details><summary><mark><b><big>ERRORS in databases:</big></b></mark></summary>
+<p><mark>{{ '<br>'.join(errors) }}</mark><br></p>
+</details><br>
+{%- endif %}
+
+{%- for sub_chapter in chapter.sub_chapters %}{% if sub_chapter.notes %}
+    {%- if sub_chapter.ID.count('.') == 0 %}<h4 class="h4-notes" id="{{sub_chapter.ID}}">General notes on Chapter {{sub_chapter.ID}}</h4>
+    {%- elif sub_chapter.ID.count('.') == 1 %}<h4 class="h4-notes" id="{{sub_chapter.ID}}">{{sub_chapter.ID}} {{sub_chapter.title}}</h4>
+    {%- else %}<h5 class="h5-notes" id="{{sub_chapter.ID}}">{{sub_chapter.ID}} {{sub_chapter.title}}</h5>{% endif %}
+    
+    <ol type="a" class="notes" id="{{sub_chapter.ID}}">{%- for note in sub_chapter.notes %}
+        <li id="{{sub_chapter.ID}}{{(97+loop.index0)|chr}}">{% if note.CT %}<b>{{note.CT.strip('.')}}.</b> {% endif %}{{note.text}}{% if note.NA or note.ND %}<p class="na"> – [{% for NA in note.NA %}
+            {% if NA.link %}<a href="{{SITEURL}}/{{page.folder}}{{NA.link}}">{{NA.text}}</a>{% else %}{{NA.text}}{% endif %}{% if note.ND or not loop.last %}, {% endif %}
+        {% endfor %}{% if note.ND %}{% if note.ND.hour %}{{note.ND.strftime('%B %Y')}}{% else %}{{note.ND.strftime('%Y')}}{% endif %}{% endif %}</p>]{% endif %}
+    {%- endfor %}</ol>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><small><a href="#">Back to top</a></small></small>
+
+{%  endif %}{% endfor %}
+
+<br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
+
+{%- endblock %}

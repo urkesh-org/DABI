@@ -1,0 +1,95 @@
+
+
+
+{# ! test #}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+
+<body>{# id="{% block body_id %}{% endblock %}" #}{# id="index" class="home" #}
+
+
+
+  {#  {%- block critical_css %}
+    <style>
+      a.no {  text-decoration:inherit; color:inherit; }
+    </style>
+  {%- endblock critical_css -%}  #}
+
+  {%- block head_scripts %}
+  {%- endblock %}
+
+  {%- block footer_scripts %}
+  {%- endblock footer_scripts %}
+  
+
+  
+-*-
+        {% include 'includes/nav.html' %} {# pull in navbar #}
+
+    <div class="container" id="maincontent">
+        {% include 'includes/flash_message.html' %} {# page-level feedback notices #}
+        <div id="body_content">
+            {% block content %}{# main content area #}{% endblock %}
+        </div>
+    </div><!-- /container -->
+    <footer>
+        <div id="footer" class="container">
+            {% block footer %}{% endblock %}
+        </div><!-- /footer -->
+    </footer>
+	
+    {# <script src="https://ajax.googleapis.com/ajax/libs/jquery/{{ jquery_version }}/jquery.min.js"></script>
+    <script src="/static/js/main.js"></script> #}
+    {% block tail_script %}{# defer-capable JS block #}{% endblock %}
+    {{ profiler_includes|safe }}
+-*-
+  
+{% block content %}
+  <h1>{{ page.title }}</h1>
+  {% import 'translations.html' as translations with context %}
+  {{ translations.translations_for(page) }}
+
+  {{ page.content }}
+
+  {% if page.modified %}
+    <p>
+    Last updated: {{ page.locale_modified }}
+    </p>
+  {% endif %}
+{% endblock %}
+
+
+
+{% block content %}
+    <h2>List of pages</h2>
+    <ul>
+    {% for page in pages %}
+        <li>
+            <a href="{{ link(page.path) }}">{{ page.title }}</a>
+        </li>
+    {% else %}
+        <li>No pages.</li>
+    {% endfor %}
+    </ul>
+{% endblock content %}
+
+
+
+{% if DISPLAY_SEARCH_FORM -%}
+                    <form id="search" action"#" onsubmit="javascript:window.open('https://duckduckgo.com/?q='+document.getElementById('keywords').value+'+site:{{ SITEURL }}');">
+                        <input id="keywords" type="text" />
+                    </form>
+{% endif %}
+
+
+
+{% include 'analytics.html' %}
+{% include 'piwik.html' %}
+{% include 'disqus_script.html' %}
+
+

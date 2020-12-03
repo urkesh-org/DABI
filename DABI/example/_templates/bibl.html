@@ -1,0 +1,77 @@
+{% extends "page.html" %}
+
+{% block content %}
+<div class="content">
+{{ page.content }}
+<p>Total entries: {{ database_bibl|filter_site(page.folder)|length }}.</p>
+</div>
+
+{# Index #}
+<br>
+<a href="#A">A</a>&nbsp; &nbsp;<a href="#B">B</a>&nbsp; &nbsp;<a href="#C">C</a>&nbsp; &nbsp;<a href="#D">D</a>&nbsp; &nbsp;<a href="#E">E</a>&nbsp; &nbsp;<a href="#F">F</a>&nbsp; &nbsp;<a href="#G">G</a>&nbsp; &nbsp;<a href="#H">H</a>&nbsp; &nbsp;<a href="#I">I</a>&nbsp; &nbsp;<a href="#J">J</a>&nbsp; &nbsp;<a href="#K">K</a>&nbsp; &nbsp;<a href="#L">L</a>&nbsp; &nbsp;<a href="#M">M</a>&nbsp; &nbsp;<a href="#N">N</a>&nbsp; &nbsp;<a href="#O">O</a>&nbsp; &nbsp;<a href="#P">P</a>&nbsp; &nbsp;<a href="#Q">Q</a>&nbsp; &nbsp;<a href="#R">R</a>&nbsp; &nbsp;<a href="#S">S</a>&nbsp; &nbsp;<a href="#T">T</a>&nbsp; &nbsp;<a href="#U">U</a>&nbsp; &nbsp;<a href="#V">V</a>&nbsp; &nbsp;<a href="#W">W</a>&nbsp; &nbsp;<a href="#X">X</a>&nbsp; &nbsp;<a href="#Y">Y</a>&nbsp; &nbsp;<a href="#Z">Z</a></td>
+<br><br>
+
+
+{%- if errors %}
+<details><summary><mark><b><big>ERRORS in databases:</big></b></mark></summary>
+<p><mark>{{ '<br>'.join(errors) }}</mark><br></p>
+</details><br>
+{%- endif %}
+
+
+{% for bibliography in database_bibl|filter_site(page.folder) %}
+
+{% if not bibliography.W %}
+{% if loop.changed(bibliography.ID[0].upper()) %}<a name="{{bibliography.ID[0].upper()}}"></a>{% endif %}
+{% else %}
+{% if not loop.previtem.W %}
+<br><br><a name="Websites"></a>
+<h2><small>Websites</small></h2><br>
+{% endif %}
+{% endif %}
+
+{% if loop.first or loop.previtem.AU != bibliography.AU %}
+<a name="{{ bibliography.ID }}"></a><a name="{{ bibliography.AU[0].split(',',1)[0]|replace(' ','')|replace('\"','') }}"></a>
+<p class="black"><b>{% for AU in bibliography.AU -%}
+{%- if loop.first %}{{AU}}{% else %}; {% if ',' in AU %}{{AU.split(',',1)[1].strip()}} {{AU.split(',',1)[0].strip()}}{%- else %}{{AU}}{% endif %}{% endif %}
+{% endfor -%}</b>{% if bibliography.AU_extra %} ({{bibliography.AU_extra}}){% endif %}</p>
+{% endif %}
+
+<table class="bibliography">
+<tr>
+    <td class="year">
+        <a name="{{ bibliography.ID }}"></a>{% for OLD_ID in bibliography.OLD_ID %}<a name="{{OLD_ID}}"></a>{% endfor %}
+        <a class="octicon-link" href="#{{bibliography.ID}}"><svg viewBox="0 0 16 12" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>{{ bibliography.Y }}</td>
+    <td><b>{% if bibliography.T.startswith(('"','“')) %}<i>{{ bibliography.T }}</i>{% else %}{{ bibliography.T }}{% endif %}</b>
+    {%- if bibliography.P %}{{ bibliography.P }}{% endif %}</td>
+    <td></td>
+</tr>
+{%- for bibliography_entry in bibliography.entries %}
+<tr class="bibl-entry">
+    <td></td>
+    <td class="summary">
+        {{ bibliography_entry.text }}
+        {% if bibliography_entry.SA or bibliography_entry.SD %}<p class="sa">– {% for SA in bibliography_entry.SA %}
+        {% if SA.link %}<a href="{{SITEURL}}/{{page.folder}}{{SA.link}}">{{SA.text}}</a>{% else %}{{SA.text}}{% endif %}{% if bibliography_entry.SD or not loop.last %}, {% endif %}
+        {% endfor %}{% if bibliography_entry.SD %}{% if bibliography_entry.SD.hour %}{{bibliography_entry.SD.strftime('%B %Y')}}{% else %}{{bibliography_entry.SD.strftime('%Y')}}{% endif %}{% endif %}</p>{% endif %}
+    </td>
+    <td class="references">
+        {% if bibliography_entry.NR %}<small>{%- for NR in bibliography_entry.NR %}
+        {%- if NR.link %}<a href="{{NR.link}}">{{NR.text}}</a>{% else %}{{NR.text}}{% endif %}{% if not loop.last %}<br> {% endif %}
+        {% endfor -%}</small>{% endif %}
+    </td>
+</tr>
+{% endfor -%}
+</table>
+{% if loop.last or loop.nextitem.AU != bibliography.AU %}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#0"><small><small>Back to top</small></small></a><br><br>
+
+{% endif %}
+{% endfor %}
+
+<br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
+
+{%- endblock %}

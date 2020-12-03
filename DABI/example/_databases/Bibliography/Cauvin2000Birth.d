@@ -1,0 +1,24 @@
+AU Cauvin, Jacques
+Y 2000
+T [*The Birth of the Gods and the Origins of Agriculture*](https://books.google.it/books?id=z4epGQpNyucC&printsec=frontcover&hl=it&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) (translated by Trevor Watkins)
+P Cambridge: Cambridge University Press 
+
+@@@R
+SA mDP
+SD July 2020
+TO prehistory; emergence of religious thought
+
+<< Jacques Cauvin has spent many years researching the beginnings of the Neolithic in the Near East, excavating key sites and developing new ideas to explain the hugely significant cultural, social and economic changes which transformed mobile hunter-gatherers into the first village societies and farmers in the world. In this book, first published in 2000, the synthesis of his mature understanding of the process beginning around 14,000 years ago challenges ecological and materialist interpretations, arguing for a quite different kind of understanding influenced by ideas of structuralist archaeologists and members of the French Annales school of historians. Defining the Neolithic Revolution as essentially a restructuring of the human mentality, expressed in terms of new religious ideas and symbols, the survey ends around nine thousand years ago, when the developed religious ideology, the social practice of village life and the economy of mixed farming had become established throughout the Near East and east Mediterranean, and spreading powerfully into Europe>> (description on [editor’s webpage](https://www.cambridge.org/it/academic/subjects/archaeology/ancient-near-east1/birth-gods-and-origins-agriculture?format=HB&isbn=9780521651356#description)).
+
+The volume analyses the development of first spiritual symbolism or religious beliefs in the prehistory of ancient Near East, specifically in the Neolithic period. 
+
+[The contribution is particularly relevant as an introduction to the first attested forms of spiritual symbolism and religious beliefs in ancient Near East, specifically in the Neolithic period (cf. entries: {B}R/Hodder2010Emergence and {B}R/Schmidt2011Costruirono). *Chapter 3* is indeed the most relevant for our aims: ‘The **Revolution in symbols** and the **origins of Neolithic religion**’. The author present firstly a discussion about the [Khiamian phase](https://en.wikipedia.org/wiki/Khiamian), when technology in producing weapons for hunting further developed, together with an architectural progress. According to the author, <<This episode would scarcely merit being made the first stage in neolithisation if it had not produced another type of transformation, which we think the critical one and which we have called the ‘revolution of symbols’>> (p. 22-23; about the ‘symbolic system, cf. [Claude Lévi-Strauss](https://en.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss), specifically Lévi-Strauss, Claude 1958, *Anthropologie structural* = [*Structural Anthropology*, trans. Claire Jacobson and Brooke Grundfest Schoepf, 1963, New York: Basic Books](https://monoskop.org/images/e/e8/Levi-Strauss_Claude_Structural_Anthropology_1963.pdf); a discussion on some of his works can be found on [CAR](https://critique-of-ar.net/bibl-Critique.htm#Levi-Strauss)). In the following paragraphs, Cauvin focuses on the symbolism connected firstly with objects representing animals (gazelles, deer) to female figurines and [bucrania](https://en.wikipedia.org/wiki/File:%C3%87atalh%C3%B6y%C3%BCk_view_5.jpg), stressing the passage from a hunting-gathering economy to agriculture, as clearly attested at [Çatalhöyük](https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk) (cf. entry: {B}R/Hodder2010Emergence), where a first ‘religion’ growth up: <<There we can perceive that this [‘woman’](https://en.wikipedia.org/wiki/Seated_Woman_of_%C3%87atalh%C3%B6y%C3%BCk) is truly a goddess {defined the ‘Mistress of Life’ by [James Mellaart](https://en.wikipedia.org/wiki/James_Mellaart)}: in the schematic monumental [relief sculptures](https://i.pinimg.com/236x/9b/7d/ba/9b7dbab087db0cda38f2a62de5686e4f.jpg) she dominates the north or west wall of the domestic sanctuaries of Çatalhöyük, arms and legs spread, [giving birth to bulls](http://4Banks.net/Mes-rel/Images/Mellaart_fresco.jpg) (or exceptionally rams) whose sculpted bucrania, set below her, seem to emanate from her. … Here are all the traits of the Mother-Goddess who dominates the oriental pantheon right up to the rime of the male-dominated monotheism of lsrael>> (pp. 29, 31).]
+
+
+@NOTES R/6.2
+NA mDP
+ND 6 July 2020
+TO prehistory; Neolithic; symbolism; emergence of religious thought
+
+Archaeological investigations in the Neolithic Near East can support G. Buccellati’s discourse in this section about the emergence of religious thoughts and cultic practices in prehistorical times, when first symbolic thought developed: see e.g. {B}R/Cauvin2000Birth (on this topic, cf. entries: {B}R/Hodder2010Emergence and {B}R/Schmidt2011Costruirono).
+

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="copyright" content="© 2002-{{ YEAR }} IIMAS">
+  {# <meta name="viewport" content="width=device-width, initial-scale=1"> #}
+  <title>{% block title %}{# {{ page.t }} – #}{{ SITENAME }}{% if SITETITLE %}: {{ SITETITLE }}{% endif %}{% endblock %}</title>
+
+  {# <meta name="author" content="{{ AUTHOR }}"> #}
+  {# <meta name="keywords" content="A companion site to the four volumes"> #}
+  {%- if page.description %}<meta name="description" content="{{ page.d }}">{% endif -%}
+
+  <link rel="icon" href="{{ SITEURL }}/favicon.ico">
+  <link rel="stylesheet" href="{{ SITEURL }}/4banks.css">
+</head>
+
+
+<body>
+
+  <a name="0"></a>{#<a id="btt" href="#0">BACK TO TOP →</a>#}
+  {#<nav role="navigation">{% include page.folder+'/nav.html' %}</nav>#}
+
+  <div id="container">
+    <div class="h6"><a href="{{SITEURL}}/">https://4banks.net</a>/{{output_file}} &nbsp;–&nbsp; <a href="{{SITEURL}}/archives.htm">Version</a> {{VERSION}}, {% if page.au %}Editor: {{page.au}}, {% endif %}{{page.date.strftime("%B %Y")}}</div>
+    
+    {% block main %}{% endblock %}
+    
+  </div>
+  
+  
+  
+  <br><br><br><br><br>
+  {#<footer><div id="footer">
+      {% block footer %}{% endblock %}
+  </div></footer>#}
+
+</body>
+
+</html>
+

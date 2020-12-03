@@ -1,0 +1,592 @@
+0. Introduction
+0.1 A historical sketch of Akkadian
+0.2 Babylonian within Akkadian
+0.3 Textual data
+0.4 Writing and language
+0.5 A structural approach
+0.6 Synchrony and diachrony
+
+
+; PHONOLOGY
+; Part I. The Phonemes
+
+1. Phonemic Inventory
+1.1 Phonemics and phonetics
+1.2 Consonants
+1.3 Vowels
+1.4 Length
+1.5 Stress
+1.6 A note on phonetic realizations
+
+2. Distributional Classes
+2.1 Word initial
+2.2 Word fmal.
+2.3 Word medial
+2.4 Vocalic clusters
+2.5 Summary
+2.6 Syllabic structure
+2.7 A note on syllabic length
+
+
+; Part II. Phonological Change
+
+3. Types of Phonological Change
+
+4. Free Variation
+
+5. Excursus on Historical Development
+5.1 Rearrangement of phonemic inventory
+5.2 Rearrangement of phonemic distributional classes
+
+
+; MORPHOLOGY
+
+6. Morphological Processes
+6.1 Internal inflection
+6.2 External inflection
+6.3 Word composition
+6.4 Reduplication
+6.5 Survey of boundary types: the word
+
+
+; Part I. Internal Inflection
+
+7. Interdigitation
+
+
+; Section A. The Root
+
+8. Nature of the Root
+8.1 The root as a morpheme
+8.2 The root as a lexeme
+8.3 "Reality" of the root
+
+9. Structure of the Root
+9.1 The verbal-(nominal) root
+9.2 The nominal root: the system of numerals
+9.3 Incompatibility of the radicals
+
+10. Historical Excursus on the Unmotivated Noun
+10.1 Unmotivated nouns: primary nouns and loanwords
+10.2 Denominative verbs
+10.3 Historical reality of primary nouns
+; fOA Remarks on the structure of primary nouns
+
+
+; Section B. Patterns from Strong Triradical Roots
+
+11. Nominal Patterns
+
+12. Verbal Patterns
+12.1 Nominal and verbal patterns
+12.2 The system of coordinates
+
+13. Verbal Patterns: Consonantism
+13.1 The coordinate system and the paradigm
+13.2 A note on the format of the paradigm
+13.3 A note on terminology
+13.4 A note on compound stems
+13.5 The case against the "perfect": formal considerations
+
+14. Verbal Patterns: Vocalism
+14.1 Introductory
+14.2 First vowel
+14.3 Last vowel
+14.4 Root vowel
+14.5 General vocalic shift a > e
+14.6 A divergent interpretation of morphemic boundaries
+14.7 Review of non-predictable vocalic elements
+
+15. Historical Excursus on the Vocalism of the Verbal Patterns
+15.1 Original first vowel a of finite forms in the B and N stems
+15.2 Original morphological value of root vowel
+
+16. Verbal Patterns: Notional Categories
+16.1 Formal characteristics and notional categories
+16.2 Verbal and deverbal nouns: nouns of subject and description
+16.3 Verbal nouns and fmite forms
+16.4 Stetn.s
+16.5 The case against the "perfect": notional considerations
+16.6 A simplified overview of the stem system
+
+17. The Triradica1 System as a Whole
+17.1 Correlations within the matrix
+17.2 The verbal paradigm
+17.3 A note on alternative patterns
+17.4 A note on the permansive
+17.5 A note on the template used in the paradigm
+17.6 The complete verbal-deverbal paradigm
+
+
+; Section C. Patterns from Strong Quadriradical Roots
+
+18. Correlations to Triradical Roots
+
+19. The Quadriradica1 System
+19.1 The two groups of quadriradical roots
+19.2 An alternative interpretation of Group 1
+19.3 A note on notional categories
+
+
+; Part II. External Inflection
+
+; Section A. The Noun
+
+20. Types of Nominal External Inflection
+20.1 Denominal afformatives
+20.2 States of the noun
+20.3 Substantives and adjectives
+20.4 Sequential configuration of elements of external inflection
+20.5 Derivation and inflection
+20.6 A note on periphrastic derivation
+
+21. Denominal Afformatives
+21.1 Structural considerations
+21.2 Nouns of description
+21.3 Substantives
+21.4 Adjectives
+21.5 Onomastic derivation
+21.6 A note on a possible prefIxal afformative
+
+22. The Inflection of the Normal
+22.1 The primary system
+22.2 The alleged plural-anu
+22.3 Mimation
+22.4 The dual
+22.5 A note on the historical development of the primary system
+22.6 The secondary case system: locative, terminative and gerundive
+22.7 A note on the historical development of the secondary cases
+22.8 Special forms
+
+23. The Inflection of the Construct State
+23.1 Concepts and terms
+23.2 The primary system
+23.3 The dual
+23.4 The secondary case system: locative, terminative and gerundive
+23.5 Construct state in -a(m)
+23.6 Special forms
+
+24. The Inflection of the Absolute State
+24.1 The inflectional markers
+24.2 Inflection of cardinal numerals
+
+25. The Inflection of the Predicative State
+25.1 The inflectional markers
+25.2 A note on the interpretation of gender/number markers
+25.3 Predicative state and permansive or stative
+25.4 The base
+
+26. Notional Categories
+26.1 Context-free categories: afformatives
+26.2 Context-free categories: number, gender
+26.3 Context-free categories: secondary cases
+26.4 Context-bound categories: primary cases
+
+
+; Section B. The Verb
+
+27. Inflection for Person, Gender and Number
+27.1 The basic system
+27.2 Special forms
+
+28. Modal Inflection
+28.1 Introductory
+28.2 The subjunctive
+28.3 The desiderative
+28.4 Historical note on the desiderative
+28.5 The ventive
+28.6 Asseverative and prohibitive
+28.7 Summary of the moods
+
+29. Notional Categories
+29.1 Introductory
+29.2 Reference to subject (person, number, gender)
+29.3 Reference to adjunct of motion (ventive)
+29.4 Definition of syntactical role (subjunctive)
+29.5 Attitude of speaker (summons)
+
+
+; Section C. The Pronoun
+
+30. Types of Pronominal Inflection
+30.1 Morphological vs. syntactical considerations
+30.2 Limited nominal inflection
+30.3 Inflection with nunation
+
+31. The Personal Pronoun
+31.1 The two sets of bases
+31.2 Inflection for gender and number
+31.3 Inflection for case
+31.4 A note on secondary stress with pronominal suffixes
+31.5 The paradigm
+31.6 Special forms
+31.7 The anaphoric pronoun
+31.8 A note on syntactical distribution
+
+32. Notional Categories
+
+
+; Section D. Invariables and Recapitulation
+
+33. Morphological Invariability and Classes of Invariables
+33.1 Types of juncture
+33.2 Traces of inflection
+33.3 Vestigial inflection: particles (prepositions and conjunctions)
+33.4 Occasional inflection: proper names
+33.5 Full invariables: adverbs, enclitics and interjections
+
+34. Recapitulation of Types of External Inflection
+
+
+; MORPHOPHONEMICS
+
+35. Morphophonemic Alternations
+35.1 Nature of morphophonemic alternations
+35.2 A note on historical development
+35.3 Regressive and progressive length 
+
+
+; Part I. Alternations Conditioned by Internal Inflection
+
+36. Pattern and Root as Conditioning Factors
+
+; Section A. Alternations Affecting Patterns (Strong Roots)
+
+37. Alternation Affecting the Vocalism of the Patterns 231
+
+38. Alternations Affecting the Consonantism of the Patterns
+38.1 The deverbal pattern MAPRAS 232
+38.2 The verbal patterns of the perfect and the T(N) stems
+38.3 The N stem 234xx Table of Contents
+
+
+; Section B. Alternations Affecting Roots and Patterns (Weak Roots)
+
+39. The Notion of Weak Radical
+39.1 The weak radical as a set of alternating realizations
+39.2 The environment as a discriminant among alternatives
+39.3 A note on geminate roots
+39.4 A note on terminology
+
+40. Patterns from Triradicals with Weak First Radical
+
+41. Patterns from Triradicals First Aleph
+41.1 Derivational rules
+41.2 External inflection of selected forms
+41.3 Systemic deviations
+41.4 Vocalic shift a > e
+41.5 Lexical deviations
+
+42. Patterns from Triradicals First Nun
+42.1 Derivational rules
+42.2 External inflection of selected forms
+42.3 Systemic deviations
+42.4 Lexical deviations
+
+43. Patterns from Triradicals First Waw
+43.1 Triradical and biradical realizations
+43.2 A historical note on vocalism
+43.3 The triradical system: derivational rules
+43.4 External inflection of selected forms
+43.5 Systemic deviations
+43.6 The biradical subsystem
+43.7 External inflection of selected forms
+
+44. Patterns from Triradicals Middle Weak
+44.1 Derivational rules
+44.2 Systemic deviations in the realization of patterns
+44.3 Systemic deviation in the choice of patterns
+44.4 Lexical deviations and historical remarks
+44.5 External inflection of selected forms
+
+45. Patterns from Triradicals Final Weak
+45.1 Derivational rules
+45.2 External inflection of selected forms
+45.3 Lexical peculiarities
+
+46. Patterns from Triradicals Double Weak
+46.1 Introductory
+46.2 Triradicals first Aleph and final weak rC)
+46.3 Lexical deviations for triradicals frrst Aleph and fmal weak
+46.4 Triradicals first Nun and middle weak (N:C)
+46.5 Triradicals first Nun and final weak (NC:)
+46.6 Triradicals first Waw and middle weak (W:'C)
+46.7 Triradicals first Waw and fmal weak (WC:)
+46.8 Triradicals middle Aleph and final weak (0.")
+
+47. Patterns from Ouadriradicals Single Weak
+47.1 Introductory
+47.2 Ouadriradicals middle weak (Group I)
+47.3 Ouadriradicals final weak (Group II)
+
+48. Patterns from Ouadriradicals Double Weak
+48.1 Derivational rules
+48.2 Systemic deviations
+48.3 Alternative patterns
+
+
+; Section C. Paradigms and Correlations in Pattern Formation
+
+49. Paradigms from Weak Roots
+49.1 Paradigms from triradicals first Aleph
+49.2 Triradicals first Nun
+49.3 Triradicals first Waw
+49.4 Triradicals middle weak
+49.5 Triradicals fmal weak
+49.6 Triradicals frrst Aleph and final weak
+49.7 Triradicals frrst Nun and middle weak
+49.8 Triradicals frrst Nun and final weak
+49.9 Triradicals first Waw and fmal weak
+49.10 Ouadriradicals double weak
+
+50. Correlations in the Realization of Weak Radicals
+50.1 Introductory
+50.2 Correlations of realizations by environment
+
+51. Correlations in Pattern Formation
+51.1 Verbal patterns
+51.2 Nominal patterns
+
+
+; Part II. Alternations Conditioned by External Inflection
+
+52. Introductory
+
+
+; Section A. Alternations Mfecting Phonemes in Contact at Morphemic Boundary
+
+53. Alternations Affecting Consonants
+53.1 Introductory
+53.2 Dental followed by postfIxal t
+53.3 Labial or nasal followed by enclitic m
+53.4 Dental followed by suffIxal k or !
+53.5 Dental or fricative followed by suffIxal!
+53.6 PostfIXal m followed by pronominal suffIx
+
+54. Alternations Affecting Vowels ~
+
+
+; Section B. Alternations Mfecting Syllabic Structure (Phonotactics)
+
+55. At Morphemic Boundary with Vowel
+55.1 Apheresis
+55.2 Contraction
+
+56. At Morphemic Boundary with "
+56.1 Outside of the construct state
+56.2 The construct state
+
+
+; SYNTAX
+
+57. Minimal Units
+57.1 Syntactical structure
+57.2 Immediate constituents
+57.3 Graphic notation - modern
+57.4 Graphic notation - ancient
+57.5 A note on substitution tests
+57.6 A note on syntactical paradigms
+57.7 Major and minor constituents
+57.8 Sentence, clause, phrase
+57.9 A note on discourse analysis
+
+58. Distributional Classes
+58.1 Limitations on correlation of constituents
+58.2 The operative factors
+
+59. Surface and Deep Structure
+59.1 The notions of surface and deep structure
+59.2 Correlations between deep and surface structure
+59.3 Intonation
+
+60. Excursus on Historical Development
+
+
+; Part I. Constituent Structure
+
+61. Introductory
+
+
+; Section A. Inflectional Correlations: Government
+
+62. Introductory
+
+63. Subject and Predicate: Discord
+63.1 Subject
+63.2 Predicate=
+63.3 Nominal sentence and permansive
+63.4 Verbal and nominal predicates
+63.5 A note on substantives and adjectives
+63.6 A note on determination and referentiality
+63.7 A note on the predicative complement
+
+64. Subject and Predicate: Concord
+
+65. Predicate and Complements
+65.1 Complements and transitivity
+65.2 Simple complemellt ("direct object")
+65.3 Indefmite object ("internal accusative")
+65.4 Objective clause
+65.5 Direct speech
+65.6 A compound complement ("indirect object")?
+65.7 Direct object embedded in verbal form
+
+66. Predicate and Adjuncts
+66.1 Formal structure
+66.2 Nominal adjunctivation
+66.3 Subordinate adjunctivation
+66.4 Constraints on the use of tenses
+66.5 Coordinate adjunctivation (hendiadys)
+66.6 Embedded adjunctivation
+66.7 Undifferentiated adjunctivation (paronomastic adjunct)
+66.8 Undifferentiated adjunctivation (emphasis)
+66.9 Emphasis: notional typology
+66.10 A note on ambiguity
+
+
+; Section B. Sequential Correlations: Word Order
+
+67. Absolute Positions
+67.1 Absolute and relative positions
+67.2 Contact sequences
+67.3 Sentence (and clause) fmal.
+67.4 Sentence initial
+
+68. Relative Positions
+
+
+; Section C. Semantic Correlations: Feature Analysis
+
+69. Syntax and Lexicon
+
+70. Feature Inventory
+70.1 Nouns: notional categories
+70.2 Formal correlation to verbs: partial restrictions
+70.3 Formal correlation to verbs: total restriction
+70.4 ,Action and condition: notional categories
+70.5 Action and condition: formal ~riteria
+70.6 A note on analytical vs. analogical definitions 408
+70.7 A note on the permansive of transitive fientives 409
+70.8 Dimension of the action: punctual and durative 411
+70.9 Correlations between semantic and morphological criteria 412
+
+
+; Part II. Transformations
+
+71. Introductory..
+71.1 Concepts and terms
+71.2 A note on the use of tranformations
+71.3 Criteria of organization
+
+
+; Section A. Individual Constituents
+
+72. Introductory
+
+73. Transformations Affecting Process
+73.1 Interrogative
+73.2 Negative
+73.3 Potential
+73.4 Unrealizable potential
+73.5 Causative and factitive
+
+74. Transformations Affecting Elements Other than Process
+74.1 Passive
+74.2 Imperative and desiderative
+74.3 Performative
+
+
+; Section B. Nominalization
+
+75. Introductory
+75.1 Types of nominalizing transformation
+75.2 Nominalization proper: types of deep structure
+75.3 Nominalization proper: types of surface structure
+
+76. Relative Clauses
+76.1 Attributive and c6nsecutive clauses
+76.2 Government and concord in relative clauses
+
+77. Noun Phrases with Predicate as Head
+77.1 Types 1-3: predicate and subject (subjective genitive)
+77.2 Type 4: stative plus adjunct (limitative, superlative, partitive)
+77.3 Type 5: intransitive plus adjunct (locative)
+77.4 Type 6: transitive plus complement (objective)
+
+78. Noun Phrases with Subject as Head
+78.1 Types 7a-9a: subject and predicate (attribution)
+78.2 Types 7b-9b: subject and predicate (potential); the case against the so-called "attributive genitive"
+78.3 Type 9c: subject and infmitive
+78.4 Types 10-11: subject and adjunct
+78.5 Type 12: subject and complement (possessive)
+
+79. Noun Phrases with Complement as Head
+79.1 Type 13a: complement and predicate (potential)
+79.2 Type 13b: complement and predicate (infmitive phrase)
+79.3 Type 13c: complement and predicate (attributive)
+79.4 Type 13d: complement and predicate (subjective)
+79.5 Type 14: complement and adjunct (datival)
+79.6 Type 15: complement and subject (possessive; agentive)
+
+80. Noun Phrases with Adjunct as Head
+80.1 Type 16-18: adjunct and predicate (potential)
+
+81. Government and Agreement in Noun Phrases
+81.1 Head and modifier
+81.2 Attribution and apposition
+81.3 Attribution with cardinal numerals as modifiers
+81.4 Anticipatory emphasis
+81.5 Government with multi-place noun phrases 
+
+82. Word Order in Noun Phrases and Clauses
+82.1 Contact sequences
+82.2 Attributional chains
+82.3 Appositional phrase with determinative pronoun as head
+82.4 Relative order within attributional chains
+82.5 Word order in clauses
+
+83. Review of Nominalization Types
+83.1 Index by notional categories
+83.2 Surface ambiguity
+
+
+; Section C. Conjoining
+
+84. Introductory
+84.1 Subordination and coordination
+84.2 Reversibility and irreversibility
+
+85. Reversible Sequences
+85.1 Surface reversibility: disjunctives
+85.2 Deep reversibility: cumulatives and adversatives
+
+86. Irreversible Sequences
+86.1 Introductory
+86.2 Conjunction before first sentence: conditionals
+86.3 Conjunction after the first predicate: virtual subordination
+
+
+; Section D. Deletion
+87. Introductory
+
+88. Sentence Level
+88.1 Subject
+88.2 Complement
+88.3 Predicate
+
+89. Transform Level
+89.1 Object deletion with causatives
+89.2 Agentive deletion with passives
+89.3 Subject, object or predicate deletion with nominalization
+89.4 Pronoun deletion with attributive clauses
+89.5 Constituent deletion with conjoined sentences and phrases
+89.6 Particle deletion with conjoined sentences
+89.7 Preposition deletion within nominalization
+89.8 Sentence deletion with subordinate clauses: oath formulae
+
+
+; Glossary of Grammatical Terms
+
+; Texts Cited
+; Index of Akkadian Words
+; Subject Index

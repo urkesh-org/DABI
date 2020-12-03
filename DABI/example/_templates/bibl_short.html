@@ -1,0 +1,40 @@
+{% extends "page.html" %}
+
+{% block content %}
+<div class="content">
+{{ page.content }}
+<p>Total number of authors: {{ database_bibl|filter_site(page.folder)|author_bibl_list|length }}.</p>
+</div>
+
+<br>
+<a href="#A">A</a>&nbsp; &nbsp;<a href="#B">B</a>&nbsp; &nbsp;<a href="#C">C</a>&nbsp; &nbsp;<a href="#D">D</a>&nbsp; &nbsp;<a href="#E">E</a>&nbsp; &nbsp;<a href="#F">F</a>&nbsp; &nbsp;<a href="#G">G</a>&nbsp; &nbsp;<a href="#H">H</a>&nbsp; &nbsp;<a href="#I">I</a>&nbsp; &nbsp;<a href="#J">J</a>&nbsp; &nbsp;<a href="#K">K</a>&nbsp; &nbsp;<a href="#L">L</a>&nbsp; &nbsp;<a href="#M">M</a>&nbsp; &nbsp;<a href="#N">N</a>&nbsp; &nbsp;<a href="#O">O</a>&nbsp; &nbsp;<a href="#P">P</a>&nbsp; &nbsp;<a href="#Q">Q</a>&nbsp; &nbsp;<a href="#R">R</a>&nbsp; &nbsp;<a href="#S">S</a>&nbsp; &nbsp;<a href="#T">T</a>&nbsp; &nbsp;<a href="#U">U</a>&nbsp; &nbsp;<a href="#V">V</a>&nbsp; &nbsp;<a href="#W">W</a>&nbsp; &nbsp;<a href="#X">X</a>&nbsp; &nbsp;<a href="#Y">Y</a>&nbsp; &nbsp;<a href="#Z">Z</a></td>
+<br><br>
+
+
+<table class="bibliography_index">
+<colgroup>
+    <col style="width: 260px;">
+    <col style="width: 100px;">
+    <col>
+</colgroup>
+<tr>
+    <th>Author
+    <th>Year
+    <th>Title
+{% for AU, database_bibl in database_bibl|filter_site(page.folder)|author_bibl_list %}{% if AU != 'et al' %}
+{% for bibliography in database_bibl %}
+<tr{% if loop.changed(AU[0]) %} id="{{AU[0]}}"{% endif %}>
+    {% if loop.first %}<td rowspan="{{database_bibl|length}}">{{ AU }}{% endif %}
+    <td>{{ bibliography.Y }}
+    <td><i><a href="bibl.htm#{{bibliography.ID}}">{{ bibliography.T|short_title }}</a></i>
+{% endfor %}
+{% endif %}{% endfor %}
+</table>
+
+
+<br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
+
+{%- endblock %}

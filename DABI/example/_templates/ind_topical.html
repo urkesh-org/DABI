@@ -1,0 +1,38 @@
+{% extends "page.html" %}
+
+{% block content %}
+<div class="content">
+{{ page.content }}
+<p>Total number of topics: {{ database_topics|filter_site(page.folder)|length }}.</p>
+</div>
+
+<br>
+<a href="#A">A</a>&nbsp; &nbsp;<a href="#B">B</a>&nbsp; &nbsp;<a href="#C">C</a>&nbsp; &nbsp;<a href="#D">D</a>&nbsp; &nbsp;<a href="#E">E</a>&nbsp; &nbsp;<a href="#F">F</a>&nbsp; &nbsp;<a href="#G">G</a>&nbsp; &nbsp;<a href="#H">H</a>&nbsp; &nbsp;<a href="#I">I</a>&nbsp; &nbsp;<a href="#J">J</a>&nbsp; &nbsp;<a href="#K">K</a>&nbsp; &nbsp;<a href="#L">L</a>&nbsp; &nbsp;<a href="#M">M</a>&nbsp; &nbsp;<a href="#N">N</a>&nbsp; &nbsp;<a href="#O">O</a>&nbsp; &nbsp;<a href="#P">P</a>&nbsp; &nbsp;<a href="#Q">Q</a>&nbsp; &nbsp;<a href="#R">R</a>&nbsp; &nbsp;<a href="#S">S</a>&nbsp; &nbsp;<a href="#T">T</a>&nbsp; &nbsp;<a href="#U">U</a>&nbsp; &nbsp;<a href="#V">V</a>&nbsp; &nbsp;<a href="#W">W</a>&nbsp; &nbsp;<a href="#X">X</a>&nbsp; &nbsp;<a href="#Y">Y</a>&nbsp; &nbsp;<a href="#Z">Z</a></td>
+<br><br>
+
+
+<table class="bibliography_index">
+<tr>
+    <th style="width:200px">Topic</th>
+    <th style="width:200px">Section</th>
+    <th>Title</th>
+</tr>
+{% for TO, TO_topics in database_topics|filter_site(page.folder)|sorted_groupby('TO') %}
+{% for section, section_topics in TO_topics|sorted_groupby('section') %}{% set section_loop = loop %}
+{% for topic in section_topics %}
+<tr{% if loop.changed(TO[0]|e) %} id="{{TO[0]|e}}"{% endif %}>
+    {% if loop.first %}{% if section_loop.first %}
+    <td rowspan="{{TO_topics|length}}">{{ TO }}</td>{% endif -%}
+    <td rowspan="{{section_topics|length}}">{{ section }}</td>{% endif -%}
+    <td><i><a href="{{topic.link}}">{{ topic.text }}</a></i></td>
+</tr>
+{% endfor %}{% endfor %}{% endfor %}
+</table>
+
+
+<br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
+
+{%- endblock %}

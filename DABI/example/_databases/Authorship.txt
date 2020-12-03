@@ -1,0 +1,26 @@
+;
+; --- Authorship abbreviation for Authors ---
+;
+;
+; Tab-separated file
+; 
+
+;nS	Name Surname	/link.htm
+bP	Beatrice Paolucci	/authorship/Paolucci.htm
+cB	Camillo Bartolini	/authorship/Bartolini.htm
+eA	Esmeralda Agolli	/authorship/Agolli.htm
+eC	Elisabetta Cremonesi	/authorship/Cremonesi.htm
+fAB	Federico Buccellati	/authorship/BuccellatiF.htm
+gB	Giorgio Buccellati	/authorship/BuccellatiG.htm
+hD	Heidi Dodgen	/authorship/Dodgen.htm
+lP	Luca Pintaudi	/authorship/Pintaudi.htm
+mDP	Marco De Pietri	/authorship/DePietri.htm
+mG	Margherita Grassi	/authorship/Grassi.htm
+pDS	Pia De Simone	/authorship/DeSimone.htm
+rL	Laerke Recht	/authorship/Recht.htm
+sE	Stefania Ermidoro	/authorship/Ermidoro.htm
+sfR	Stefano Fabio Rossi	/authorship/Rossi.htm
+iN	Iman Nagy	/authorship/Nagy.htm
+jJL	Jonah Lynch	/authorship/Lynch.htm
+mC	Mark Chavalas	/authorship/Chavalas.htm
+

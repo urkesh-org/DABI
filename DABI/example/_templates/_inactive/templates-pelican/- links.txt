@@ -1,0 +1,4 @@
+https://github.com/duilio/pelican-octopress-theme/blob/master/templates/base.html
+view-source:https://themes.gohugo.io/theme/hugo-octopress/
+
+

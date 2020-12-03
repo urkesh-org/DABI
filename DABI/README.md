@@ -3,6 +3,16 @@
 Generate static website from .md pages and .d databases, using metadata and MarkDown.
 
 
+### Installation
+
+
+### Usage
+
+`cd website_root_directory; DABI.py`
+
+
+--- pelican
+
 ## Website structure in root directory
 
 ```

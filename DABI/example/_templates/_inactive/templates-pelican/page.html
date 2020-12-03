@@ -1,0 +1,65 @@
+{% extends "_base.html" %}
+
+{% block title %}{{ page.title }} – {{ SITE_NAME }}{% endblock title %}
+
+
+{% block main %}
+  
+  <header>{# <div class="site-header pure-menu pure-menu-horizontal pure-menu-fixed"> #}
+    
+    <nav>{# id="menu" #}
+      {% include "_nav.html" %}{# {%- #}
+    </nav>
+    
+    {# <h1><a id="logo" href="{{ SITE_URL }}">{{ SITE_TITLE }}</a></h1> #}{# <a class="pure-menu-heading small-caps"> #}
+    {# <div id="slogan">...</div> #}
+    {# <header id="banner" class="body">
+        <h1><a href="{{ SITE_URL }}/">{{ SITE_NAME }} <strong>{{ SITE_TITLE }}</strong></a></h1>
+      </header><!-- /#banner --> #}
+    
+    <div class="h7"><a href="/">{{ SITE_URL }}</a>/{{ page.url }} – <a href="/archives.htm">Version</a> {{ VERSION }}, {{ LAST_UPDATE }}.</div>
+    
+    <h4><i>{{ SITESUBTITLE }}</i></h4>
+    <h1>4. {{ page.category }}</h1>{# class="title" #}{#{% for cat in page.category[1:] %}<br>{{ cat }}{% endfor %}</h4> <h4>{{page.author}} - {{page.date}}</h4>#}
+    <h2><small>Alphabetical</small></h2>
+    
+  </header>
+
+  <section id="container">{# width="750px" #}
+  
+    {# class="post-full" / id="content" class="body" #}{# center #}
+    {# <article class="content"> #}
+    {% block content %}{{ page.content }}{% endblock %}
+    
+  </section>
+  
+  <footer>{# id="contentinfo" class="body" #}
+    
+    <h4>Blogroll</h4>
+    <ul>
+      <li>
+      <li>
+    
+    
+    <address id="about" class="vcard body">
+      Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+      which takes great advantage of <a href="http://python.org">Python</a>.
+    </address>
+    
+    {# <span class="copyright">{{ AUTHOR }} &nbsp;·&nbsp; <span>© {{ YEAR }}</span></span> #}
+    
+  </footer>
+
+
+
+{#
+<br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
+#}
+
+{% endblock %}
+

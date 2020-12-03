@@ -1,0 +1,139 @@
+
+<ul>
+  <input id="nav-toggle" type="checkbox" name="nav-toggle" style="display:none" onchange="active.classList.remove('nav-open')">
+  <li>
+    <a href="/" id="nav-logo"><img src="/logo no bckgrnd.png" alt="logo" /></a>
+  </li>
+  <li><a href="//en.avasa.it" class="nav-extra">English version</a></li>
+  <li><label id="nav-espandi" class="nav-extra" for="nav-toggle"></label></li>
+  <li><a href="/eventi/eventi-lista.htm">Eventi</a>
+    <ul id="nav-eventi">
+    <li><a href="/eventi/in risalto.htm">In risalto</a></li>
+    <li><a href="/eventi/eventi.htm#">Tutti gli eventi 2020</a></li>
+    <li class="indent"><a href="/eventi/eventi.htm#ZE04-06">aprile-giugno 2020</a></li>
+    <li class="indent"><a href="/eventi/eventi.htm#ZE01-03">gennaio-marzo 2020</a></li>
+    <li><a href="/eventi/eventi.htm#">Tutti gli eventi 2019</a></li>
+    <li class="indent"><a href="/eventi/eventi.htm#ZD10-12">ottobre-dicembre 2019</a></li>
+    <li class="indent"><a href="/eventi/eventi.htm#ZD07-09">luglio-settembre 2019</a></li>
+    <li class="indent"><a href="/eventi/eventi.htm#ZD04-06">aprile-giugno 2019</a></li>
+    <li class="indent"><a href="/eventi/eventi.htm#ZD01-03">gennaio-marzo 2019</a></li>
+    <li><a href="/eventi/eventi.htm#2018">Tutti gli eventi 2018</a></li>
+    <li class="indent"><a href="/eventi/eventi.htm#ZC10-12">ottobre-dicembre 2018</a></li>
+    <li class="indent"><a href="/eventi/eventi.htm#ZC7-9">luglio-settembre 2018</a></li>
+    <li class="indent"><a href="/eventi/eventi.htm#ZC4-6">aprile-giugno 2018</a></li>
+    <li class="indent"><a href="/eventi/eventi.htm#ZC1-3">gennaio-marzo 2018</a></li>
+    <li><a href="/eventi/eventi.htm#2017">Tutti gli eventi 2017</a></li>
+    <li class="indent"><a href="/eventi/eventi.htm#ZB10-12">ottobre-dicembre 2017</a></li>
+    <li class="indent"><a href="/eventi/eventi.htm#ZB7-9">luglio-settembre 2017</a></li>
+    </ul>
+  </li>
+  <li><a id="testt" href="/AVASA-Urkesh.htm">Urkesh</a>
+    <ul id="nav-urkesh">
+    <li><a href="/oltre Urkesh.htm">Urkesh&nbsp;oltre&nbsp;Urkesh</a></li>
+    <li><a href="/AVASA.htm">AVASA</a></li>
+    <li><a href="/Siria.htm">Non pi&ugrave; stranieri</a></li>
+    <li><a href="/video.htm">Video introduttivo</a></li>
+    <li><a href="/website.htm">Il sito avasa.it</a></li>
+    </ul>
+  </li>
+  <li><a href="/fondatori.htm">Fondatori</a>
+    <ul id="nav-fondatori">
+    <li><a href="/Cariplo.htm">Fondazione Cariplo</a></li>
+    <!-- <li><a href="/fondatori-ARCA.htm">ARCA</a></li> -->
+    <li><a href="/fondatori-AVSI.htm">AVSI</a></li>
+    <li><a href="/fondatori-CIofA.htm">Cotsen Institute</a></li>
+    <li><a href="/fondatori-CST.htm">Centro Servizi per il Territorio</a></li>
+    <li><a href="/fondatori-GMB.htm">GMB Foundation</a></li>
+    <li><a href="/fondatori-IIMAS.htm">IIMAS</a></li>
+    <li><a href="/fondatori-Meeting.htm">Meeting&nbsp;di&nbsp;Rimini</a></li>
+    <li><a href="/fondatori-Poscio.htm">Poscio</a></li>
+    <li><a href="/fondatori-steinmetz.htm">Steinmetz</a></li>
+    <li><a href="/fondatori-UNESCO.htm">UNESCO</a></li>
+    <li><a href="/fondatori-yard.htm">Yard</a></li>
+    </ul>
+  </li>
+  <li><a href="/archeologia.htm">Archeologia</a>
+    <ul>
+    <li><a href="/scavo.htm">Lo scavo</a></li>
+    <li><a href="/scavato.htm">Lo scavato</a></li>
+    <li><a href="/conservazione.htm">La conservazione</a></li>
+    <li><a href="/oggetti.htm">Oggetti</a></li>
+    <li><a href="/fruizione.htm">Fruizione</a></li>
+    <li><a href="/ricerca.htm">Ricerca</a></li>
+    </ul>
+  <li><a href="/progetti.htm">Progetti di ricerca</a>
+    <ul>
+    <li><a href="/abdel ghafour.htm">Samer Abdel Ghafour</a></li>
+    <li><a href="/ahmad.htm">Amer Ahmad</a></li>
+    <li><a href="/crescioli.htm">Lorenzo Crescioli</a></li>
+    <li><a href="/de pietri.htm">Marco De Pietri</a></li>
+    <li><a href="/kharobi.htm">Arwa Kharobi</a></li>
+    <li><a href="http://www.iimas.org/fellows_lynch.html">Jonah Lynch</a></li>
+    <li><a href="/mahmoud.htm">Yasmine Mahmoud</a></li>
+    <li><a href="/moualla.htm">Yara Moualla</a></li>
+    <li><a href="/qassar.htm">Hiba Qassar</a></li>
+    <li><a href="/recht.htm">Laerke Recht</a></li>
+    <li><a href="/walker.htm">James Walker</a></li>
+    </ul>
+ </li>
+  <li><a href="/comunicazione.htm">Comunicazione</a>
+    <ul>
+    <li><a href="/mostre.htm">Mostre</a></li>
+    <li><a href="/presentazioni.htm">Conferenze</a></li>
+    <li><a href="/pubblicazioni.htm">Pubblicazioni</a></li>
+    <li><a href="/rapporti.htm">Rapporti</a></li>
+    <li><a href="/musica.htm">Musica</a></li>
+    <li><a href="/social.htm">Social</a></li>
+    </ul>
+  </li>
+  <li><a href="/formazione.htm">Urkesh oggi</a>
+    <ul>
+    <li><a href="/visite.htm">Visite al sito</a></li>
+    <li><a href="/mostre Siria.htm">Mostre a Qamishli</a></li>
+    <li><a href="/scuole.htm">Scuole&nbsp;primarie</a></li>
+    <li><a href="/scuole_dett.htm">Scuole&nbsp;medie</a></li>
+    <li><a href="/superiori.htm">Scuole&nbsp;superiori</a></li>
+    <li><a href="/universita'.htm">Universit&agrave;</a></li>
+    <li><a href="/sensibilizzazione.htm">Nei&nbsp;villaggi</a></li>
+    <li><a href="/uno-a-uno.htm">A quattr'occhi</a></li>
+    </ul>
+  </li>
+  <li><a href="/sviluppo.htm">Sviluppo</a>
+    <ul>
+    <li><a href="/entroterra.htm">L'entroterra</a></li>
+    <li><a href="/comunita`.htm">Le comunit&agrave;</a></li>
+    <li><a href="/parco.htm">Il parco</a></li>
+    <li><a href="/progettazione.htm">Progettazione</a></li>
+    <li><a href="/atelier.htm">Atelier</a></li>
+    </ul>
+  </li>
+  <li><a href="/immagine.htm">L'immagine</a>
+    <ul>
+    <li><a href="/riconoscimenti.htm">Riconoscimenti</a></li>
+    <li class="indent"><a href="/riconoscimenti - WMF.htm">2006 WMF</a></li>
+    <li class="indent"><a href="/riconoscimenti - AIA.htm">2011 AIA</a></li>
+    <li class="indent"><a href="/riconoscimenti - SAF.htm">2017 SAF</a></li>
+    <li class="indent"><a href="/riconoscimenti - ILUCIDARE.htm">2020 ILUCIDARE</a></li>
+    <li><a href="/media.htm">Nei media</a></li>
+    </ul>
+  </li>
+  <li><a href="/...e voi.htm">...e voi?</a></li>
+<br>
+
+  <li><a href="http://www.urkesh.org" class="nav-extra">Sito in rete di Urkesh</a></li>
+</ul>
+.<br>
+<script>
+a = document.querySelectorAll('nav > ul > li');
+for (i = 0; i < a.length; i++) { 
+    b = a[i].querySelectorAll('li > a');
+    for (j = 0; j < b.length; j++) {
+        if (b[j] && (location.protocol+'//'+location.host+location.pathname).toLowerCase() === (b[j].protocol+'//'+b[j].host+b[j].pathname).toLowerCase() && location.pathname !== '/' ) {
+            b[j].classList.add('active');
+            a[i].classList.add('sub-active');
+            a[i].classList.add('nav-open');
+            var active = a[i];
+        }
+    }
+}
+</script>

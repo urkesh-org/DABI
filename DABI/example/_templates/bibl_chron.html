@@ -1,0 +1,40 @@
+{% extends "page.html" %}
+
+{% block content %}
+<div class="content">
+{{ page.content }}
+</div>
+
+<br>
+{% for bibliography in database_bibl|filter_site(page.folder)|sort(attribute='Y') %}
+{% if loop.changed(bibliography.Y[:4]) %}<a href="#{{bibliography.Y[:4]}}">{{bibliography.Y[:4].lstrip('0')}}</a>{% if not loop.last %}&nbsp; &nbsp;{% endif %}{% endif %}
+{% endfor %}
+
+<br><br>
+
+
+<table class="bibliography_index">
+<colgroup>
+    <col style="width: 100px;">
+    <col style="width: 250px;">
+    <col>
+</colgroup>
+<tr>
+    <th>Year
+    <th>Author
+    <th>Title
+{% for bibliography in database_bibl|filter_site(page.folder)|sort(attribute='Y') %}
+<tr{% if loop.changed(bibliography.Y[:4]) %} id="{{bibliography.Y[:4]}}"{% endif %}>
+    <td>{{ bibliography.Y.lstrip('0') }}
+    <td>{% for AU in bibliography.AU %}{{ AU }}{% if not loop.last %}; {% endif %}{% endfor %}
+    <td><i><a href="bibl.htm#{{bibliography.ID}}">{{ bibliography.T|short_title }}</a></i>
+{% endfor %}
+</table>
+
+
+<br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
+
+{%- endblock %}

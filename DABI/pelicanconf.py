@@ -24,9 +24,10 @@ YEAR = ''  # datetime.datetime.now().strftime("%Y")
 
 # --- File locations ---
 PATH = '.'  # current working directory, all paths are relative to this
+#PATH = Path(__file__).parent if not getattr(sys, 'frozen', False) else Path(sys._MEIPASS)  # check if in exe bundle
 IGNORE_FILES = ['_*', '*/_*', 'web.config']  # ignore all files and directories starting with "_"
 OUTPUT_PATH = '_website/'
-DELETE_OUTPUT_DIRECTORY = False  # ATTENTION!
+DELETE_OUTPUT_DIRECTORY = True  # delete output directory to remove old content and correct hardlinks
 RELATIVE_URLS = True
 READERS = {'html': None, 'htm': None, 'rst': None, 'markdown': None, 'mkd': None, 'mdown': None}  # only *.md rendering
 FILENAME_METADATA = r'(?P<title>.*)'  # get default title from filename

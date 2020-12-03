@@ -1,0 +1,25 @@
+{% extends "page.html" %}
+
+{% macro authorship() -%}
+    <ol>
+        {% for bibliography in database_bibl|filter_site(page.folder)|filter_SA(page.s) %}
+            <li><i><a href="../bibl.htm#{{bibliography.ID}}">{{ bibliography.REF }}</a></i></li>
+        {% endfor %}
+    </ol>
+{%- endmacro %}
+
+{% macro authorship_notes() -%}
+    <ol>
+        {% for note, letter in chapters|filter_site(page.folder)|filter_NA(page.s) %}
+            <a href="../Notes/{{note.ID.split(".",1)[0].zfill(2)}}.htm#{{note.ID}}{{letter}}">{{note.ID}}{{letter}}</a>{% if not loop.last %}, {% endif %}
+        {% endfor %}
+    </ol>
+{%- endmacro %}
+
+
+
+{% block content %}
+<div class="content">
+{{ page.content | replace('[AUTHORSHIP]', authorship()) | replace('[AUTHORSHIP-NOTES]', authorship_notes()) }}   
+</div>
+{% endblock %}

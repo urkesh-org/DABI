@@ -1,0 +1,13 @@
+AU Ravn, O.E.
+Y 1941
+T *The So-called Relative Clauses in Accadian or the Accadian Particle &#352;a*
+P Kjbenhavn 1941, pp. 120.
+
+
+@@@Lg
+SA Giorgio Buccellati
+SD 1994
+NR 
+TO 
+
+Starting out from the theory about the determinative character of *&#353;a*, first set forth by Ungnad (to whom the book is dedicated), deals with *&#353;a* outside of relative clauses or introducing them. The documentation is drawn primarily from the Code of Hammurapi and other OB texts (pp. 9 -89), but includes also samples from all other major dialects (65-69, 90-113). —*&#352;a* outside of relative clauses or *&#353;a* of nominal connection (i.e. determinative)  is not a pronoun, because it is not inflected (30 f.), nor is it a preposition (29); it is, instead, a "pronominal particle" (30). When preceded by an explicit antecedent, *&#353;a* is "representative" in that it resumes the antecedents) (11); when not so preceded, *&#353;a* is simply and sufficiently determined by the "adjunct" which follows in the genitive, e.g. *&#353;a ak&#257;lim* "something to eat" (18). In either case, *&#353;a* is "generalizing," though it remains restricted to a limited number of objects (i.e., it is not an indefinite pronoun, 32). Ungnad's term "determinative" is rejected because it can be confused with the term used for semantic indicators in cuneiform, such as DINGIR in front of DN's (31). —*&#352;a* introducing relative clauses, or *&#353;a* of verbal connection (i.e. relative) is not a pronoun, because not inflected (33-36); it is simply a particle, which can be deleted without substantial change of meaning. The main difference between constructions with and without such a particle is that in the former the head of the attributive clause is normally a "new item," whereas in the latter the head has already been presented to the listener (55-59). Also, in practice, constructions with *&#353;a* are the only ones to admit resumptive suffixes though in theory constructions without could possibly have the same suffixes (54). -In texts other than the Code the usage remains the same, but for few exceptions, e.g. in OAkk. the rarer use of *&#353;a* and on the other hand the use of the inflected pronoun. Occasionally, *&#353;a* is used in such a way as to appear to serve as a preposition or a conjuntion (115). -[One of the main conclusions of the author, that *&#353;a* is not a relative pronoun like English "who, whome, etc.," is based on a comparison limited solely to surface features: hence, while such conclusion is correct, it is not particularly meaningful, -Cf. UNGNAD 1942 "Ravn," GOETZE 1947 "Ravn."]

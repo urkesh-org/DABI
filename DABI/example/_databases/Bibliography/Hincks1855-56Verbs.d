@@ -1,0 +1,13 @@
+AU Hincks, E.
+Y 1855 -56
+T "On Assyrian Verbs"
+P *Journal of Sacred Literature and Biblical Record* (London), [Third Series] 1 (1855) 381-93; 2(1855-56) 141-62; 3 (1856) 152-71; 392-403. 
+
+
+@@@Lg
+SA Giorgio Buccellati
+SD 1994
+NR 
+TO verbal system; aorist; permansive
+
+The first comprehensive account of the verbal system, with a section (1:389-93) on writing. The preterite B ("Aorist of Qal") is described at some length as being the most common form in the available texts: two paradigms give the inflection for person and for the ventive mood (the latter is called "augment of locomotion" with verbs of motion, and "augment of regimen" with transitives followed by a pronominal suffix or a noun as the object); in addition it is stated that the verb can take two enclitics, a subjunctive in the form *-u* after consonant and *-ni* after vowel, and a copulative in the form *-va* [i.e. *-ma*], which is adversative when the first sentence is positive and the second negative; he also notes that the conjunction between nouns is *u* as a separate word (1:383-88). The "Aorist" is used for past action (2:141-43). The main forms from weak roots are noted on p. 149 f. Other tenses are the preterperfect in *-u* [actually forms of the sujunctive in special environments], the present indicated as *apakal* [*pkl* are used to denote radicals] and compared with the Ethiopic "contingent,” and the future derived from the present by adding an *-u* [also subjunctive] (2:150-57). Imperative, precative and optative are stated correctly on pp. 157-60. The "continuative" [i.e. the permansive] is given as the last tense, also with the indication that it can be formed from substantives. Forms with infixed *ta* and *tan* are considered as temporal in meaning, identical to the aorist to denote past action, and called "second aorist" (3:152-57); similarly, a permansive Bt *pitluh&#257;k* is called "second continuative (157). The N, D and &#352; conjugations are treated in the rest of the paper, with an analysis of the forms, from strong and from weak roots, which is substantially correct. Quadriradicals are briefly but correctly identified on p. 3:159, and even dialectal differentiations between Babylonian and Assyrian are observed (3:1 64). — [This  series of articles, which remains apparently incomplete, is a superb achievement, exhibiting as it does a secure control of the data and a very mature judgement in the linguistic analysis — a fact which is all the more remarkable in that this was the first serious monograph of Akkadian grammar to be written.]
