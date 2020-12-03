@@ -23,7 +23,7 @@ TO (optional) topic; other topic; etc
 Here goes the summary (after a new line), every line now is part of the summary (until another @@@ or @NOTES).
 Use two new lines for a new paragraph.
 
-In here you can use [Markdown]( https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet ) and dashes, quotes, ellipses (e.g. *italics* , **bold** , ***italics & bold***, [text](link.htm), ![image text](image.png), <<quotation marks>>, -- en-dash, ... ellipses).  
+In here you can use [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and dashes, quotes, ellipses (e.g. *italics* , **bold** , ***italics & bold***, [text](link.htm), ![image text](image.png), <<quotation marks>>, -- en-dash, ... ellipses).  
 For complex formatting you can use HTML (e.g. 10<sup>th</sup>, <small>small text</small>).
 
 To reference another entry you can use {B}site/ID_of_the_entry (e.g. {B}R/Abusch2015Gilgamesh).

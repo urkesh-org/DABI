@@ -12,7 +12,6 @@ and custom plugin for database parsing (see `DABI_databases/`).
 
 ## Getting started
 
-
 Required at least Python 3.7.
 
 To install the program in the DABI directory:
@@ -22,22 +21,21 @@ cd DABI
 python -m pip -r requirements.txt
 ```
 
-To run the program:
+To run the program for the example website:
 ```shell
-cd website_root_directory
-/DABI/DABI.py
+cd example
+../DABI.py
 ```
 
 
-
-## Website structure in root directory
+## Website root directory structure
 
 ```
 /_databases/*/*.d      -->  databases for custom pages (bibliography, notes, etc)
 /_templates/*.html     -->  templates for generating the HTML from .md (written with jinja2 scripting)
 /_website/*.*          -->  output of the program, NOT user editable
 /_archives/*.*         -->  old versions of website, NOT editable
-/_DABI.exe             -->  DABI program
+/_DABI.exe             -->  DABI program [TODO exe bundle]
 /_DABI.log             -->  log of DABI program
 /_DABI_config.ini      -->  configuration for DABI program
 /*.*                   -->  input files, .md are processed and converted to .htm, other files are hardlinked
@@ -46,37 +44,24 @@ cd website_root_directory
 All input filenames starting with "_" are ignored by the the program.
 
 
+### Pages .md
 
-## Pages .md
+The MarkDown pages contains metadata at the top followed by the content.
 
-All pages have metadata at the top followed by the content (separated by a couple of new lines).
+The metadata is in the format `KEY value` for each line.  
+The content is in MarkDown, also normal HTML is allowed.  
+For complicated or repetitive layout, use [jinja2](https://jinja.palletsprojects.com/) in templates.
 
-The metadata is in the format `KEY value` for each line.
+The `.md` pages are converted to `.htm` using the templates, with headers and navigation.
 
-The content is in MarkDown, see here for documentation: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
-Normal HTML is allowed.  
-For complicated or repetitive layout, use jinja2 in templates.
-
-The HTML headers and menu are added automatically using the templates.
-
+For metadata and codes documentation see `example/_databases/_README_pages.md`.
 
 
-### Metadata for pages .md
+### Databases .d
 
-AU author(s), separated by semicolon
-D date (if missing last file modification date will be used)
-T title
-TO (optional) topics (semicolon separated)
-S (optional) subtitle
-DE (optional) description, used for describing the page to Search Engines (as Google)
-HTML (optional) custom template
+The flat-files databases are stored in `_databases/`.
+Each `.d` file is processed by the program and the data is available to the templates
+by the variables `database_bibl`, `chapters` and `database_topics`.
 
-
-
-## Databases .d
-
-See inside "_databases/" for the description of each database.  
-The files are processed by the program and are available to the templates in the `database_bibl`, `chapters`, and `database_topics` variable.
-
-To reference other entries: `{B}site/ID_of_the_entry` (e.g. `{B}R/Abusch2015Gilgamesh` ).
+For metadata and codes documentation see `example/_databases/_README_Bibliography&Notes.md`.
 

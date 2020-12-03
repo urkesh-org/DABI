@@ -1,7 +1,8 @@
-T Title
-S Subtitle
-AU Author
-D Date [month year]
+AU author
+D date [month year]
+T title
+S (optional) subtitle
+TO (optional) topic; other topic; etc
 HTML (optional) custom template
 NAV (optional) custom sidebar navigation
 
@@ -20,8 +21,6 @@ To change the HTML style edit the file "4banks.css".
 
 
 
-
-
 Other Markdown examples:
 
 ### Header
@@ -31,19 +30,16 @@ Other Markdown examples:
 | text row 1    | text          | text        |
 | text row 2    | other text    | other text  |
 
-
 1. example list
 2. another element
-
 
 * this is
 * an unordered list
 
-
 > Blockquote
 
-
 horizontal rule:
+
 ---
 
 
@@ -55,6 +51,5 @@ horizontal rule:
 other metadata that can be useful (NOT implemented):
 C Category
 T Tags
-D Description
-NAV nav_bibl
+DE (optional) description, used for describing the page to Search Engines (as Google)
 -->
