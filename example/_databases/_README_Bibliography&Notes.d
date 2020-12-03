@@ -13,8 +13,8 @@ P (optional) publication
 P (optional) multi-line publication
 
 
-; summary: @@@ + site abbreviation (L: Literature, P: Politics, R: Religion, A: Art, Lg: Linguistics)
-; use semicolon for multiple site association of same summary, if there are other summaries for the same publication use @@@ again after the summary/notes
+; before summary: @@@ + site abbreviation (L: Literature, P: Politics, R: Religion, A: Art, Lg: Linguistics)
+; use semicolon for multiple site association to the same summary (eg. @@@L;R;A), if there are other summaries for the same publication use @@@ again after the summary/notes
 @@@L
 SA summary author (abbreviation); other summary author; etc
 SD summary date (day Month year or Month year)
@@ -35,7 +35,7 @@ To reference another entry you can use {B}site/ID_of_the_entry (e.g. {B}R/Abusch
 @NOTES L/1.1
 NA note author (abbreviation); other note author; etc
 ND note date (day Month year or Month year)
-CT (optional) category, used for sorting
+CT (optional) category (used for sorting)
 TO (optional) topic; other topic; etc
 
 Here goes the note text (after a new line), it works the same way as the summary.

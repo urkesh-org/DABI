@@ -1,8 +1,0 @@
-# Python libraries required for the programs to run
-# Install with "python -m pip install -U -r requirements.txt"
-
-pelican==4.2.0
-jinja2
-Markdown
-watchdog
-colorama

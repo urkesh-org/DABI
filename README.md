@@ -1,17 +1,34 @@
 # DABI: Digital Analysis of Bibliographical Information
 
-Generate static website from .md pages and .d databases, using metadata and MarkDown.
+Generate static website from .md pages, using flat-files database databases, page metadata and MarkDown.
 
 
-### Installation
+## How It Works
+
+DABI uses [pelican](https://github.com/getpelican/pelican) with custom configuration (see `pelicanconf.py`),
+custom start and autoreload (see `DABI.py`),
+and custom plugin for database parsing (see `DABI_databases/`).
 
 
-### Usage
-
-`cd website_root_directory; DABI.py`
+## Getting started
 
 
---- pelican
+Required at least Python 3.7.
+
+To install the program in the DABI directory:
+```shell
+git clone https://github.com/urkesh-org/DABI.git
+cd DABI
+python -m pip -r requirements.txt
+```
+
+To run the program:
+```shell
+cd website_root_directory
+/DABI/DABI.py
+```
+
+
 
 ## Website structure in root directory
 

@@ -3,6 +3,7 @@ S Subtitle
 AU Author
 D Date [month year]
 HTML (optional) custom template
+NAV (optional) custom sidebar navigation
 
 
 Here goes the page text (after a new line), every line now is part of the text.

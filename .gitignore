@@ -1,0 +1,13 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Program specific ignores
+*.swp
+*.bak
+.idea/
+.vscode/
+
+
+# log files
+*.log
