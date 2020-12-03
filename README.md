@@ -1,6 +1,6 @@
 # DABI: Digital Analysis of Bibliographical Information
 
-Generate static website from .md pages, using flat-files database databases, page metadata and MarkDown.
+Generate static website from .md pages, using flat-file databases, page metadata and MarkDown.
 
 
 ## How It Works
@@ -32,7 +32,7 @@ cd example
 
 ```
 /_databases/*/*.d      -->  databases for custom pages (bibliography, notes, etc)
-/_templates/*.html     -->  templates for generating the HTML from .md (written with jinja2 scripting)
+/_templates/*.html     -->  templates for HTML generaation (written with Jinja2 scripting)
 /_website/*.*          -->  output of the program, NOT user editable
 /_archives/*.*         -->  old versions of website, NOT editable
 /_DABI.exe             -->  DABI program [TODO exe bundle]
@@ -59,7 +59,7 @@ For metadata and codes documentation see `example/_databases/_README_pages.md`.
 
 ### Databases .d
 
-The flat-files databases are stored in `_databases/`.
+The flat-file databases are stored in `_databases/`.
 Each `.d` file is processed by the program and the data is available to the templates
 by the variables `database_bibl`, `chapters` and `database_topics`.
 
