@@ -383,7 +383,7 @@ def parse_bibl(text, file_id, sites_abbr, settings, authorship_dict):
     
     if getattr(bibliography, 'entries'):  # if a summary is present
         # AU, T, Y are mandatory
-        missing = [key for key in ('AU', 'T', 'Y') if not getattr(bibliography, key)]
+        missing = [key for key in ('AU', 'Y', 'T') if not getattr(bibliography, key)]
         if missing:
             raise UserWarning(f'missing mandatory keys "{", ".join(missing)}"')
 
