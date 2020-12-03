@@ -50,7 +50,7 @@ The MarkDown pages contains metadata at the top followed by the content.
 
 The metadata is in the format `KEY value` for each line.  
 The content is in MarkDown, also normal HTML is allowed.  
-For complicated or repetitive layout, use [jinja2](https://jinja.palletsprojects.com/) in templates.
+For complicated or repetitive layout, use [Jinja2](https://jinja.palletsprojects.com/) in templates.
 
 The `.md` pages are converted to `.htm` using the templates, with headers and navigation.
 
@@ -65,3 +65,13 @@ by the variables `database_bibl`, `chapters` and `database_topics`.
 
 For metadata and codes documentation see `example/_databases/_README_Bibliography&Notes.md`.
 
+
+
+## Authors
+
+* **Bernardo Forni** - [fornib](https://github.com/fornib)
+
+
+## Licensing
+
+MIT
