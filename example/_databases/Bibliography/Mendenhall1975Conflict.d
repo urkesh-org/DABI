@@ -7,7 +7,7 @@ P in Goedicke and Roberts, *Unity and Diversity*
 SA jJL
 SD March 2020
 NR 4.4; 8.4
-TO Monotheism; Polytheism; Covenant; Law
+TO monotheism; polytheism; covenant; law
 
 This insightful article distinguishes sharply between **Biblical monotheism** (particularly in its moral structure) and **Mesopotamian polytheism** (which Mendenhall likens to contemporary North American society, and liberalism in general).
 

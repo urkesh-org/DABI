@@ -6,7 +6,7 @@ P Cambridge: Harvard University Press
 @@@R
 SA jJL
 SD October 2020
-TO sacrifice; teleology; biology; religious sense
+TO sacrifices; teleology; biology; religious sense
 
 <<Sacrifice—ranging from the sacrifice of virgins to circumcision to giving up what is most valued—is essential to all religions. Could there be a natural, even biological, reason for these practices? Something that might explain why religions of so many different cultures share so many rituals and concepts? In this extraordinary book, one of the world’s leading authorities on ancient religions explores the possibility of natural religion—a religious sense and practice naturally proceeding from biological imperatives.
 

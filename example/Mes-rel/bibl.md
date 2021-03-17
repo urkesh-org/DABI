@@ -1,7 +1,6 @@
 T Annotated bibliography
 S Alphabetical by author
 HTML bibl
-NAV nav-bibl
 
 
 

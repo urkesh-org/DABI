@@ -6,7 +6,7 @@ P History of the ancient Near East. Monographs 15. Padova: Sargon Editrice Libre
 @@@ R
 SA sE
 SD October 2020
-TO *Šumma izbu*; divination
+TO Šumma izbu; divination
 
 «Mesopotamia can be characterized as a “divination culture” more than any other ancient civilization. Because divination plays a pivotal role in the Mesopotamian belief system, understanding its hermeneutic apparatus becomes crucial to any study devoted to it. This two-volume book provides a comprehensive analysis of one of the most important divinatory compositions from ancient Mesopotamia, the series known in the field as *Šumma izbu* “If a malformed birth,” which deals mostly with malformed human and animal births.
 

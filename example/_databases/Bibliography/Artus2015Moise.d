@@ -10,3 +10,8 @@ TO Moses; revelation; divine anger
 
 [Author's summary] The narrative of Num 11:4-34 emphasizes the particular authority and prophetic status of Moses. It thus contradicts the hierocratic perspective and the overall composition of the book of Numbers, and can be connected to texts which, in the formation of the Pentateuque, underline Moses' specific prophetic authority. Verses 26-29 of the pericope however express a reservation regarding mosaic mediation of the gift of the spirit, and thus contests the scribes' claim to consider the Torah as the exclusive expression of revelation.
 
+@NOTES R/10.4
+NA jJL
+ND January 2021
+
+On the prophetic status of Moses, see {B}R/Artus2015Moise.

@@ -35,7 +35,7 @@ NA sE
 ND 19 October 2020
 TO holiness
 
-See {B}R/Pongratz-Leisten2015TranslatabilityHoliness, in which the scholar discusses whether the notion of the 'holy' is an adequate concept to apply to ancient Near Eastern religions, their world view and their cult.
+See {B}R/PongratzLeisten2015TranslatabilityHoliness, in which the scholar discusses whether the notion of the 'holy' is an adequate concept to apply to ancient Near Eastern religions, their world view and their cult.
 
 
 @NOTES R/3.8

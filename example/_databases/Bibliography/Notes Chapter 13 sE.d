@@ -1,7 +1,7 @@
 @NOTES R/13.2
 NA sE
 ND 3 November 2020
-TO Wisdom; literature
+TO wisdom
 
 For an interesting synthesis on Mesopotamian animal sacrifices (with a few comparisons with the Biblical sacrifices) see {B}R/Scurlock2002AnimalSacrifice.
 

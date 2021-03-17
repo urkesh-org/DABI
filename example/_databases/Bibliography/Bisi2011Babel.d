@@ -16,7 +16,7 @@ An analysis of the biblical story of the tower of Babel, seen as the condemnatio
 @NOTES R/6.8
 NA jJL
 ND March 2020
-TO Tower of Babel, Divine Word, language
+TO Tower of Babel; divine word; language
 
 The Tower of Babel re-interpreted by the Israelites in Exile: {B}R/Bisi2011Babel.
 
@@ -24,6 +24,6 @@ The Tower of Babel re-interpreted by the Israelites in Exile: {B}R/Bisi2011Babel
 @NOTES R/6.8
 NA jJL
 ND March 2020
-TO Tower of Babel, Divine anger
+TO Tower of Babel; divine anger
 
 In the biblical perspective, divine wrath is the consequence of an opposition between two wills. For Gonzalez, it also has a pedagogical meaning: {B}R/Gonzalez2015Colere. 

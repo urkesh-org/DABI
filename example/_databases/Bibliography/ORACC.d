@@ -9,7 +9,7 @@ SA mDP
 SD August 2020
 TO cuneiform texts
 
-A useful corpus of cuneiform texts: <<Oracc is a collaborative effort to develop a complete corpus of cuneiform whose rich annotation and open licensing support the next generation of scholarly research. Created by Steve Tinney, Oracc is steered by Jamie Novotny, Eleanor Robson, Tinney, and Niek Veldhuis>> (from website).
+A useful corpus of **cuneiform texts**: <<Oracc is a collaborative effort to develop a complete corpus of cuneiform whose rich annotation and open licensing support the next generation of scholarly research. Created by Steve Tinney, Oracc is steered by Jamie Novotny, Eleanor Robson, Tinney, and Niek Veldhuis>> (from website).
 
 
 

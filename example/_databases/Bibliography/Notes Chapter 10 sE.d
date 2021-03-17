@@ -1,14 +1,14 @@
 @NOTES R/10.1
 NA sE
 ND 1 November 2020
-TO Divination; magic 
+TO divination; magic 
 
 Against a model based on two separate categories distinguished by procedure or technique ("technical / operational / deductive" vs, "intuitive / direct / inspired" see {B}R/Kitz2003Prophecy.
 
 @NOTES R/10.1
 NA sE
 ND 1 November 2020
-TO Extispicy 
+TO extispicy 
 
 In ancient Mesopotamia, extispicy is very often compared to a trial: see e.g. {B}R/Koch2010Strikes (esp. pp. 51-53)
 

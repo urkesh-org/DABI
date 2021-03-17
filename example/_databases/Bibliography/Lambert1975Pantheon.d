@@ -6,7 +6,7 @@ P in Goedicke and Roberts, *Unity and Diversity*
 @@@R
 SA jJL
 SD March 2020
-TO Monotheism; Polytheism; Marduk
+TO monotheism; polytheism; Marduk
 
 This article documents the development of several strands of Mesopotamian **polytheism**, which present different numbers of gods and also show the absorption of some lesser gods into more important gods. One example, a short text which lists 14 gods as different aspects of Marduk, was brought to general attention by Friedrick Delitzsch. It <<has indeed every claim to present **Marduk as a monotheistic god**. The deities being identified with him are major ones of the pantheon.>> (p. 198). 
 

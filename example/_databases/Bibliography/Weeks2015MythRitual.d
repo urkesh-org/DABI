@@ -6,7 +6,7 @@ P *Journal of Ancient Near Eastern Religions* 15, 92-111.
 @@@ R
 SA sE
 SD November 2020
-TO rituals; myth; New Year; *Enuma Eliš*
+TO rituals; myths; New Year festival; Enūma elīš
 
 By discussing several examples where a ritual has a clear connection to a myth from the ancient Near East, the author aims to emphasize that the connection of myth and ritual varied within different cultures and periods. Additionally, the author highlights how very often myths involved in rituals are different from the myths known from the literary tradition, thus making it difficult for a modern reader to understand the separate functions for the literary tradition and whatever tradition lay behind ritual texts.
 

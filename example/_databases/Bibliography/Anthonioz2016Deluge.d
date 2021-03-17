@@ -6,7 +6,7 @@ P Durand, Jean-Marie; Marti, Lionel; R&ouml;mer, Thomas (eds.) *Col&egrave;res e
 @@@R
 SA jJL
 SD April 2020
-TO Divine wrath; Flood story; divine anger; repentance 
+TO divine wrath; flood; divine anger; repentance 
 
 Author’s summary: The biblical god is often an angry god. The lexical fields of **divine wrath** as well as the wide number of references leave no doubt about this statement. However, the biblical god manifests no such anger in the flood story whereas in Mesopotamian sources the flood itself has come to symbolize divine wrath. Even more, it is **divine repentance** that enacts the biblical flood and the destruction of humanity. It is the object of this communication to analyze the literary structures and the narrative function of wrath and repentance in the Mesopotamian flood story *Atra-hasis* and the biblical flood narrative (Gn 6–9:17), compare them and show their ideological and theological differences. 
 
@@ -25,6 +25,6 @@ Note that the source of evil in Mesopotamia is "dissonance", "noise", not disobe
 @NOTES R/8.5
 NA jJL
 ND June 2020
-TO rigmu; noise; sin
+TO rigmu (Akkadian); noise; sin
 
 Note that the source of evil in Mesopotamia is not disobedience, as it is in the Biblical account. See the discussion in {B}R/Anthonioz2016Deluge.

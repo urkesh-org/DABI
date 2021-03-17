@@ -15,3 +15,16 @@ According to Hundley, while anthropomorphism is the most prominent characteristi
 Deities were very often anthropomorphic, but there were non-anthropomorphic gods as well, together with human-animal or animal-animal hybrids and even inanimate beings (stars, planets, and other celestial bodies; natural phenomena and elements; human-made objects; abstract elements). The "minimal quality" which seems to have been applied to Mesopotamian deities was the ability to positively or negatively affecting humanity. In addition to this potency, other various other qualities were recognized to supernal entities, *in primis* awesomeness (the ability to elicit fear, fascination, and humility) and a divine radiance (especially in the first millennium BCE).
 
 Hundley, then, investigates the Mesopotamian pantheon - considering it as a holistic ordering of the world, with a specific deity assigned to the areas of the cosmos they deemed important: the pantheon, then, reveals the ancient Mesopotamian attempt to understand and somehow even control the earthly world. He actually considers Mesopotamian gods as "divine constellations", in which the various elements are connected to a more or less unified entity and share in its identity. In other words, each major god consists of a constellation of aspects, which may act and be treated (semi-)independently." (pp. 80-81)
+
+
+@NOTES R/3.1
+NA jJL
+ND January 2021
+
+See {B}R/Hundley2013Examination for a detailed investigation of the Mesopotamian divine sphere. 
+
+@NOTES R/5.1
+NA jJL
+ND January 2021
+
+See {B}R/Hundley2013Examination for a nuanced exposition of Mesopotamian divine unity and plurality.

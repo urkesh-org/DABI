@@ -4,5 +4,5 @@
 pelican==4.2.0
 jinja2
 Markdown
-watchdog
+watchdog==0.10.4
 colorama

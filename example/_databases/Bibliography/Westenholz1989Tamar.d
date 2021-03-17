@@ -1,4 +1,4 @@
-AU Goodnick Westenholz, Joan 
+AU Westenholz, Joan Goodnick 
 Y 1989
 T "Tamar, Qedeša, Qadištu, and Sacred Prostitution in Mesopotamia"
 P *The Harvard Theological Review* 82/3, pp. 245-265.

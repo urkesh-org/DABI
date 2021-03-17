@@ -17,3 +17,16 @@ Then, while noting that gods with greater cosmic importance (such as those linke
 Lambert also discusses the fact that by both theological thinking and the power of priests of major temples, the total number of different gods was diminished over the centuries - one consequence of this fact being an increase in the names of the main deities. Taking Marduk as an example, Lambert notes how in the late-second and first millennium BCE no less than fifty names were attributed to that god - consisting of the sum of his own names and epithets, and of names of those gods whom he had absorbed by being equated with them by Mesopotamian theologians. As a final step, Marduk by the late second millennium had become head of the pantheon, resulting in a kind of monotheism. Lambert also highlights, however, that this was quite a unique phenomenon: other gods always remained separate beings.
 
 Lambert, then, tackles the issue of whether the Mesopotamian anthropomorphic divine representations were preceded by a theriomorphic stage. He analyses symbols used to represent gods in various types of artistic forms, and he comes to the conclusion that supporting evidence of a pre-anthropomorphic stage of religion is lacking.
+
+
+@NOTES R/5.1
+NA jJL
+ND January 2021
+
+See {B}R/Lambert1990GodsSuperstition for a treatment of the plurality of gods in Mesopotamia.
+
+@NOTES R/5.2
+NA jJL
+ND January 2021
+
+See {B}R/Lambert1990GodsSuperstition for an interpretation of first millennium BC Mesopotamian "theology" as tending toward monotheism.

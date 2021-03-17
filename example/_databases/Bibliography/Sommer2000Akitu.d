@@ -6,7 +6,7 @@ P *Journal of Ancient Near Eastern Studies* 27, 81-95.
 @@@ R
 SA sE
 SD November 2020
-TO Akitu; ritual
+TO akitu; ritual
 
 In the opening paragraphs of this article, the author provides a detailed overview of previous scholarship in history of religions and Assyriology devoted to the understanding of the ultimate social and cultural purpose of the Akitu festival. Sommer focuses in particular on the works published by the historian of religion J. Z. Smith, who suggested that the festival functioned as a piece of national-religious propaganda.
 

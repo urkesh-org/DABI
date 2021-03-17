@@ -1,4 +1,4 @@
-@NOTES R/1.5
+﻿@NOTES R/1.5
 NA mDP
 ND 7 July 2020
 TO Book of Tobias
@@ -9,7 +9,7 @@ For the text of the **Book of Tobias**, see [*The New American Bible*](http://ww
 @NOTES R/1.6
 NA mDP
 ND 7 July 2020
-TO Poem of Erra
+TO Erra
 
 For Sumerian texts referring to [**Erra**](http://oracc.museum.upenn.edu/amgg/listofdeities/erra/index.html), see [ETCSL](http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?searchword=l=er3-ra%20t=DN&charenc=gcirc). Specifically, on the poem *Erra and Ishum*, see {B}R/Foster2005Before, pp. 880-911.
 
@@ -19,7 +19,7 @@ NA mDP
 ND 7 July 2020
 TO faith; reason
 
-For the **relationship between ‘faith’ and ‘reason’**, see e.g. the encyclical letter of John Paul II [*Fides et ratio*](http://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html); see also a famous speech of Pius XII ({B}R/PiuXII1951Discorso) explaining how the Bible and science are not in contradiction (cf. entry: {B}R/Ratzinger2004Introduction). 
+For the **relationship between ‘faith’ and ‘reason’**, see e.g. the encyclical letter of John Paul II [*Fides et ratio*](http://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html): see {B}R/JPII1998Fides; cf. also a famous speech of Pius XII ({B}R/PiuXII1951Discorso) explaining how the Bible and science are not in contradiction (cf. entry: {B}R/Ratzinger2004Introduction). 
 
 
 @NOTES R/1.9
@@ -33,7 +33,7 @@ On **‘repetition/reiteration’ of patterns** in archaeology as procedural sys
 @NOTES R/1.9
 NA mDP
 ND 7 July 2020
-TO ‘dead’ civilizations
+TO dead civilizations
 
 The topic of **‘dead’ civilizations**, linked to that of ‘broken tradition’, is explained by G. Buccellati and A. Bezzera on [CAR](https://critique-of-ar.net/themes/broken.htm).
 
@@ -46,13 +46,10 @@ TO cultural assumptions
 Human beings are culturally embedded. This concept of **calibrated ‘assumptions’** can be compared with the archaeological concept on ‘inference’, explained by M. De Pietri in [CAR](https://critique-of ar.net/themes/inference.htm).
 
 
-
-
-
 @NOTES R/2.4
 NA mDP
 ND 7 July 2020
-TO ‘before philosophy’
+TO before philosophy
 
 For the existence of a **philosophy ‘before philosophy’**, see mainly {B}R/Frankfort1949Before.
 
@@ -72,7 +69,7 @@ For the spiritual features of the figure of Abraham, see [Buccellati 2015b](http
 @NOTES R/2.6
 NA mDP
 ND 7 July 2020
-TO canon; Masoretic Text
+TO canon; Masoretic Text (MT)
 
 For the Bible as a **‘canon’** and specifically for the formation of the Old Testament, see the [‘Masoretic Text’ = MT](https://www.britannica.com/topic/Masoretic-text), based on a precise methodology called [‘Massorah’](http://www.jewishencyclopedia.com/articles/10465-masorah). 
 
@@ -82,7 +79,7 @@ The MT is fully available on [Sefaria.org](https://www.sefaria.org/texts/Tanakh)
 @NOTES R/2.6
 NA mDP
 ND 7 July 2020
-TO Thorkild Jacobsen
+TO Jacobsen, Thorkild
 
 On the figure and thought of **Thorkild Peter Rudolph Jacobsen** (1904-1993), see [CDLI:wiki](http://cdli.ox.ac.uk/wiki/doku.php?id=jacobsen_thorkild).
 
@@ -90,7 +87,7 @@ On the figure and thought of **Thorkild Peter Rudolph Jacobsen** (1904-1993), se
 @NOTES R/2.8
 NA mDP
 ND 7 July 2020
-TO long durée
+TO longue durée
 
 In general, for a debate on the ***longue durée*** theory, see the editorial paper in [*Annales 70/2*](https://www.cambridge.org/core/journals/annales-histoire-sciences-sociales-english-edition/article/debating-the-longue-duree/1B0693E068C8E86C6261A930D7A3D7BF).
 
@@ -136,13 +133,13 @@ TO Mesopotamia
 
 For a **brief historical overview on Mesopotamian history**, see {B}R/Meyers1997OEANE, Vol. 3, pp. 476-489. 
 
-Cf. also the *Ancient Mesopotamian Gods and Goddesses* website for a chronological [table](http://oracc.museum.upenn.edu/amgg/mesopotamianhistory/index.html) and [maps](http://oracc.museum.upenn.edu/amgg/mesopotamianhistory/maps/index.html).
+Cf. also the *Ancient Mesopotamian Gods and Goddesses* website ({B}R/AMGG) for a chronological [table](http://oracc.museum.upenn.edu/amgg/mesopotamianhistory/index.html) and [maps](http://oracc.museum.upenn.edu/amgg/mesopotamianhistory/maps/index.html).
 
 
 @NOTES R/2.13
 NA mDP
 ND 7 July 2020
-TO meso-potamoi (Greek)
+TO μεσο-ποτάμιος (meso-potámios: Greek)
 
 For the Greek origin of the term **‘Mesopotamia’**, see [LSJ](http://stephanus.tlg.uci.edu/lsj/#eid=68669), from [μέσος](http://stephanus.tlg.uci.edu/lsj/#eid=68678), “between” and [ποτᾰμός](http://stephanus.tlg.uci.edu/lsj/#eid=88502), “river”.
 
@@ -158,14 +155,11 @@ For the Akkadian expression ***kibrāt arba’īm***, see [CAD 8 = K, pp. 331-33
 @NOTES R/2.15
 NA mDP
 ND 7 July 2020
-TO š<sup>e</sup>ma` Yisra'el (Hebrew)
+TO š<sup>e</sup>ma` Yisra'el (שְׁמַע יִשְׂרָאֵל: Hebrew)
 
 For the ***š<sup>e</sup>ma` Yisra'el*** (שְׁמַע יִשְׂרָאֵל), the fundamental Hebrew prayer, see [here](http://www.jewishencyclopedia.com/articles/13548-shema). 
 
 The text comes from [*Deut.* 6, 4](https://www.tanakhml.org/d21.php2xml?sfr=5&prq=6&psq=4&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls).
-
-
-
 
 
 @NOTES R/3.1
@@ -192,15 +186,12 @@ TO Trisagion
 The text of the **‘Trisagion’** (Greek Τρισάγιον) derives directly from [*Is.* 6, 3](https://www.tanakhml.org/d21.php2xml?sfr=12&prq=6&psq=3&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls), paralleled in [*Rev.* 4, 8](http://www.vatican.va/archive/ENG0839/__P12N.HTM) (cf. [here](https://biblehub.com/interlinear/revelation/4.htm) for the interlinear text).
 
 
-
-
-
 @NOTES R/4.2
 NA mDP
 ND 8 July 2020
 TO Abraham’s conversion
 
-The **conversion of Abraham** is well-known from [*Gn.* 12](http://www.vatican.va/archive/ENG0839/__PE.HTM). 
+The **conversion of Abraham** is well-known from [*Gen.* 12](http://www.vatican.va/archive/ENG0839/__PE.HTM). 
 
 In an apocryphal text of the Old Testament, called ***The Apocalypse of Abraham***, in the first part it is also described the conversion of Abraham from idolatry to God. The full text of the volume publishing the apocrypha is {B}R/Box1918Apocalypse.
 
@@ -216,7 +207,7 @@ On the main work of **Gianbattista Vico** (1744 -- *Principj di scienza nuova*, 
 @NOTES R/4.3
 NA mDP
 ND 8 July 2020
-TO dying gods
+TO dying god
 
 On the topic of the **‘death of gods’** in Mesopotamian religion and literature, cf. Chapter 5, Section 1, point (6).
 
@@ -242,12 +233,9 @@ This passage is wholly agreeable. It is true that in ancient Mesopotamia there w
 @NOTES R/4.6
 NA mDP
 ND 8 July 2020
-TO alliance, b<sup>e</sup>rît (Hebrew)
+TO alliance; b<sup>e</sup>rît (בְּרֵאשִׁ֖ית: Hebrew)
 
-On the topic of Biblical **‘alliance’**, see e.g. the lemma ‘covenant’ (*b<sup>e</sup>rît*(http://4Banks.net/Mes-rel/PDF/Berit.pdf)) in {B}R/Freedman2000Eerdmans, [pp. 288ff.](https://books.google.it/books?id=qRtUqxkB7wkC&pg=PA289&lpg=PA289&dq=biblical+berit&source=bl&ots=pQugJGcNz8&sig=ACfU3U2_bf86VT13EQsgmH9rcrfYDP0mCw&hl=it&sa=X&ved=2ahUKEwj9o8W3jKTqAhVL0aYKHan2D5sQ6AEwCHoECAoQAQ#v=onepage&q=biblical%20berit&f=false).
-
-
-
+On the topic of Biblical **‘alliance’**, see e.g. the lemma ‘covenant’ (בְּרֵאשִׁ֖ית, *b<sup>e</sup>rît*(http://4Banks.net/Mes-rel/PDF/Berit.pdf)) in {B}R/Freedman2000Eerdmans, [pp. 288ff.](https://books.google.it/books?id=qRtUqxkB7wkC&pg=PA289&lpg=PA289&dq=biblical+berit&source=bl&ots=pQugJGcNz8&sig=ACfU3U2_bf86VT13EQsgmH9rcrfYDP0mCw&hl=it&sa=X&ved=2ahUKEwj9o8W3jKTqAhVL0aYKHan2D5sQ6AEwCHoECAoQAQ#v=onepage&q=biblical%20berit&f=false).
 
 
 @NOTES R/5.1
@@ -317,7 +305,7 @@ For the Akkadian term ***šīmtu*** (‘fate’, ‘destiny’) see [CAD 17 = Š
 @NOTES R/5.3
 NA mDP
 ND 8 July 2020
-TO ṭup šimā(t)I (Akkadian)
+TO ṭup šimā(t)i (Akkadian)
 
 For the Akkadian expression ***ṭup šimā(t)i*** (‘tablet of destinies’) see [CAD 19 = Ṭ, p. 135](http://4Banks.net/Mes-rel/PDF/CAD19_135.pdf).
 
@@ -333,7 +321,7 @@ For the Sumerian term **‘me’** (‘attributes of reality’) see [ePSD2](htt
 @NOTES R/5.4
 NA mDP
 ND 8 July 2020
-TO ḥēn (Hebrew)
+TO ḥēn (חֵן: Hebrew)
 
 For the Hebrew term חֵן, ***ḥēn*** (‘grace’), see [DCH 8, pp. 266-267](http://4Banks.net/Mes-rel/PDF/DCH_Grace.pdf).
 
@@ -361,7 +349,7 @@ This is for instance the case of Adam and Eve, or that of Abraham.
 @NOTES R/5.5
 NA mDP
 ND 8 July 2020
-TO b<sup>e</sup>rît; alliance
+TO b<sup>e</sup>rît (בְּרִית: Hebrew); alliance
 
 For the specific Hebrew term בְּרִית,***b<sup>e</sup>rît*** see [DCH 2, pp. 264-267](http://4Banks.net/Mes-rel/PDF/DCH_Berit.pdf). 
 
@@ -376,9 +364,6 @@ TO God’s will
 <<In the first place, he [i.e. God] **“wants”**: this implies a targeted and specific objective, which is related to a precise historical and cultural context>> (G. Buccellati, Chapter 5, Section 5). 
 
 He “wants”: the creation is the result of a thinking project, as shown in some Midrashic comments, where it is underlined that in the word רֵשִׁית, *rēšîth* (‘beginning’; see [DCH 7, pp. 381-383](http://4Banks.net/Mes-rel/PDF/DCH_Beginning.pdf) one could also read the word רֹאשׁ, *rōš* (‘head’), with the same root-consonantal pattern *RŠ*, explaining that God thought his creation before acting. This is a clear example of the fact that God “wants” the creation.
-
-
-
 
 
 @NOTES R/6.1
@@ -410,13 +395,13 @@ TO prehistoric times
 
 <<The only direct sources we have about the Mesopotamian religion in **prehistoric times** are Archaeological>> (G. Buccellati, Chapter 6, Section 2). 
 
-For some of these studies on prehistorical times in the ancient Near East, see e.g. {B}R/Hodder2010Emergenece, {B}R/Schmidt2011Costruirono, {B}R/Trinkaus1983Shanidar; cf. [Wynn 1989](https://critique-of-ar.net/sub-bibl.htm#Wynn) and [Wynn and Coolidge 2011](https://critique-of-ar.net/CAR-1/b#Wynn&Coolidge) on [CAR website](https://critique-of-ar.net/), with G. Buccellati’s comment.
+For some of these studies on prehistorical times in the ancient Near East, see e.g. {B}R/Hodder2010Emergence, {B}R/Schmidt2011Costruirono, {B}R/Trinkaus1983Shanidar; cf. [Wynn 1989](https://critique-of-ar.net/sub-bibl.htm#Wynn) and [Wynn and Coolidge 2011](https://critique-of-ar.net/CAR-1/b#Wynn&Coolidge) on [CAR website](https://critique-of-ar.net/), with G. Buccellati’s comment.
 
 
 @NOTES R/6.2
 NA mDP
 ND 10 July 2020
-TO paĝar
+TO paĝar (Protoeuphratian)
 
 From the term **paĝar**, it could be derived from the Sumerian ‘bahar’, ‘potter’; see [ePSD2](http://oracc.org/epsd2/o0024835), with further bibliographical reference.
 
@@ -424,7 +409,7 @@ From the term **paĝar**, it could be derived from the Sumerian ‘bahar’, ‘
 @NOTES R/6.2
 NA mDP
 ND 10 July 2020
-TO naĝar
+TO naĝar (Protoeuphratian)
 
 From the term **naĝar**, it could be derived from the Sumerian ‘nagar’, ‘carpenter’; see [ePSD2](http://oracc.org/epsd2/o0034765), with further bibliographical reference.
 
@@ -434,7 +419,7 @@ NA mDP
 ND 10 July 2020
 TO Protoeuphratian
 
-On the **‘Proto-Euphratean’ substratum**, see e.g. {B}R/Edzard2003Sumerian, [p. 4](https://books.google.it/books?id=HOx5DwAAQBAJ&pg=PA4&lpg=PA4&dq=protoeuphratian&source=bl&ots=4xCg9AMlRQ&sig=ACfU3U2YFrkOWufTD_7JBdio0bojcb31YA&hl=it&sa=X&ved=2ahUKEwj4lOnwlcLqAhXDy6YKHYBuCiwQ6AEwCnoECAgQAQ#v=onepage&q=protoeuphratian&f=false); cf. {B}R/Rubio1999Substratum and Whittaker, Gordon 2008, “The Case for Euphratic”, *Bulletin of the Georgian National Academy of Sciences* 2/3, [pp. 156-168](http://science.org.ge/old/moambe/2-3/Gordon%20Whitteker.pdf). Cf. [G. Buccellati, Mes-pol, 1.7](http://4banks.net/Mes-pol/01.htm).
+On the **‘Proto-Euphratean’ substratum**, see e.g. {B}R/Edzard2003Sumerian, [p. 4](https://books.google.it/books?id=HOx5DwAAQBAJ&pg=PA4&lpg=PA4&dq=protoeuphratian&source=bl&ots=4xCg9AMlRQ&sig=ACfU3U2YFrkOWufTD_7JBdio0bojcb31YA&hl=it&sa=X&ved=2ahUKEwj4lOnwlcLqAhXDy6YKHYBuCiwQ6AEwCnoECAgQAQ#v=onepage&q=protoeuphratian&f=false); cf. {B}R/Rubio1999Substratum and {B}R/Whittaker2008Euphratic, [pp. 156-168](http://science.org.ge/old/moambe/2-3/Gordon%20Whitteker.pdf). Cf. [G. Buccellati, Mes-pol, 1.7](http://4banks.net/Mes-pol/01.htm).
 
 
 @NOTES R/6.2
@@ -456,7 +441,7 @@ On the god **Enki**, see [here](http://oracc.museum.upenn.edu/amgg/listofdeities
 @NOTES R/6.2
 NA mDP
 ND 10 July 2020
-TO laham
+TO laham (Protoeuphratian)
 
 From the term **laham**, the Sumerian ‘lahama’ could be derived, ‘(a mythical) being’; see [ePSD2](http://oracc.org/epsd2/o0032913), with further bibliographical reference.
 
@@ -464,7 +449,7 @@ From the term **laham**, the Sumerian ‘lahama’ could be derived, ‘(a mythi
 @NOTES R/6.2
 NA mDP
 ND 10 July 2020
-TO lahar
+TO lahar (Protoeuphratian)
 
 From the term **lahar**, the Sumerian ‘lagar’ could derive, ‘plant’; see [ePSD2](http://oracc.org/epsd2/o0032893), with further bibliographical reference.
 
@@ -472,7 +457,7 @@ From the term **lahar**, the Sumerian ‘lagar’ could derive, ‘plant’; see
 @NOTES R/6.2
 NA mDP
 ND 10 July 2020
-TO tiham
+TO tiham (Protoeuphratian)
 
 From the term **tiham**, the Akkadian ‘*tâmtu*’ may derive, [‘sea, ocean’ = Tiamat](http://oracc.museum.upenn.edu/amgg/listofdeities/tiamat/index.html) for which see [CAD 18 = T, pp. 156-158](CAD18_156-158).
 
@@ -488,7 +473,7 @@ On the goddess **Tiamat**, see [here](http://oracc.museum.upenn.edu/amgg/listofd
 @NOTES R/6.2
 NA mDP
 ND 10 July 2020
-TO Huwawa
+TO Humbaba/Huwawa
 
 On the mythical entity **Huwawa/Humbaba**, see RlA, *sub voce* [‘Ḫuwawa/Ḫumbaba’](http://publikationen.badw.de/de/rla/index#5573).
 
@@ -512,7 +497,7 @@ On the **Igigi** gods, see [here](http://oracc.museum.upenn.edu/amgg/listofdeiti
 @NOTES R/6.2
 NA mDP
 ND 10 July 2020
-TO Atramhasis
+TO Atrahasis
 
 For a general introduction to *Atramḫasis* and for its English translation, see {B}R/Foster2005Before, pp. 227-280. 
 
@@ -570,15 +555,15 @@ For **pre-Socratic philosophy**, see [here](https://plato.stanford.edu/entries/p
 @NOTES R/6.3
 NA mDP
 ND 11 July 2020
-TO Euhemerism
+TO euhemerism
 
-About the history and development of **euhemerism**, see e.g. {B}R/Alphandéry1934Evéhemérisme. 
+About the history and development of **euhemerism**, see e.g. {B}R/Alphandery1934Evehemerisme. 
 
 
 @NOTES R/6.3
 NA mDP
 ND 11 July 2020
-TO Marduk’s 50 names
+TO 50 names of Marduk
 
 About the **50 names** of [Marduk](http://oracc.museum.upenn.edu/amgg/listofdeities/marduk/index.html), listed at the end of the *Enūma elīš*, see specifically {B}R/Seri2006Marduk. 
  
@@ -602,7 +587,7 @@ It is interesting to note that the idea of an **‘amorphous chaos’** is share
 @NOTES R/6.4
 NA mDP
 ND 11 July 2020
-TO Enki/Ea
+TO Ea/Enki
 
 On the god **Enki/Ea**, see [here](http://oracc.museum.upenn.edu/amgg/listofdeities/enki/index.html).
 
@@ -620,7 +605,7 @@ NA mDP
 ND 11 July 2020
 TO Assur
 
-On the god **Assur**, see {B}R/vanderHorst1999Dictionary, pp. 108-109.
+On the god **Assur**, see {B}R/vanderHorst1999DDD, pp. 108-109.
 
 
 @NOTES R/6.4
@@ -628,7 +613,7 @@ NA mDP
 ND 11 July 2020
 TO Amurru
 
-On the god **Amurru**, see {B}R/vanderHorst1999Dictionary, pp. 32-34.
+On the god **Amurru**, see {B}R/vanderHorst1999DDD, pp. 32-34.
 
 
 @NOTES R/6.4
@@ -687,7 +672,7 @@ On the god **Nabu**, see [here](http://oracc.museum.upenn.edu/amgg/listofdeities
 @NOTES R/6.4
 NA mDP
 ND 11 July 2020
-TO burials inside private houses
+TO burials (inside private houses)
 
 The practice of **burying the deceased inside private houses** is a phenomenon already attested in Neolithic times, for instance in the Anatolian site of [Çatalhöyük](http://www.catalhoyuk.com/), where bodies of dead people were interred under benches along the walls of the house: see e.g. Mellaart, James 1967, *Çatal Hüyük: A Neolithic Town in Anatolia*, London: Thames and Hudson, pp. 204-209.  
 
@@ -703,7 +688,7 @@ On the **Khabur river** and its historical and religious significance, see e.g. 
 @NOTES R/6.5
 NA mDP
 ND 11 July 2020
-TO ‘beginning’
+TO beginning
 
 About the notion of **‘beginning’** in Biblical religion, see *infra* {N}R/6.9.
 
@@ -733,7 +718,7 @@ For the development of **agropastoralism** and the origin of **tribe**, see e.g.
 @NOTES R/6.6
 NA mDP
 ND 11 July 2020
-TO Gilgamesh epic
+TO Epic of Gilgamesh
 
 The Sumerian original text, with English translation and comment, of all the extant texts related to [**Gilgamesh epic**](https://public.wsu.edu/~gened/orpheus/orpheus_gilgamesh.htm), is available on [ETCSL](http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?searchword=l=gilgamec2%20t=DN&charenc=gcirc). An English revised translation can be found in {B}R/George2000Gilgamesh.
 
@@ -767,7 +752,7 @@ NA mDP
 ND 11 July 2020
 TO creation of mankind (Bible)
 
-For the description of the **creation of Adam and Eve**, see [*Gn.* 1-2](http://www.vatican.va/archive/ENG0839/__P3.HTM).
+For the description of the **creation of Adam and Eve**, see [*Gen.* 1-2](http://www.vatican.va/archive/ENG0839/__P3.HTM).
 
 
 @NOTES R/6.8
@@ -775,7 +760,7 @@ NA mDP
 ND 11 July 2020
 TO Garden of Eden
 
-For the description of the **Garden of Eden**, see [*Gn.* 2](http://www.vatican.va/archive/ENG0839/__P4.HTM).
+For the description of the **Garden of Eden**, see [*Gen.* 2](http://www.vatican.va/archive/ENG0839/__P4.HTM).
 
 
 @NOTES R/6.8
@@ -783,7 +768,7 @@ NA mDP
 ND 11 July 2020
 TO flood
 
-For the Biblical account of the **flood**, see [*Gn.* 6-9](http://www.vatican.va/archive/ENG0839/__P8.HTM).
+For the Biblical account of the **flood**, see [*Gen.* 6-9](http://www.vatican.va/archive/ENG0839/__P8.HTM).
 
 
 @NOTES R/6.8
@@ -791,7 +776,7 @@ NA mDP
 ND 11 July 2020
 TO Tower of Babel
 
-For the story of the **Tower of Babel**, see [*Gn.* 11](http://www.vatican.va/archive/ENG0839/__PD.HTM).
+For the story of the **Tower of Babel**, see [*Gen.* 11](http://www.vatican.va/archive/ENG0839/__PD.HTM).
 
 
 @NOTES R/6.8
@@ -817,9 +802,9 @@ For the Hebrew text of *Ps.* 137 and its English translation (King James Version
 @NOTES R/6.9
 NA mDP
 ND 12 July 2020
-TO ‘beginning(s)’
+TO beginning
 
-For **‘beginning(s)’** in Hebrew monotheism, and specifically in the Old Testament, see the Hebrew text and its English translation (King James Version) of [*Gn.* 1](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=1&pnt=tru&acc=tru&dia=tru&enc=heb); for the Hebrew term *r<sup>e</sup>’ēšîth* (‘beginning’), see [DCH 7, pp. 381-383](http://4Banks.net/Mes-rel/PDF/DCH_Beginning.pdf). 
+For **‘beginning(s)’** in Hebrew monotheism, and specifically in the Old Testament, see the Hebrew text and its English translation (King James Version) of [*Gen.* 1](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=1&pnt=tru&acc=tru&dia=tru&enc=heb); for the Hebrew term *r<sup>e</sup>’ēšîth* (‘beginning’), see [DCH 7, pp. 381-383](http://4Banks.net/Mes-rel/PDF/DCH_Beginning.pdf). 
 
 For a later Midrashic interpretation of the *incipit* of *Genesis*, see [*Bereshit Rabbah*](http://www.jewishencyclopedia.com/articles/3056-bereshit-rabbah) [1ff.](https://www.sefaria.org/Bereishit_Rabbah.1?lang=bi). Specifically on *Genesis*, see also {B}R/Neusner1991Confronting.
 
@@ -827,7 +812,7 @@ For a later Midrashic interpretation of the *incipit* of *Genesis*, see [*Beresh
 @NOTES R/6.9
 NA mDP
 ND 12 July 2020
-TO Story of Adapa; Enki/Ea
+TO Adapa; Ea/Enki
 
 << … there is the special role that **Enki/Ea** plays in myths: the god offers advice in a confidential key … (G. Buccellati, Chapter 6, Section 9). 
 
@@ -839,7 +824,7 @@ NA mDP
 ND 12 July 2020
 TO sacrifice of Isaac
 
-For the episode of the **sacrifice of Isaac**, see the Hebrew text and its English translation (King James Version) of [*Gn.* 22](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=22&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls). 
+For the episode of the **sacrifice of Isaac**, see the Hebrew text and its English translation (King James Version) of [*Gen.* 22](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=22&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls). 
 
 It is interesting to note the in the Jewish tradition, this episode is known not as the ‘sacrifice of Isaac’, but as the [‘binding of Isaac’](http://www.jewishencyclopedia.com/articles/1026-akedah) (Hebrew: עֲקֵידַת יִצְחַק, *‘ăqêdath Yīṣ<sup>e</sup>ḥaq*), since the [*Bereshit Rabbah*](http://www.jewishencyclopedia.com/articles/3056-bereshit-rabbah) [56](https://www.sefaria.org/Bereishit_Rabbah.56?lang=bi), stresses that Isaac was not actually sacrificed by Abraham, but only bound. 
 
@@ -847,7 +832,7 @@ It is interesting to note the in the Jewish tradition, this episode is known not
 @NOTES R/6.10
 NA mDP
 ND 12 July 2020
-TO YHWH; ‘tetragrammaton’
+TO YHWH; tetragrammaton
 
 For the **‘tetragrammaton’** and its explanation, see the [Jewish Encyclopedia](http://www.jewishencyclopedia.com/articles/14346-tetragrammaton).
 
@@ -858,9 +843,6 @@ ND 12 July 2020
 TO Trinity
 
 On the perception of God as **Trinitarian**, cf. {B}R/Buccellati2012Trinità.
-
-
-
 
 
 @NOTES R/7.1
@@ -876,7 +858,7 @@ On this topic and ‘patterns’ in religious activities, cf. Chapter 1, Section
 @NOTES R/7.1
 NA mDP
 ND 19 July 2020
-TO legómenon (Greek)
+TO λεγόμενον (legómenon: Greek)
 
 For the Greek term **λεγόμενον**, see [LSJ](http://stephanus.tlg.uci.edu/lsj/#eid=64222).
 
@@ -884,7 +866,7 @@ For the Greek term **λεγόμενον**, see [LSJ](http://stephanus.tlg.uci.e
 @NOTES R/7.1
 NA mDP
 ND 19 July 2020
-TO drómenon (Greek)
+TO δρώμενον (drómenon: Greek)
 
 For the Greek term **δρώμενον**, see [LSJ](http://stephanus.tlg.uci.edu/lsj/#eid=29254).
 
@@ -892,7 +874,7 @@ For the Greek term **δρώμενον**, see [LSJ](http://stephanus.tlg.uci.edu
 @NOTES R/7.3
 NA mDP
 ND 19 July 2020
-TO ‘raised-hand prayer’
+TO raised-hand prayer
 
 <<It must be understood in a broad sense, like “standing in front of”, rather than “dialoguing with”>> (G. Buccellati, Chapter 7, Section 3). 
 
@@ -908,7 +890,7 @@ Cf. also the website [Corpus of Akkadian Shuila Prayers Online](http://www.shuil
 @NOTES R/7.4
 NA mDP
 ND 19 July 2020
-TO Erra’s poem
+TO Erra
 
 On the god **Erra**, see [here](http://oracc.museum.upenn.edu/amgg/listofdeities/erra/index.html). 
 
@@ -957,7 +939,7 @@ This principle, describing how it is impossible to determine that ‘point in pe
 @NOTES R/7.8
 NA mDP
 ND 19 July 2020
-TO šema` Yisra'el (Hebrew)
+TO šema` Yisra'el (שְׁמַע יִשְׂרָאֵל: Hebrew)
 
 For the ***šema` Yisra'el*** (שְׁמַע יִשְׂרָאֵל), the fundamental Hebrew prayer, see [here](http://www.jewishencyclopedia.com/articles/13548-shema). 
 
@@ -975,7 +957,7 @@ For the god **Ea/Enki**, see [here](http://oracc.museum.upenn.edu/amgg/listofdei
 @NOTES R/7.8
 NA mDP
 ND 19 July 2020
-TO Utnapishtim/Atramḫasis/Ziusudra
+TO Utnapishtim; Atrahasis; Ziusudra
 
 For **Utnapishtim**, also known in Sumerian literature as [Ziusudra](http://oracc.org/epsd2/o0048582) (with reference to the tablet mentioning him), see [RlA](http://publikationen.badw.de/de/rla/index#12327). 
 
@@ -1007,7 +989,7 @@ NA mDP
 ND 20 July 2020
 TO creation 
 
-For the Biblical account of the [**creation**](http://www.jewishencyclopedia.com/articles/4730-creation), see [*Gn.* 1-2](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=1). 
+For the Biblical account of the [**creation**](http://www.jewishencyclopedia.com/articles/4730-creation), see [*Gen.* 1-2](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=1). 
 
 
 @NOTES R/7.9
@@ -1051,9 +1033,9 @@ For the Akkadian term ***takālu***, ‘to trust’, see [CAD 18 = T, pp. 63-68]
 @NOTES R/7.10
 NA mDP
 ND 20 July 2020
-TO he‘mîn (Hebrew)
+TO he‘mîn (הֶאֱמִין: Hebrew)
 
-For the Hebrew term הֶאֱמִין, *he‘mîn* (‘to believe in’) see [DCH 1, pp. 314-317](http://4Banks.net/Mes-rel/PDF/DCH_Amen.pdf), under lemma אמן *‘AMN*, ‘be trustworthy, faithful, reliable’; *he‘mîn* is specifically the *hifîl* form of the Hebrew verb, a causative active (for which see e.g. Weingreen J. <sup>2</sup>1959, *A Practical Grammar for Classical Hebrew*, Oxford-New York: Clarendon Press-Oxford University Press, pp. 112-115) resulting in the meaning ‘to believe, to trust (someone)’. 
+For the Hebrew term הֶאֱמִין, *he‘mîn* (‘to believe in’) see [DCH 1, pp. 314-317](http://4Banks.net/Mes-rel/PDF/DCH_Amen.pdf), under lemma אמן *‘AMN*, ‘be trustworthy, faithful, reliable’; *he‘mîn* is specifically the *hifîl* form of the Hebrew verb, a causative active (for which see e.g. {B}R/Weingreen1959Grammar, pp. 112-115) resulting in the meaning ‘to believe, to trust (someone)’. 
 
 The same description of the meaning of the expression, today usually attested in the word *amen* used in Christian liturgies, but also in Hebrew prayers (of course in its original Hebrew form), is discussed in {B}R/Ratzinger2004Introduction, connecting the first word of the *Symbolum Nicænum Costantinopolitanum*, ‘Nicene-Constantinopolitan Creed’, πιστεύομεν = *Credo* = ‘I/we believe’, with the last word of the same profession of faith, which is in fact *amen*.
 
@@ -1069,7 +1051,7 @@ For the story of the [**Mesopotamian flood**](http://publikationen.badw.de/de/rl
 @NOTES R/7.10
 NA mDP
 ND 20 July 2020
-TO Adapa; Story of Adapa
+TO Adapa
 
 For the role of [**Adapa**](http://publikationen.badw.de/de/rla/index#164) in the *Story of Adapa*, see the introduction and its English translation in {B}R/Foster2005Before, pp. 525-530. Cf. *supra* {N}R/6.9 and *infra* {N}R/7.10.
 
@@ -1077,7 +1059,7 @@ For the role of [**Adapa**](http://publikationen.badw.de/de/rla/index#164) in th
 @NOTES R/7.10
 NA mDP
 ND 20 July 2020
-TO biblical references; 1 Sam. 17, 40-54; Jer. 11, 18-23; Jer. 19, 1-20; Jer. 18; Jer. 37, 1-38, 13; Dn. 6, 17-25; 2Mac. 6, 18-31 and 7, 1-42; Wis. 3, 1-6; Gn. 32, 26-33; Jer. 20, 7-18
+TO 1 Sam. 17, 40-54; Jer. 11, 18-23; Jer. 19, 1-20; Jer. 18; Jer. 37, 1-38, 13; Dn. 6, 17-25; 2 Mac. 6, 18-31 and 7, 1-42; Wis. 3, 1-6; Gen. 32, 26-33; Jer. 20, 7-18
 
 For the references to the Bible in Chapter 7, Section 10, §§ TRUST, STRUGGLE WITH GOD (listed here in order of mention), see: 
 
@@ -1097,7 +1079,7 @@ For the references to the Bible in Chapter 7, Section 10, §§ TRUST, STRUGGLE W
 
 [*Wis.* 3, 1-6](http://www.vatican.va/archive/ENG0839/__PLK.HTM);
 
-[*Gn.* 32, 26-33](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=32&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls);
+[*Gen.* 32, 26-33](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=32&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls);
 
 [*Jer.* 20, 7-18](https://www.tanakhml.org/d13.php2xml?sfr=13&prq=20&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls).
 
@@ -1105,7 +1087,7 @@ For the references to the Bible in Chapter 7, Section 10, §§ TRUST, STRUGGLE W
 @NOTES R/7.10
 NA mDP
 ND 20 July 2020
-TO Adapa and Anu; Ishtar and Gilgamesh; Gilgamesh, Enkidu and Huwawa/Humbaba
+TO Adapa; Anu; Ishtar; Gilgamesh; Gilgamesh, Enkidu; Humbaba/Huwawa; Ea/Enki
 
 <<Here, too, there are subtle similarities in Mesopotamia, for example in the way **Adapa** confronts the supreme God, **Anu**, following the promptings of another god, Ea, or the repulsion of **Ishtar** by **Gilgamesh**. Then there are the cases of beings that can be defined as semi-divine, such as **Huwawa** and the bull of heaven that are faced by Gilgamesh and **Enkidu**>> (G. Buccellati, Chapter 7, Section 10). 
 
@@ -1119,17 +1101,17 @@ For the struggle engaged by **Gilgamesh** and [**Enkidu**](http://publikationen.
 @NOTES R/7.10
 NA mDP
 ND 20 July 2020
-TO nissā (Hebrew)
+TO nissā (נִסָּה: Hebrew)
 
-For the Hebrew term נִסָּה , ***nissā*** (‘to test’), mentioned in [*Ex.* 17, 1-17](https://www.tanakhml.org/d13.php2xml?sfr=2&prq=17&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls) and in [*Ps.* 78, 17-18](https://www.tanakhml.org/d13.php2xml?sfr=27&prq=78&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls), see [DCH 5, pp. 697-698](http://4Banks.net/Mes-rel/PDF/DCH_Nissa.pdf), under lemma נסה *NṢH*, ‘to test’; *nissā*  is specifically the *piel* form of the Hebrew verb, an intensive active (for which see e.g. Weingreen J. <sup>2</sup>1959, *A Practical Grammar for Classical Hebrew*, Oxford-New York: Clarendon Press-Oxford University Press, pp. 105-107) resulting in the meaning ‘to test, to try, to prove, to make a test’.
+For the Hebrew term נִסָּה, ***nissā*** (‘to test’), mentioned in [*Ex.* 17, 1-17](https://www.tanakhml.org/d13.php2xml?sfr=2&prq=17&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls) and in [*Ps.* 78, 17-18](https://www.tanakhml.org/d13.php2xml?sfr=27&prq=78&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls), see [DCH 5, pp. 697-698](http://4Banks.net/Mes-rel/PDF/DCH_Nissa.pdf), under lemma נסה *NṢH*, ‘to test’; *nissā*  is specifically the *piel* form of the Hebrew verb, an intensive active (for which see e.g. Weingreen J. <sup>2</sup>1959, *A Practical Grammar for Classical Hebrew*, Oxford-New York: Clarendon Press-Oxford University Press, pp. 105-107) resulting in the meaning ‘to test, to try, to prove, to make a test’.
 
 
 @NOTES R/7.10
 NA mDP
 ND 20 July 2020
-TO hiqšā (Hebrew)
+TO hiqšā (הִקְשָׁה: Hebrew)
 
-For the Hebrew term הִקְשָׁה , ***hiqšā*** (‘to make hard’), mentioned in [*Prv.* 28, 14](https://www.tanakhml.org/d13.php2xml?sfr=29&prq=28&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non) and in [*Is.* 63, 17](https://www.tanakhml.org/d21.php2xml?sfr=12&prq=63&psq=17&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non), see [DCH 7, pp. 333-334](http://4Banks.net/Mes-rel/PDF/DCH_Hiqsa.pdf) , under lemma קשׁה *QŠH*, ‘be hard’; *hiqšā* is specifically the *hifîl* form of the Hebrew verb, a causative active (for which see e.g. Weingreen J. <sup>2</sup>1959, *A Practical Grammar for Classical Hebrew*, Oxford-New York: Clarendon Press-Oxford University Press, pp. 112-115) resulting in the meaning ‘to make hard, to harden’.
+For the Hebrew term הִקְשָׁה, ***hiqšā*** (‘to make hard’), mentioned in [*Prv.* 28, 14](https://www.tanakhml.org/d13.php2xml?sfr=29&prq=28&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non) and in [*Is.* 63, 17](https://www.tanakhml.org/d21.php2xml?sfr=12&prq=63&psq=17&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non), see [DCH 7, pp. 333-334](http://4Banks.net/Mes-rel/PDF/DCH_Hiqsa.pdf) , under lemma קשׁה *QŠH*, ‘be hard’; *hiqšā* is specifically the *hifîl* form of the Hebrew verb, a causative active (for which see e.g. Weingreen J. <sup>2</sup>1959, *A Practical Grammar for Classical Hebrew*, Oxford-New York: Clarendon Press-Oxford University Press, pp. 112-115) resulting in the meaning ‘to make hard, to harden’.
 
 
 @NOTES R/7.10
@@ -1159,7 +1141,7 @@ For the Akkadian term ***dalālu*** (‘to proclaim, to glorify’), see [CAD 3 
 @NOTES R/7.10
 NA mDP
 ND 21 July 2020
-TO hôdî (Hebrew)
+TO hôdî (הוֹדִי: Hebrew)
 
 For the Hebrew term הוֹדִי, ***hôdî*** (‘(song of) thanksgiving, praise, confession’), see [DCH 2, p. 501](http://4Banks.net/Mes-rel/PDF/DCH_Hodi.pdf), under lemma הוֹדָה *hôdâh*, ‘thanksgiving’.
 
@@ -1175,7 +1157,7 @@ For the Akkadian term ***palāḫu*** (‘to be afraid, to fear, to be worried�
 @NOTES R/7.10
 NA mDP
 ND 21 July 2020
-TO yir’ā (Hebrew)
+TO yir’ā (יִירָא: Hebrew)
 
 For the Hebrew term יִירָא, ***yir’ā*** (‘to be afraid, to fear, to be fearful’), imperfective of the base form of the verb *YR’*, see [DCH 4, p. 276-281](http://4Banks.net/Mes-rel/PDF/DCH_YRA.pdf).
 
@@ -1191,7 +1173,7 @@ For the Akkadian term ***melammu*** (‘radiance’), see [CAD 10 = M2, pp. 9-12
 @NOTES R/7.10
 NA mDP
 ND 21 July 2020
-TO pahad (Hebrew)
+TO paḥad (פַּחַד: Hebrew)
 
 For the Hebrew term פַּחַד, ***paḥad*** (‘fear, shuddering dread, terror’), see [DCH 6, pp. 674-675](http://4Banks.net/Mes-rel/PDF/DCH_Pahad.pdf).
 
@@ -1241,7 +1223,7 @@ About **Baruch Spinoza**, see the [Stanford Encyclopedia of Philosophy](https://
 @NOTES R/7.11
 NA mDP
 ND 21 July 2020
-TO qin`ah (Hebrew)
+TO qin`ah (קִנְאָה: Hebrew)
 
 For the Hebrew term קִנְאָה, ***qin`ah*** (‘jealousy’), see [DCH 7, pp. 265-266](http://4Banks.net/Mes-rel/PDF/DCH_Qinah.pdf).
 
@@ -1249,7 +1231,7 @@ For the Hebrew term קִנְאָה, ***qin`ah*** (‘jealousy’), see [DCH 7, p
 @NOTES R/7.11
 NA mDP
 ND 21 July 2020
-TO jealousy: biblical passages
+TO jealousy
 
 Several Biblical passages refers to the [**jealousy of God**](https://www.thegospelcoalition.org/essay/the-jealousy-of-god/), both in the Old and the New Testament:
 
@@ -1301,7 +1283,7 @@ Several Biblical passages refers to the [**jealousy of God**](https://www.thegos
 @NOTES R/7.11
 NA mDP
 ND 21 July 2020
-TO <i>’ămûnâ</i> (Hebrew)
+TO ’ămûnâ (אֱמוּנָה: Hebrew)
 
 For the Hebrew term אֱמוּנָה, ***’ămûnâ*** (‘faithfulness’), see [DCH 1, pp. 312-313](http://4Banks.net/Mes-rel/PDF/DCH_Amuna.pdf). Cf. also the following note on *ḥeṣed*.
 
@@ -1309,7 +1291,7 @@ For the Hebrew term אֱמוּנָה, ***’ămûnâ*** (‘faithfulness’), see
 @NOTES R/7.11
 NA mDP
 ND 21 July 2020
-TO ḥeṣed (Hebrew)
+TO ḥeṣed (חֶסֶד: Hebrew)
 
 For the Hebrew term חֶסֶד, ***ḥeṣed*** (‘loyalty, faithfulness, kindness, love, mercy’), see [DCH 3, pp. 277-281](http://4Banks.net/Mes-rel/PDF/DCH_Hesed.pdf). Cf. also the previous note on *’ămûnâ*.
 
@@ -1325,7 +1307,7 @@ For the Akkadian term ***karābu*** (‘to pronounce formulas of blessing’), s
 @NOTES R/7.12
 NA mDP
 ND 21 July 2020
-TO bārak (Hebrew)
+TO bārak (ברך: Hebrew)
 
 For the Hebrew term ברך, ***bārak*** (‘to bless’), see [DCH 2, pp. 267-273](http://4Banks.net/Mes-rel/PDF/DCH_Barak.pdf), under root *BRK*.
 
@@ -1341,7 +1323,7 @@ For the Akkadian term ***rāmu/ra’āmu*** (‘love’), see [CAD 14 = R, pp. 1
 @NOTES R/7.12
 NA mDP
 ND 21 July 2020
-TO ’āhab (Hebrew)
+TO ’āhab (אָהַב: Hebrew)
 
 For the Hebrew term אָהַב, ***’āhab*** (‘to love’), see [DCH 2, pp. 137-141](http://4Banks.net/Mes-rel/PDF/DCH_Ahab.pdf), under root *’HB*.
 
@@ -1351,7 +1333,7 @@ NA mDP
 ND 22 July 2020
 TO conversion in the Bible
 
-For an example of **conversion** in Old Testament, see [*Gn.* 12](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=12&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls) (conversion of Abraham). Cf. *supra* {N}R/4.2.
+For an example of **conversion** in Old Testament, see [*Gen.* 12](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=12&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls) (conversion of Abraham). Cf. *supra* {N}R/4.2.
 
 
 @NOTES R/7.13
@@ -1367,7 +1349,7 @@ For an example of this ‘passage from the cult of one god to another’, see e.
 @NOTES R/7.13
 NA mDP
 ND 22 July 2020
-TO ‘foreign gods’ = idols
+TO foreign gods = idols
 
 <<In the Old Testament, however, many cases are stigmatized in which the people or their leaders abandon their “faith” in the biblical God and instead accept **“foreign gods”**>> (G. Buccellati, Chapter 7, Section 13). 
 
@@ -1392,9 +1374,6 @@ TO false prophets
 About the **false prophets** in the Bible, see the specific entry in the [Jewish Encyclopedia](http://www.jewishencyclopedia.com/articles/12388-prophet-false).
 
 
-
-
-
 @NOTES R/8.1
 NA mDP
 ND 1 August 2020
@@ -1403,9 +1382,9 @@ TO šurpu (Akkadian); Appendix 1
 For *šurpu*, see [RlA](http://publikationen.badw.de/de/rla/index#11264). The meaning of the term is explained in [CAD 17 = Š3, pp. 353-354](http://4Banks.net/Mes-rel/PDF/CAD17_3_353-354.pdf). 
 
 For a comparison between Mesopotamian *Šurpu* and the Bible, see {B}R/Geller1980Incantations. 
-Cf. {B}R/Schwemer2011Magica and {B}R/Geller2010Medicine, mainly [pp. 29-30](https://archive.org/details/ancientbabylonia00gell/page/n43). 
+Cf. {B}R/Schwemer2011Magic and {B}R/Geller2010Medicine, mainly [pp. 29-30](https://archive.org/details/ancientbabylonia00gell/page/n43). 
 
-The fundamental edition of these texts is {B}R/Reiner1970Surpu.
+The fundamental edition of these texts is {B}R/Reiner1958Surpu.
 
 See also [*Appendix 1*](http://4banks.net/Mes-rel/Sources/appendix 1_mDP.htm).
 
@@ -1413,7 +1392,7 @@ See also [*Appendix 1*](http://4banks.net/Mes-rel/Sources/appendix 1_mDP.htm).
 @NOTES R/8.1
 NA mDP
 ND 1 August 2020
-TO ‘Tablet of Destinies’
+TO Tablet of Destinies
 
 For the ‘Tablet of Destinies’ (Akkadian *ṭup šimā(t)i*), see [CAD 19 = Ṭ, p. 135](http://4Banks.net/Mes-rel/PDF/CAD19_135.pdf); cf. [RlA](http://publikationen.badw.de/de/rla/index#10550), p. 153, § 13. 
 
@@ -1425,7 +1404,7 @@ See also {B}R/Black1992Gods, p. 173. Cf. *supra* {N}R/5.3.
 @NOTES R/8.1
 NA mDP
 ND 1 August 2020
-TO Spinoza, Baruch
+TO Spinoza
 
 For **Baruch Spinoza** and his thought, cf. *supra* {N}R/7.11.
 
@@ -1443,7 +1422,7 @@ Cf. [*Dt.* 5, 1](https://www.tanakhml.org/d21.php2xml?sfr=5&prq=5&psq=1&lvl=99&p
 @NOTES R/8.1
 NA mDP
 ND 1 August 2020
-TO luḥōt ha’eben (Hebrew); biblical passages on the ‘tablets (of) stone’
+TO luḥōt ha’eben (לֻחֹת הַאֶבֶן: Hebrew); tablets (of) stone
 
 For Hebrew לֻחֹת הַאֶבֶן, ***luḥōt ha’eben*** (‘tablets [of] stone’), see [DCH 4, pp. 524-524](http://4Banks.net/Mes-rel/PDF/DCH_Stone_tablets.pdf). 
 
@@ -1481,9 +1460,7 @@ NA mDP
 ND 2 August 2020
 TO Hymn to Enlil; Appendix 2
 
-For the *Hymn to Enlil* (mentioned by G. Buccellati in Chapter 8, Section 2 [App. 2]), see the Sumerian composition *Enlil in the E-kur (Enlil A)* (see [transliteration](http://etcsl.orinst.ox.ac.uk/section4/c4051.htm) and [English translation](http://etcsl.orinst.ox.ac.uk/section4/tr4051.htm) from ETCSL).
-
-See also [*Appendix 2*](http://4banks.net/Mes-rel/Sources/appendix 2_mDP.htm).
+For the *Hymn to Enlil* (mentioned by G. Buccellati in Chapter 8, Section 2 [App. 2]), see the Sumerian composition *Enlil in the E-kur (Enlil A)* (see [transliteration](http://etcsl.orinst.ox.ac.uk/section4/c4051.htm) and [English translation](http://etcsl.orinst.ox.ac.uk/section4/tr4051.htm) from ETCSL). Cf. {B}R/Falkenstein1959Sumerische, cited in [*Appendix 2*](http://4banks.net/Mes-rel/Sources/appendix 2_mDP.htm).
 
 
 @NOTES R/8.3
@@ -1497,7 +1474,7 @@ For an English translation of the ***Enūma elīš***, see {B}R/Foster2005Before
 @NOTES R/8.3
 NA mDP
 ND 2 August 2020
-TO ‘chosen people’
+TO chosen people
 
 On the concept of **‘chosen people’**, see e.g. the [Jewish Encyclopedia](http://www.jewishencyclopedia.com/articles/4355-chosen-people).
 
@@ -1541,7 +1518,7 @@ For [**Anzu**], see [here](http://oracc.museum.upenn.edu/nimrud/livesofobjects/a
 @NOTES R/8.4
 NA mDP
 ND 2 August 2020
-TO hattôrah wahammiṣ<sup>e</sup>wa (Hebrew); biblical passages on ‘law and commandments’
+TO hattôrah wahammiṣ<sup>e</sup>wa (הַתּוֹרַה וַהַמִּצְוָה: Hebrew); law and commandments
 
 For Hebrew expression הַתּוֹרַה וַהַמִּצְוָה, ***hattôrah wahammiṣ<sup>e</sup>wa*** (‘[law](http://www.jewishencyclopedia.com/articles/14446-torah) and [commandments](http://www.jewishencyclopedia.com/articles/4565-commandment)’), see [DCH 8, pp. 612-616](http://4Banks.net/Mes-rel/PDF/DCH_Torah.pdf) and [DCH 5, pp. 446-448](http://4Banks.net/Mes-rel/PDF/DCH_Commandment.pdf). 
 
@@ -1556,7 +1533,7 @@ For the mentioned biblical passages:
 @NOTES R/8.4
 NA mDP
 ND 2 August 2020
-TO luḥōt ha‘eda (Hebrew); biblical passages about the ‘tablets [of] testimony’
+TO luḥōt ha‘eda (לֻחֹת הָעֵדָה: Hebrew); tablets (of) testimony
 
 For the Hebrew expression לֻחֹת הָעֵדָה, ***luḥōt ha‘edāh*** (‘tablets [of] testimony’) [variant לֻחֹת הָעֵדֻת, *luḥōt ha‘eduth*], see [DCH 4, p. 524](http://4Banks.net/Mes-rel/PDF/DCH_Tablet_Testimony1.pdf); cf. [DCH 6, p. 278](http://4Banks.net/Mes-rel/PDF/DCH_Tablet_Testimony2.pdf). 
 
@@ -1580,7 +1557,7 @@ For ***Ex.* 34, 1** (quoted by G. Buccellati in Chapter 8, Section 4), see [here
 @NOTES R/8.4
 NA mDP
 ND 2 August 2020
-TO dib<sup>e</sup>rê habberît (Hebrew)
+TO dib<sup>e</sup>rê habberît (דִּבְרֵי הַבְּרִית: Hebrew)
 
 For the Hebrew expression דִּבְרֵי הַבְּרִית, ***dib<sup>e</sup>rê habberît*** ([‘Ten Commandments’](http://www.jewishencyclopedia.com/articles/4567-commandments-the-ten)), mentioned by G. Buccellati in Chapter 8, Section 4, speaking about [*Ex.* 34, 28]( https://www.tanakhml.org/d21.php2xml?sfr=2&prq=34&psq=28&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls), see [DCH 2, p. 406f](http://4Banks.net/Mes-rel/PDF/DCH_Word_Covenant.pdf). 
 
@@ -1590,7 +1567,7 @@ Cf. *supra* {N}R/4.3 for the parallel versions of the passage about the ‘Ten C
 @NOTES R/8.4
 NA mDP
 ND 2 August 2020
-TO Dt. 10, 11-12; miṣ<sup>e</sup>ôt (Hebrew); ‘ār<sup>e</sup>lat l<sup>e</sup>bab<sup>e</sup>kem (Hebrew)
+TO Dt. 10, 11-12; miṣ<sup>e</sup>ôt (מִצְוֹת: Hebrew); ‘ār<sup>e</sup>lat l<sup>e</sup>bab<sup>e</sup>kem (עָרְלַת לְבַבְכֶם: Hebrew)
 
 For the passage of ***Dt.* 10, 11-12** (mentioned by G. Buccellati in Chapter 8, Section 4) see [here](https://www.tanakhml.org/d13.php2xml?sfr=5&prq=10&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non). 
 
@@ -1604,17 +1581,17 @@ About the indication in the same passage of ‘not hardening the neck’, the or
 @NOTES R/8.5
 NA mDP
 ND 2 August 2020
-TO Gn. 3; origin of evil
+TO Gen. 3; origin of evil
 
-For ***Gn.* 3**, mentioned by G. Buccellati in Chapter 8, Section 5, see [here](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=3&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non), about the **origin of evil**.
+For ***Gen.* 3**, mentioned by G. Buccellati in Chapter 8, Section 5, see [here](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=3&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non), about the **origin of evil**.
 
 
 @NOTES R/8.5
 NA mDP
 ND 2 August 2020
-TO Gn. 1, 25-3; Wis. 1, 13-15, human choice
+TO Gen. 1, 25-3; Wis. 1, 13-15, human choice
 
-For ***Gn.* 1, 25-3**, mentioned by G. Buccellati in Chapter 8, Section 5, see [here](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=1&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non), about the **human choice** opposed to the ‘goodness’ of the creation. 
+For ***Gen.* 1, 25-3**, mentioned by G. Buccellati in Chapter 8, Section 5, see [here](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=1&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non), about the **human choice** opposed to the ‘goodness’ of the creation. 
 
 Cf. also [***Wis.* 1, 13-15**](http://www.vatican.va/archive/ENG0839/__PLI.HTM).
 
@@ -1622,17 +1599,17 @@ Cf. also [***Wis.* 1, 13-15**](http://www.vatican.va/archive/ENG0839/__PLI.HTM).
 @NOTES R/8.5
 NA mDP
 ND 2 August 2020
-TO Gn. 3, 15; Gn. 4, 3-16
+TO Gen. 3, 15; Gen. 4, 3-16
 
-For *Gn.* 3, 15, mentioned by G. Buccellati in Chapter 8, Section 5, see [here](https://www.tanakhml.org/d21.php2xml?sfr=1&prq=3&psq=15&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non), about human disobedience and sin. Cf. also [*Gn.* 4, 3-16](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=4&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non).
+For *Gen.* 3, 15, mentioned by G. Buccellati in Chapter 8, Section 5, see [here](https://www.tanakhml.org/d21.php2xml?sfr=1&prq=3&psq=15&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non), about human disobedience and sin. Cf. also [*Gen.* 4, 3-16](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=4&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non).
 
 
 @NOTES R/8.5
 NA mDP
 ND 2 August 2020
-TO Gn. 18, 22-23
+TO Gen. 18, 22-23
 
-For *Gn.* 18, 22-23, mentioned by G. Buccellati in Chapter 8, Section 5, see [here](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=18&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non), about the intercession of Abraham against the divine punishment.
+For *Gen.* 18, 22-23, mentioned by G. Buccellati in Chapter 8, Section 5, see [here](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=18&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non), about the intercession of Abraham against the divine punishment.
 
 
 @NOTES R/8.5
@@ -1699,7 +1676,7 @@ NA mDP
 ND 2 August 2020
 TO confusion of languages
 
-For the episode of the ‘Tower of Babel in the Bible’ and the related confusion of languages, see [*Gn.* 11](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=11&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non). A parallel is preserved in the story of the ‘Tower of Shinar’, reported in the apocryphal [‘Book of Jubilees’](https://www.britannica.com/topic/Book-of-Jubilees), [10, 18-27](http://wesley.nnu.edu/index.php?id=2127). Cf. also the various and different interpretations of the Biblical passage of the confusion of languages in [*Bereshit Rabbah*](http://www.jewishencyclopedia.com/articles/3056-bereshit-rabbah), [ch. 38](https://www.sefaria.org/Bereishit_Rabbah.38?ven=Sefaria_Community_Translation&lang=bi).  
+For the episode of the ‘Tower of Babel in the Bible’ and the related confusion of languages, see [*Gen.* 11](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=11&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non). A parallel is preserved in the story of the ‘Tower of Shinar’, reported in the apocryphal [‘Book of Jubilees’](https://www.britannica.com/topic/Book-of-Jubilees), [10, 18-27](http://wesley.nnu.edu/index.php?id=2127). Cf. also the various and different interpretations of the Biblical passage of the confusion of languages in [*Bereshit Rabbah*](http://www.jewishencyclopedia.com/articles/3056-bereshit-rabbah), [ch. 38](https://www.sefaria.org/Bereishit_Rabbah.38?ven=Sefaria_Community_Translation&lang=bi).  
 
 
 @NOTES R/8.5
@@ -1715,7 +1692,7 @@ NA mDP
 ND 3 August 2020
 TO demons
 
-<<The demons in Mesopotamia are mostly amorphous communities, whose very name appears regularly in the plural. They belong to the divine hierarchy and are not opposed to it. They are completely **neutral** with respect to the moral dimension, in the sense that they are intrinsically **neither good nor bad**, but are agents that cause favourable or unfavourable events, and not according to particular values>> (G. Buccellati, Chapter 8, Section 6). A slightly different opinion on demons at Sumer is expressed in {B}R/Moscati1997Antichi, p. 36, where the author clearly states a distinction between good and evil demons: <<Beneath the gods is the demons’ sphere. There are good ones, who protect temples, houses, and human beings; but most of them are evil, unappeased spirits of the dead, who live in graves, darkness, and deserts, from whence they come to earth to bring fear and torment>>. 
+<<The demons in Mesopotamia are mostly amorphous communities, whose very name appears regularly in the plural. They belong to the divine hierarchy and are not opposed to it. They are completely **neutral** with respect to the moral dimension, in the sense that they are intrinsically **neither good nor bad**, but are agents that cause favourable or unfavourable events, and not according to particular values>> (G. Buccellati, Chapter 8, Section 6). A slightly different opinion on demons at Sumer is expressed in {B}R/Moscati1997Imperi, p. 36, where the author clearly states a distinction between good and evil demons: <<Beneath the gods is the demons’ sphere. There are good ones, who protect temples, houses, and human beings; but most of them are evil, unappeased spirits of the dead, who live in graves, darkness, and deserts, from whence they come to earth to bring fear and torment>>. 
 
 Note that a similar opinion is expressed in {B}R/vonSoden1985Einfuhrungen. 
 
@@ -1819,7 +1796,7 @@ For *Mušḫuššu* demon, see [CAD 10 = M2, pp. 270-271](http://4Banks.net/Mes-
 @NOTES R/8.6
 NA mDP
 ND 3 August 2020
-TO Kululu
+TO Kulul(l)u
 
 For *Kulul(l)u* demon, see [CAD 8 = K, pp. 526-527](http://4Banks.net/Mes-rel/PDF/CAD8_526-527.pdf); cf. [RlA](http://publikationen.badw.de/de/rla/index#6742). For a depiction of *Kulul(l)u*, see [here](http://4Banks.net/Mes-rel/Images/Kululu.jpg). Cf. also {B}R/Green1986Note.
 
@@ -1859,7 +1836,7 @@ On the goddess Ereshkigal, see [here](http://oracc.museum.upenn.edu/amgg/listofd
 @NOTES R/8.6
 NA mDP
 ND 3 August 2020
-TO angels; ἄγγελος (Greek); mal<sup>e</sup>’āk<sup>e</sup> (Hebrew)
+TO angels; ἄγγελος (ángelos: Greek); mal<sup>e</sup>’āk<sup>e</sup> (מַלְאָךְ: Hebrew)
 
 For the Greek term ἄγγελος, see [LSJ](http://stephanus.tlg.uci.edu/lsj/#eid=433). 
 
@@ -1915,9 +1892,9 @@ NA mDP
 ND 3 August 2020
 TO Satan
 
-For the Hebrew שָׂטָן, [*sāṭān*](http://www.jewishencyclopedia.com/articles/13219-satan), ‘adversary’, see [DCH 8, pp. 122-123](http://4Banks.net/Mes-rel/PDF/DCH_Satan.pdf); cf. {B}R/vanderHorst1999DDD, pp. 726-732. Cf. also {B}R/Rinaldi1971STN. 
+For the Hebrew שָׂטָן, [*sāṭān*](http://www.jewishencyclopedia.com/articles/13219-satan), ‘adversary’, see [DCH 8, pp. 122-123](http://4Banks.net/Mes-rel/PDF/DCH_Satan.pdf); cf. {B}R/vanderHorst1999DDD, pp. 726-732. Cf. also {B}R/Rinaldi1971BO. 
 
-For the Biblical passages mentioned by G. Buccellati: [*Job* 1, 6-12](https://www.tanakhml.org/d13.php2xml?sfr=28&prq=1); [*Job* 2, 1-10](https://www.tanakhml.org/d13.php2xml?sfr=28&prq=2); [*Zc.* 3, 1-2](https://www.tanakhml.org/d13.php2xml?sfr=25&prq=3&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls). About the serpent as symbol of Satan, see [*Gn.* 3, 14-15](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=3&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls).
+For the Biblical passages mentioned by G. Buccellati: [*Job* 1, 6-12](https://www.tanakhml.org/d13.php2xml?sfr=28&prq=1); [*Job* 2, 1-10](https://www.tanakhml.org/d13.php2xml?sfr=28&prq=2); [*Zc.* 3, 1-2](https://www.tanakhml.org/d13.php2xml?sfr=25&prq=3&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls). About the serpent as symbol of Satan, see [*Gen.* 3, 14-15](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=3&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls).
 
 
 @NOTES R/8.6
@@ -1941,7 +1918,7 @@ For Ἀσμοδαὶος, [*Asmodeus*](http://www.jewishencyclopedia.com/article
 @NOTES R/8.6
 NA mDP
 ND 3 August 2020
-TO spirits of the dead; âbi (Hurrian)
+TO spirits of the dead; ābi (Hurrian)
 
 About the interdiction in the Bible about the invocation of **spirits of the dead**, Hebrew ָאֹבֹת, *’obot*,  [DCH 1, pp. 91-97](http://4Banks.net/Mes-rel/PDF/DCH_Spirits.pdf), lit. “ancestors”, and for Hebrew יִדְּעֹנִים, *yid<sup>e</sup>‘ōnîm* [DCH 1, pp. 91-97](http://4Banks.net/Mes-rel/PDF/DCH_Spirits.pdf), lit. ‘the familiar spirits, necromancers’, see [*Lv.* 19, 31](https://www.tanakhml.org/d21.php2xml?sfr=3&prq=19&psq=31&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non) and [*Dt.* 18, 10-11](https://www.tanakhml.org/d13.php2xml?sfr=5&prq=18&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non), respectively. 
 
@@ -1955,9 +1932,9 @@ TO divination
 
 In general, on **divination** in ancient Mesopotamia, see RlA, *sub voce* [‘Omina und Orakle’](http://publikationen.badw.de/de/rla/index#9259). 
 
-A discussion on divination as interpretation of natural phenomena, described as G. Buccellati as a “self-declaration of the absolute” (G. Buccellati, Chapter 9, Section 1), can be found in {B}R/Rochberg2014Science; cf. {B}R/Meijer1992Natural; see also {B}R/Jacobsen1963Religion, stressing how Mesopotamian religion and the ritual practices derived from the need to respond to natural phenomena, such as disasters, famine, etc. 
+A discussion on divination as interpretation of natural phenomena, described as G. Buccellati as a “self-declaration of the absolute” (G. Buccellati, Chapter 9, Section 1), can be found in {B}R/Rochberg2014Divination; cf. {B}R/Meijer1992Natural; see also {B}R/Jacobsen1963Ancient, stressing how Mesopotamian religion and the ritual practices derived from the need to respond to natural phenomena, such as disasters, famine, etc. 
 
-Again, on **divination** (analysed as a glimpse on Mesopotamian ‘scientific mind’), see {B}R/Bottéro1992Reasoning, specifically chapter 3.
+Again, on **divination** (analysed as a glimpse on Mesopotamian ‘scientific mind’), see {B}R/Bottero1992Reasoning, specifically chapter 3.
 
 Specifically, on **Mesopotamian divination** and interpretation of signs, see {B}R/Annus2010Divination.
 
@@ -1969,7 +1946,7 @@ Finally, a useful bibliography on **Mesopotamian divination in the Neo-Assyrian 
 @NOTES R/9.1
 NA mDP
 ND 7 August 2020
-TO natural phenomena
+TO nature
 
 For a discussion on **Mesopotamian interpretation of nature**, based on mythology and divination, and a comparison with the later philosophical approach in the Greek culture, see {B}R/Katz1995Emergence, specifically p. 638, where the authors quote {B}R/Cornford1957Philosophy, *Preface*, p. v.
 
@@ -2005,7 +1982,7 @@ NA mDP
 ND 7 August 2020
 TO Appendix 4
 
-For the Akkadian transcription (and a French translation) of the text of *Appendix 4*, see {B}R/Dossin1935Prières. 
+For the Akkadian transcription (and a French translation) of the text of *Appendix 4*, see {B}R/Dossin1935Prieres. 
 Cf. also [*Appendix 4*](http://4banks.net/Mes-rel/Sources/appendix 4_mDP.htm). 
 
 
@@ -2029,7 +2006,7 @@ Cf. also [*Appendix 5*](http://4banks.net/Mes-rel/Sources/appendix 5_mDP.htm).
 @NOTES R/9.1
 NA mDP
 ND 7 August 2020
-TO barū (Akkadian)
+TO bārû (Akkadian)
 
 For the Akkadian term *bārû*, ‘diviner’, see [CAD 2 = B, pp. 121-125](http://4Banks.net/Mes-rel/PDF/CAD2_121-125.pdf). Cf. *infra* {N}R/10.1.
 
@@ -2045,7 +2022,7 @@ Cf. *supra* {N}R/9.1.
 @NOTES R/9.2
 NA mDP
 ND 7 August 2020
-TO téras (Greek)
+TO τέρας (téras: Greek)
 
 For the Greek term τέρας, *téras*, see [LSJ](http://stephanus.tlg.uci.edu/lsj/#eid=106019).
 
@@ -2055,7 +2032,7 @@ NA mDP
 ND 7 August 2020
 TO Appendix 5
 
-For the Akkadian transcription and English translation of the text of [*Appendix 5*] (http://4banks.net/Mes-rel/Sources/appendix 5_mDP.htm#), see {B}R/Leichty1970Izbu, pp. 11 [*Appendix 5.1*](http://4banks.net/Mes-rel/Sources/appendix 5_mDP.htm#5.1); 36-39, 47, 52, 59, 62 = [*Appendix 5.2*](http://4banks.net/Mes-rel/Sources/appendix 5_mDP.htm#5.2); 84, 103-105, 117-118, 131 = [*Appendix 5.3*](http://4banks.net/Mes-rel/Sources/appendix 5_mDP.htm#5.3), 191, 193 = [*Appendix 5.4*](http://4banks.net/Mes-rel/Sources/appendix 5_mDP.htm#5.4).
+For the Akkadian transcription and English translation of the text of [*Appendix 5*] (http://4banks.net/Mes-rel/Sources/appendix 5_mDP.htm), see {B}R/Leichty1970Izbu, pp. 11 [*Appendix 5.1*](http://4banks.net/Mes-rel/Sources/appendix 5_mDP.htm#5.1); 36-39, 47, 52, 59, 62 = [*Appendix 5.2*](http://4banks.net/Mes-rel/Sources/appendix 5_mDP.htm#5.2); 84, 103-105, 117-118, 131 = [*Appendix 5.3*](http://4banks.net/Mes-rel/Sources/appendix 5_mDP.htm#5.3), 191, 193 = [*Appendix 5.4*](http://4banks.net/Mes-rel/Sources/appendix 5_mDP.htm#5.4). See mostly {B}R/Leichty1970Izbu; cf. {B}R/Leichty1986Catalogue, {B}R/Leichty1987Catalogue, and {B}R/Rawlinson1861-1884CIWA; for [*Appendix 5.4*](http://4banks.net/Mes-rel/Sources/appendix 5_mDP.htm#5.4), cf. also {B}R/Boissier1894Documents (autographs).   
 
 
 @NOTES R/9.2
@@ -2070,15 +2047,15 @@ Cf. also [*Appendix 4*](http://4banks.net/Mes-rel/Sources/appendix 4_mDP.htm).
 @NOTES R/9.2
 NA mDP
 ND 7 August 2020
-TO Appendices 13.1-3
+TO Appendix 13.1-3
 
-For the English translation of the text of [*Appendix 13*](http://4banks.net/Mes-rel/Sources/appendix 13_mDP.htm), see {B}R/Caplice1974Namburbi, pp. 16 = [*Appendix 13.1*](http://4banks.net/Mes-rel/Sources/appendix 13_mDP.htm#13.1), 16-17 = [*Appendix 13.2*](http://4banks.net/Mes-rel/Sources/appendix 13_mDP.htm#13.2), 23-24 = [*Appendix 13.3*](http://4banks.net/Mes-rel/Sources/appendix 13_mDP.htm#13.3).
+For the English translation of the text of [*Appendix 13*](http://4banks.net/Mes-rel/Sources/appendix 13_mDP.htm), see {B}R/Caplice1974Namburbi, pp. 16 = [*Appendix 13.1*](http://4banks.net/Mes-rel/Sources/appendix 13_mDP.htm#13.1), 16-17 = [*Appendix 13.2*](http://4banks.net/Mes-rel/Sources/appendix 13_mDP.htm#13.2), 23-24 = [*Appendix 13.3*](http://4banks.net/Mes-rel/Sources/appendix 13_mDP.htm#13.3). Cf. (on *namburbi*) {B}R/Caplice1965Namburbi and {B}R/Caplice1967Namburbi. 
 
 
 @NOTES R/9.2
 NA mDP
 ND 7 August 2020
-TO Humbaba
+TO Humbaba/Huwawa
 
 On the mythical entity *Huwawa/Humbaba*, see RlA, *sub voce* [‘Ḫuwawa/Ḫumbaba’](http://publikationen.badw.de/de/rla/index#5573).
 
@@ -2096,7 +2073,7 @@ NA mDP
 ND 7 August 2020
 TO astrology
 
-On ‘astrology’ in ancient Mesopotamian, see e.g. Pettinato, Giovanni 1998, *La scrittura celeste*, Milano: Mondadori; cf. {B}R/Hunger1999Astral. On ‘divination’ and ‘astrology’, see e.g. {B}R/Rochberg2004Divination.
+On ‘astrology’ in ancient Mesopotamian, see e.g. Pettinato, Giovanni 1998, *La scrittura celeste*, Milano: Mondadori; cf. {B}R/Hunger1999Astral. On ‘divination’ and ‘astrology’, see e.g. {B}R/Rochberg2014Divination.
 
 
 @NOTES R/9.3
@@ -2131,7 +2108,7 @@ NA mDP
 ND 8 August 2020
 TO Appendix 6
 
-For the Akkadian transcription and English translation of the text of [*Appendix 6*](http://4banks.net/Mes-rel/Sources/appendix 6_mDP.htm), see {B}R/Reiner1981Omens, pp. 36-37, 40-41, 44-48, 74-79.
+For the Akkadian transcription and English translation of the text of [*Appendix 6*](http://4banks.net/Mes-rel/Sources/appendix 6_mDP.htm), see {B}R/Reiner1981Enuma, pp. 36-37, 40-41, 44-48, 74-79.
 
 
 @NOTES R/9.4
@@ -2153,7 +2130,7 @@ For the liver and its interpretation in ancient Near East see also {B}R/Matthieu
 @NOTES R/9.4
 NA mDP
 ND 8 August 2020
-TO liver’s clay models
+TO liver clay models
 
 For examples of liver’s clay models, see e.g. [British Museum 92668](https://www.britishmuseum.org/collection/object/W_1889-0426-238) and [Louvre AO 19829](https://www.louvre.fr/en/oeuvre-notices/model-liver-divination). See also {B}R/Rutz2014Liver. 
 
@@ -2163,7 +2140,7 @@ NA mDP
 ND 8 August 2020
 TO Appendix 7
 
-For the Akkadian transcription and English translation of the text of [*Appendix 7*](http://4banks.net/Mes-rel/Sources/appendix 7_mDP.htm), see {B}R/Starr1983Diviner, pp. 30-36 (Akkadian) and pp. 37-44 = [*Appendix 7*](http://4banks.net/Mes-rel/Sources/appendix 7_mDP.htm).
+For the Akkadian transcription and English translation of the text of [*Appendix 7*](http://4banks.net/Mes-rel/Sources/appendix 7_mDP.htm), see {B}R/Starr1983Diviner, pp. 30-36 (Akkadian) and pp. 37-44 = [*Appendix 7*](http://4banks.net/Mes-rel/Sources/appendix 7_mDP.htm). Cf. {B}R/YOS11 (autographs).
 
 
 @NOTES R/9.4
@@ -2195,8 +2172,8 @@ NA mDP
 ND 8 August 2020
 TO Appendix 8
 
-For **Appendix 8**, see {B}R/Pettinato1966Lecanomancy.
-Cf. also [*Appendix 8*](http://4banks.net/Mes-rel/Sources/appendix 8_mDP.htm)
+For **Appendix 8**, see {B}R/Pettinato1966Lecanomancy (Akkadian text and German translation); cf. {B}R/YOS10 and {B}R/Sigristetal1996Catalogue (autographs).
+Cf. also [*Appendix 8*](http://4banks.net/Mes-rel/Sources/appendix 8_mDP.htm).
 
 
 @NOTES R/9.6
@@ -2226,7 +2203,7 @@ In general, on **prophecy** in ancient Mesopotamia, see RlA, *sub voce* [‘Prop
 
 Cf. the website [Prophets in the Ancient Near East](https://www.cjconroy.net/bib/proph-ane.htm); in bibliography on this website under {B}R/Prophets.
 
-For further bibliography on the topic, see: {B}R/Blum2008Prophetie; {B}R/Charpin2002Prophetes; {B}R/Durand, Jean-Marie 1997Mari; {B}R/Heintz1997Oracles; {B}R/Huffmon2000Prophets; {B}R/Huffmon2012False; {B}R/deJong1989Observations; {B}R/Kockert2003Propheten; {B}R/Lafont1984Adad; {B}R/Lemaire2001Prophets; {B}R/Lion2000Mentions; {B}R/Nissinen1998SAAS7; {B}R/Nissinen2000Prophecy; {B}R/Nissinen2003Prophetie; {B}R/Nissinen2003Prophets (cf. also {B}R/Nissinen2019Prophets); {B}R/Nissinen2007Prophets; {B}R/Nissinen2019Prophets (second enriched edition of: {B}R/Nissinen2003Prophets); {B}R/Nissinen2019Divination; {B}R/Oppenheim1954INIMGAR; {B}R/Parpola1997SAA9; {B}R/Pongratz-Leisten1999Herrschaftswissen; {B}R/Sharp2016Prophets; {B}R/Weippert1985Bildsprache; {B}R/Weippert2001Prophetie; {B}R/Weippert2002Konig.
+For further bibliography on the topic, see: {B}R/Blum2008Prophetie; {B}R/Charpin2002Prophetes; {B}R/Durand1997Mari; {B}R/Heintz1997Oracles; {B}R/Huffmon2000Prophets; {B}R/Huffmon2012False; {B}R/deJong1989Observations; {B}R/Kockert2003Propheten; {B}R/Lafont1984Adad; {B}R/Lemaire2001Prophets; {B}R/Lion2000Mentions; {B}R/Nissinen1998SAAS7; {B}R/Nissinen2000Prophecy; {B}R/Nissinen2003Prophetie; {B}R/Nissinen2003Prophets (cf. also {B}R/Nissinen2019Prophets); {B}R/Nissinen2019Prophets (second enriched edition of: {B}R/Nissinen2003Prophets); {B}R/Nissinen2019Divination; {B}R/Oppenheim1954AfO17; {B}R/Parpola1997SAA9; {B}R/Pongratz-Leisten1999Herrschaftswissen; {B}R/Sharp2016Prophets; {B}R/Weippert1985Bildsprache; {B}R/Weippert2001Prophetie; {B}R/Weippert2002Konig.
 
 
 @NOTES R/10.1
@@ -2240,7 +2217,7 @@ For the Akkadian term *bārû*, ‘diviner’, see [CAD 2 = B, pp. 121-125](http
 @NOTES R/10.1
 NA mDP
 ND 17 August 2020
-TO nābî (Hebrew)
+TO nābî (נָבִיא: Hebrew)
 
 For the Hebrew term נָבִיא,*nābî’* (‘prophet’) see [DCH 5, pp. 586-591](http://4Banks.net/Mes-rel/PDF/DCH_Prophet.pdf). It is also interesting to note that also a feminine counterpart does exist, the Hebrew term נְבִיאָה, *n<sup>e</sup>bî’āh*, (‘prophet’, but n.f., hence ‘prophetess’), see [DCH 5, pp. 592](http://4Banks.net/Mes-rel/PDF/DCH_Prophet_feminine.pdf), <<prophesying with song ([*Ex.* 15, 20](https://www.tanakhml.org/d21.php2xml?sfr=2&prq=15&psq=20&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls)), as judge ([*Jg.* 4, 4](https://www.tanakhml.org/d21.php2xml?sfr=7&prq=4&psq=4&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls)), giving word of Y. ([*2 Kings* 22, 14](https://www.tanakhml.org/d21.php2xml?sfr=11&prq=22&psq=14&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls)), opponent of Nehemiah ([*Ne.* 6, 14](http://www.vatican.va/archive/ENG0839/__PC2.HTM)), married to Isaiah ([*Is.* 8, 3](https://www.tanakhml.org/d21.php2xml?sfr=12&prq=8&psq=3&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls)) [etc.]>>.
 
@@ -2274,7 +2251,7 @@ NA mDP
 ND 17 August 2020
 TO Appendix 9
 
-For **Appendix 9**, see [here](http://4banks.net/Mes-rel/Sources/appendix 9_mDP.htm).
+For **Appendix 9**, see [here](http://4banks.net/Mes-rel/Sources/appendix 9_mDP.htm); cf. {B}R/Dossin1967Correspondance, {B}R/Dossin1978Correspondance, and {B}R/Durand1988Archives.
 
 
 @NOTES R/10.7
@@ -2317,7 +2294,7 @@ For the Akkadian term *tabrītu*, ‘vision’, see [CAD 18 = T, pp. 31-32](http
 @NOTES R/11.2
 NA mDP
 ND 21 August 2020
-TO ḥāzôn (Hebrew)
+TO ḥāzôn (חָזוֹן: Hebrew)
 
 For the Hebrew term חָזוֹן, *ḥāzôn*, ‘vision’, see [DCH 3, p. 183](http://4Banks.net/Mes-rel/PDF/DCH3_Vision.pdf). For two example of passages of the Old testament attesting the word, see [1 Sam. 3, 1](https://www.tanakhml.org/d21.php2xml?sfr=8&prq=3&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls) and [1Sam. 3, 21](https://www.tanakhml.org/d21.php2xml?sfr=8&prq=3&psq=21&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls).
 
@@ -2325,7 +2302,7 @@ For the Hebrew term חָזוֹן, *ḥāzôn*, ‘vision’, see [DCH 3, p. 183]
 @NOTES R/11.2
 NA mDP
 ND 25 August 2020
-TO Atramhasis; Utnapishtim
+TO Atrahasis; Utnapishtim
 
 For the text of *Atramhasis*, see *supra* {N}R/6.2. For *Utnapishtim*, see *supra* {N}R/7.8. 
 
@@ -2333,7 +2310,7 @@ For the text of *Atramhasis*, see *supra* {N}R/6.2. For *Utnapishtim*, see *supr
 @NOTES R/11.2
 NA mDP
 ND 21 August 2020
-TO Adapa
+TO Adapa; Ea/Enki
 
 For [Adapa](http://publikationen.badw.de/de/rla/index#164) struggling with [Anu](http://oracc.museum.upenn.edu/amgg/listofdeities/an/index.html), under the advises of [Ea](http://oracc.museum.upenn.edu/amgg/listofdeities/enki/index.html) in the *Story of Adapa*, see {B}R/Foster2005Before, pp. 525-530 (cf. *supra* {N}R/6.9 and {N}R/7.10). 
 
@@ -2341,7 +2318,7 @@ For [Adapa](http://publikationen.badw.de/de/rla/index#164) struggling with [Anu]
 @NOTES R/11.2
 NA mDP
 ND 21 August 2020
-TO Gilgamesh and Ishtar
+TO Gilgamesh; Ishtar
 
 For [Gilgamesh](http://publikationen.badw.de/de/rla/index#4555) repelling [Ishtar](http://oracc.museum.upenn.edu/amgg/listofdeities/inanaitar/index.html), see {B}R/George2000Gilgamesh, [pp. 47-54 = Table VI](https://ia800802.us.archive.org/0/items/12CPReadingTheEpicOfGilgamesh/12CP%20Reading%20-%20The%20Epic%20of%20Gilgamesh.pdf#page=10) (cf. *supra* {N}R/7.10).
 
@@ -2357,7 +2334,7 @@ For the goddess Ishtar, see [here](http://oracc.museum.upenn.edu/amgg/listofdeit
 @NOTES R/11.2
 NA mDP
 ND 25 August 2020
-TO Ea
+TO Ea/Enki
 
 For the god Ea/Enki, see [here](http://oracc.museum.upenn.edu/amgg/listofdeities/enki/index.html). 
 
@@ -2365,9 +2342,9 @@ For the god Ea/Enki, see [here](http://oracc.museum.upenn.edu/amgg/listofdeities
 @NOTES R/11.2
 NA mDP
 ND 25 August 2020
-TO Anum
+TO Anu
 
-For the god Anum, see [here](http://oracc.museum.upenn.edu/amgg/listofdeities/an/index.html). 
+For the god **Anu**, see [here](http://oracc.museum.upenn.edu/amgg/listofdeities/an/index.html). 
 
 
 @NOTES R/11.2
@@ -2375,17 +2352,17 @@ NA mDP
 ND 25 August 2020
 TO man’s creation myths
 
-For myths telling man’s creation, see e.g. {B}R/Foster2005Before, pp. 491-493. 
+For myths telling **man’s creation**, see e.g. {B}R/Foster2005Before, pp. 491-493. 
 
 
 @NOTES R/11.2
 NA mDP
 ND 21 August 2020
-TO biblical passages
+TO Gen. 15; Ex. 3, 1-6 ; Ex. 19, 3-8; Ps. 5, 13-15; Ps. 7, 10-15; 1 Sam. 9, 14-21; 2 Sam. 7, 4; 2 Sam. 12, 1; 2 Sam. 24, 11-12; Jos. 5, 15; Gen. 18, 1-15; Gen. 32, 23; Ex. 3, 2 
 
 For the Biblical passages mentioned by G. Buccellati: 
 
-[*Gn.* 15]( https://www.tanakhml.org/d13.php2xml?sfr=1&prq=15&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non); 
+[*Gen.* 15]( https://www.tanakhml.org/d13.php2xml?sfr=1&prq=15&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non); 
 
 [*Ex.* 3, 1-6](https://www.tanakhml.org/d13.php2xml?sfr=2&prq=3&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non); 
 
@@ -2405,9 +2382,9 @@ For the Biblical passages mentioned by G. Buccellati:
 
 [*Jos.* 5, 15](https://www.tanakhml.org/d21.php2xml?sfr=6&prq=5&psq=15&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non); 
 
-[*Gn.* 18, 1-15](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=18&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non); 
+[*Gen.* 18, 1-15](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=18&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non); 
 
-[*Gn.* 32, 23-32](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=32&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non); 
+[*Gen.* 32, 23-32](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=32&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non); 
 
 [*Ex.* 3, 2](https://www.tanakhml.org/d21.php2xml?sfr=2&prq=3&psq=2&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non). 
 
@@ -2415,7 +2392,7 @@ For the Biblical passages mentioned by G. Buccellati:
 @NOTES R/11.3
 NA mDP
 ND 24 August 2020
-TO ’ôdôt u-môftîm (Hebrew); ’ôth (Hebrew); môfēth (Hebrew); Dt. 6, 22
+TO ’ôdôt u-môftîm (אֹותֹת וּמֹפְתִים: Hebrew); ’ôth (אֹות: Hebrew); môfēth (מוֹפֵת: Hebrew); Dt. 6, 22
 
 For the two Hebrew terms אֹותֹת וּמֹפְתִים, *’ôthôth w-môf<sup>e</sup>tîm*, ‘signs and wonders’, see [DCH 1, pp. 165-167](http://4Banks.net/Mes-rel/PDF/DCH1_Sign.pdf) (singular אֹות, *’ôth*) and [DCH 5, p. 183](http://4Banks.net/Mes-rel/PDF/DCH5_Wonder.pdf) (singular מוֹפֵת, *môfēth*), respectively. For the first attestation in the Old Testament (mentioned by G. Buccellati in Chapter 11, Section 3), see [*Dt.* 6, 22](https://www.tanakhml.org/d21.php2xml?sfr=5&prq=6&psq=22&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls). 
 
@@ -2439,7 +2416,7 @@ For the Akkadian term *izbu*, ‘malformed newborn human or animal’, see [CAD 
 @NOTES R/11.3
 NA mDP
 ND 24 August 2020
-TO térata (Greek)
+TO τέρατα (térata: Greek)
 
 For the Greek term τέρατα, *térata*, cf. *supra* {N}R/9.2. 
 
@@ -2465,7 +2442,7 @@ NA mDP
 ND 24 August 2020
 TO Appendix 6
 
-For *Appendix 6*, see [here](http://4banks.net/Mes-rel/Sources/appendix 6_mDP.htm).
+For *Appendix 6*, see [here](http://4banks.net/Mes-rel/Sources/appendix 6_mDP.htm); see mostly {B}R/Reiner1981Enuma; cf. {B}R/Bezold1889-1899Catalogue, {B}R/King1914Catalogue, and {B}R/Leichty1986Catalogue.  
 
 
 @NOTES R/11.3
@@ -2495,7 +2472,7 @@ For *Ex.* 14, 15-31, see [here](https://www.tanakhml.org/d13.php2xml?sfr=2&prq=1
 @NOTES R/11.3
 NA mDP
 ND 24 August 2020
-TO Elijah’s call; 1 Kings 18, 30-38
+TO Elijah; 1 Kings 18, 30-38
 
 For the biblical passage of Elijah’s call, see [*1 Kings* 18, 30-38](https://www.tanakhml.org/d13.php2xml?sfr=10&prq=18&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non).
 
@@ -2519,7 +2496,7 @@ For *2 Kings* 5, 13-14, see [here](https://www.tanakhml.org/d13.php2xml?sfr=11&p
 @NOTES R/11.3
 NA mDP
 ND 24 August 2020
-TO Elijah’s sacrifice; 1 Kings 18, 37
+TO Elijah; 1 Kings 18, 37
 
 For the biblical passage of Elijah’s sacrifice, see [*1 Kings* 18, 37](https://www.tanakhml.org/d21.php2xml?sfr=10&prq=18&psq=37&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non).
 
@@ -2543,7 +2520,7 @@ For *Dt.* 29, 3, see [here](https://www.tanakhml.org/d21.php2xml?sfr=5&prq=29&ps
 @NOTES R/11.5
 NA mDP
 ND 25 August 2020
-TO dreams; Ancient Near East; Israel
+TO dreams
 
 About **dreams and dream interpretation** in Ancient Near East and Israel:
 
@@ -2565,7 +2542,7 @@ For *Appendix 10*, see [here](http://4banks.net/Mes-rel/Sources/appendix 10_mDP.
 @NOTES R/11.5
 NA mDP
 ND 25 August 2020
-TO Gudea’s dream
+TO Gudea
 
 For the Sumerian text of [Gudea](http://publikationen.badw.de/de/rla/index#4801)’s dream (mentioned by G. Buccellati in Chapter 11, Section 5), see [ETCSL 2.1.7: The building of Ninĝirsu’s temple (Gudea, cylinders A and B)](http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2*#), see [here, Sumerian](http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.1.7&display=Crit&charenc=gcirc#) and [here, English](http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.2.1.7#). 
 
@@ -2573,7 +2550,7 @@ For the Sumerian text of [Gudea](http://publikationen.badw.de/de/rla/index#4801)
 @NOTES R/11.5
 NA mDP
 ND 25 August 2020
-TO Gilgamesh’s dreams
+TO Gilgamesh; dreams
 
 For the text of Gilgamesh’s dreams (mentioned by G. Buccellati in Chapter 11, Section 5), see:
 
@@ -2599,7 +2576,7 @@ An interesting comparison between the so-called *Dream of an Assyrian Prince* an
 @NOTES R/11.5
 NA mDP
 ND 25 August 2020
-TO Poem of Erra
+TO Erra
 
 For Sumerian texts referring to [Erra](http://oracc.museum.upenn.edu/amgg/listofdeities/erra/index.html), see [ETCSL](http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?searchword=l=er3-ra%20t=DN&charenc=gcirc). 
 
@@ -2609,7 +2586,7 @@ Specifically, on the poem *Erra and Ishum* (mentioned by G. Buccellati in Chapte
 @NOTES R/11.5
 NA mDP
 ND 24 August 2020
-TO Nergal, Ishum
+TO Nergal; Ishum
 
 For Nergal and Ishum, see [here](http://oracc.museum.upenn.edu/amgg/listofdeities/nergal/index.html) and [here](http://publikationen.badw.de/de/rla/index#5963), respectively.
 
@@ -2617,7 +2594,7 @@ For Nergal and Ishum, see [here](http://oracc.museum.upenn.edu/amgg/listofdeitie
 @NOTES R/11.5
 NA mDP
 ND 24 August 2020
-TO biblical passages; Jer. 1, 6; Jer. 15, 10; Jer. 20, 8-9; Gn. 28, 10-15; 1 Sam. 3, 1-18; Joel 3, 1; Acts 2, 17     
+TO Jer. 1, 6; Jer. 15, 10; Jer. 20, 8-9; Gen. 28, 10-15; 1 Sam. 3, 1-18; Joel 3, 1; Acts 2, 17     
 
 For the biblical passages mentioned by G. Buccellati in Chapter 11, Section 5, see: 
 
@@ -2627,9 +2604,9 @@ For the biblical passages mentioned by G. Buccellati in Chapter 11, Section 5, s
 
 [*Jer.* 20, 8-9](https://www.tanakhml.org/d13.php2xml?sfr=13&prq=20&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non);
 
-[*Gn.* 28, 10-15](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=28&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non);
+[*Gen.* 28, 10-15](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=28&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non);
 
-[*Gn.* 28, 16-17](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=28&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non);
+[*Gen.* 28, 16-17](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=28&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non);
 
 [*1 Sam.* 3, 1-18](https://www.tanakhml.org/d13.php2xml?sfr=8&prq=3&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non);
 
@@ -2643,29 +2620,29 @@ NA mDP
 ND 24 August 2020
 TO Appendix 11
 
-For *Appendix 11*, see [here](http://4banks.net/Mes-rel/Sources/appendix 11_mDP.htm).
+For *Appendix 11*, see [here](http://4banks.net/Mes-rel/Sources/appendix 11_mDP.htm). See mostly {B}R/Oppenheim1956Dreams (translation); cf. {B}R/Ebeling1923Keilschrifttexte (autographs) and {B}R/Scheil1913Memoires (Akkadian text).
 
 
 @NOTES R/11.6
 NA mDP
 ND 24 August 2020
-TO Joseph’s interpretation of Pharaoh’s dreams; Gn. 40; Gn. 41, 8; Gn. 41, 16
+TO Joseph’s interpretation of Pharaoh’s dreams; Gen. 40; Gen. 41, 8; Gen. 41, 16
 
-For the biblical passages (mentioned by G. Buccellati in Chapter 11, Section 6) related to Joseph’s interpretation of Pharaoh’s dreams, see [*Gn.* 40](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=40&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non), [*Gn.* 41, 8](https://www.tanakhml.org/d21.php2xml?sfr=1&prq=41&psq=8&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non), and [*Gn.* 41, 16](https://www.tanakhml.org/d21.php2xml?sfr=1&prq=41&psq=16&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non).
-
-
-@NOTES R/11.7
-NA mDP
-ND 24 August 2020
-TO necromancy; âbi (Hurrian)
-
-For necromancy, evocation of spirits in Ancient Mesopotamian and Israel, the necromantic pit known as *âbi*, and the “woman/lady of the *’ôb*”, cf. *supra* {N}R/8.6.
+For the biblical passages (mentioned by G. Buccellati in Chapter 11, Section 6) related to Joseph’s interpretation of Pharaoh’s dreams, see [*Gen.* 40](https://www.tanakhml.org/d13.php2xml?sfr=1&prq=40&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non), [*Gen.* 41, 8](https://www.tanakhml.org/d21.php2xml?sfr=1&prq=41&psq=8&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non), and [*Gen.* 41, 16](https://www.tanakhml.org/d21.php2xml?sfr=1&prq=41&psq=16&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non).
 
 
 @NOTES R/11.7
 NA mDP
 ND 24 August 2020
-TO biblical passages; 1 Sam. 28, 6. 15; 1 Sam. 28, 13-15; 1 Sam. 31, 6; 1 Sam. 28, 19 
+TO necromancy; ābi (Hurrian)
+
+For necromancy, evocation of spirits in Ancient Mesopotamian and Israel, the necromantic pit known as *ābi*, and the “woman/lady of the *’ôb*”, cf. *supra* {N}R/8.6.
+
+
+@NOTES R/11.7
+NA mDP
+ND 24 August 2020
+TO 1 Sam. 28, 6. 15; 1 Sam. 28, 13-15; 1 Sam. 31, 6; 1 Sam. 28, 19 
 
 For the biblical passages mentioned by G. Buccellati in Chapter 11, Section 7, see: 
 
@@ -2676,14 +2653,14 @@ For the biblical passages mentioned by G. Buccellati in Chapter 11, Section 7, s
 [*1 Sam.* 31, 6](https://www.tanakhml.org/d21.php2xml?sfr=8&prq=31&psq=6&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non);
 
 [*1 Sam.* 28, 19](https://www.tanakhml.org/d21.php2xml?sfr=8&prq=28&psq=19&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non).
+
+
 @NOTES R/12.1
 NA mDP
 ND 05 September 2020
 TO meditation; private prayer
 
 About a specific Judaean **meditation** or **private prayer**, see also the entry in the *Jewish Encyclopedia* concerning the [**devotional literature**/***teḥinnah***](http://www.jewishencyclopedia.com/articles/14286-tehinnah).
-
-
 
 
 @NOTES R/12.2
@@ -2697,7 +2674,7 @@ About **Judaean wisdom literature**, see the entry in the *Jewish Encyclopedia* 
 @NOTES R/12.2
 NA mDP
 ND 05 September 2020
-TO wisdom literature; Ancient Near East
+TO wisdom literature
 
 About **Ancient Near Eastern wisdom literature**, see the entry **Weisheitsliteratur** in the [*RlA* 15, pp. 51-53](http://4Banks.net/Mes-rel/PDF/RlA_Wisdom.pdf), presenting wisdom literature in the Mesopotamian and Hittite realms (also available on [Academia](https://www.academia.edu/33283436/Weisheitsliteratur_Wisdom_Literature_in_RLA_vol_15_2016_51_52)).
 
@@ -2713,7 +2690,7 @@ For bibliographical reference to Ancient Near Eastern and Israelite **wisdom lit
 @NOTES R/12.2
 NA mDP
 ND 05 September 2020
-TO Theodicy; Ancient Near East
+TO theodicy
 
 For the text of the **“Mesopotamian Theodicy”**, see {B}R/Foster2005Before, pp. 914-922]. Cf. *supra* {N}R/7.10.
 
@@ -2721,7 +2698,7 @@ For the text of the **“Mesopotamian Theodicy”**, see {B}R/Foster2005Before, 
 @NOTES R/12.2
 NA mDP
 ND 05 September 2020
-TO Theodicy; Ancient Near East
+TO theodicy
 
 About **theodicy** in Ancient Near East, see the entry **Theodizee** in the [*RlA* 13, pp. 629-632](http://publikationen.badw.de/de/rla/index#11598), exploring theodicy in the Mesopotamian and Hittite spheres.
 
@@ -2729,7 +2706,7 @@ About **theodicy** in Ancient Near East, see the entry **Theodizee** in the [*Rl
 @NOTES R/12.2
 NA mDP
 ND 05 September 2020
-TO Poem of Erra
+TO Erra
 
 For Sumerian texts referring to [Erra](http://oracc.museum.upenn.edu/amgg/listofdeities/erra/index.html), see [ETCSL](http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?searchword=l=er3-ra%20t=DN&charenc=gcirc). Specifically, on the poem *Erra and Ishum*, see {B}R/Foster2005Before, pp. 880-911.
 
@@ -2737,7 +2714,7 @@ For Sumerian texts referring to [Erra](http://oracc.museum.upenn.edu/amgg/listof
 @NOTES R/12.3
 NA mDP
 ND 05 September 2020
-TO Gilgamesh: Tablet VI
+TO Tablet VI (Epic of Gilgamesh)
 
 For the episode of [Gilgamesh](http://publikationen.badw.de/de/rla/index#4555) repelling [Ishtar](http://oracc.museum.upenn.edu/amgg/listofdeities/inanaitar/index.html), see {B}R/George2000Gilgamesh, [pp. 47-54 = Table VI](https://ia800802.us.archive.org/0/items/12CPReadingTheEpicOfGilgamesh/12CP%20Reading%20-%20The%20Epic%20of%20Gilgamesh.pdf#page=10) (cf. *supra* {N}R/7.10 and {N}R/11.2).
 
@@ -2804,7 +2781,7 @@ For the Gospel’s passage reporting Jesus’ exclamation *lamâ sabahtāni*, se
 @NOTES R/12.5
 NA mDP
 ND 05 September 2020
-TO Biblical passages; Ex. 20, 8-11; Ex. 31, 12-17; Ps. 1, 2
+TO Ex. 20, 8-11; Ex. 31, 12-17; Ps. 1, 2
 
 For the biblical passages mentioned by G. Buccellati in Chapter 12, Section 5, see here:
 
@@ -2818,7 +2795,7 @@ For the biblical passages mentioned by G. Buccellati in Chapter 12, Section 5, s
 @NOTES R/12.5
 NA mDP
 ND 05 September 2020
-TO l<sup>e</sup>qaddišô (Hebrew)
+TO l<sup>e</sup>qaddišô (לְקַדְּשֹׁו: Hebrew)
 
 For the Hebrew expression לְקַדְּשֹׁו, *l<sup>e</sup>qadd<sup>e</sup>šô*, ‘make it holy’, see e.g. [*Ex.* 20, 8](https://www.tanakhml.org/d13.php2xml?sfr=2&prq=20&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls); cf. [*Deut.* 5, 12](https://www.tanakhml.org/d13.php2xml?sfr=5&prq=5&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls). 
 
@@ -2826,7 +2803,7 @@ For the Hebrew expression לְקַדְּשֹׁו, *l<sup>e</sup>qadd<sup>e</sup>
 @NOTES R/12.5
 NA mDP
 ND 05 September 2020
-TO b<sup>e</sup>tôratô yehgeh (Hebrew)
+TO b<sup>e</sup>tôratô yehgeh (בְתֹורָתֹו יֶהְגֶּה: Hebrew)
 
 For the Hebrew expression בְתֹורָתֹו יֶהְגֶּה, *b<sup>e</sup>tôratô yehgeh*, ‘in his law he meditates’, see e.g. [*Ex.* 20, 8](https://www.tanakhml.org/d13.php2xml?sfr=2&prq=20&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls); cf. [*Deut.* 5, 12](https://www.tanakhml.org/d13.php2xml?sfr=5&prq=5&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls).
 
@@ -2834,7 +2811,7 @@ For the Hebrew expression בְתֹורָתֹו יֶהְגֶּה, *b<sup>e</sup>t
 @NOTES R/12.6
 NA mDP
 ND 05 September 2020
-TO k<sup>e</sup>tûbîm (Hebrew)
+TO k<sup>e</sup>tûbîm (כְתוֹבִים: Hebrew)
 
 About כְתוֹבִים, *k<sup>e</sup>tûbîm*, the third part of the Hebrew Bible (the ‘Tanakh’), see e.g. the related entry in the [*Jewish Encyclopedia*](http://www.jewishencyclopedia.com/articles/9291-ketubim).
 
@@ -2846,13 +2823,15 @@ TO rituals
 
 On rituals in the Ancient Near East, see [RlA 11, pp. 421ff.](http://publikationen.badw.de/de/rla/index#10059).
 
-For further bibliography on this topic, see: {B}R/Ambos2005Rituale; {B}R/Durand1997Mari; {B}R/Müller1937Ritual. 
+For further bibliography on this topic, see: {B}R/Ambos2005Rituale; {B}R/Durand1997Mari; {B}R/Muller1937Ritual. 
+
+For the specific and peculiar role of **women** in Mesopotamian cultic performances of the third-second millennium BC, see e.g. {B}R/Gadotti2016Women. 
 
 
 @NOTES R/13.2
 NA mDP
 ND 06 September 2020
-TO offerings and sacrifices in Mesopotamia
+TO offerings; sacrifices
 
 About offerings and sacrifices in Ancient Mesopotamia, see [RlA 10, pp. 93ff.](http://publikationen.badw.de/de/rla/index#9266).
 
@@ -2862,7 +2841,7 @@ For further bibliography in this topic, see: {B}R/Biome1934Opfermaterie; {B}R/Fo
 @NOTES R/13.2
 NA mDP
 ND 05 September 2020
-TO Atramhasis
+TO Atrahasis
 
 For *Atramhasis*, cf. *supra* {N}R/6.2.
 
@@ -2878,7 +2857,7 @@ For the text of the *Dialog of Pessimism*, cf. *supra* {N}R/12.3.
 @NOTES R/13.2
 NA mDP
 ND 05 September 2020
-TO Biblical passages; 1 Sam. 15, 22; Ps. 40, 6; Hos. 6, 6  
+TO 1 Sam. 15, 22; Ps. 40, 6; Hos. 6, 6  
 
 For the biblical passages mentioned by G. Buccellati in Chapter 13, Section 2, see here:
 
@@ -2892,7 +2871,7 @@ For the biblical passages mentioned by G. Buccellati in Chapter 13, Section 2, s
 @NOTES R/13.2
 NA mDP
 ND 05 September 2020
-TO ‘ôlā (Hebrew)
+TO ‘ôlā (עוֹלָ: Hebrew)
 
 For the Hebrew term עוֹלָ, *‘ôlā*, ‘to make rise’ (from the radical עלה, *‘LH*), see [DCH 6, pp. 400-414](http://4Banks.net/Mes-rel/PDF/DCH_Rise.pdf).
 
@@ -2900,7 +2879,7 @@ For the Hebrew term עוֹלָ, *‘ôlā*, ‘to make rise’ (from the radical 
 @NOTES R/13.2
 NA mDP
 ND 05 September 2020
-TO ga’al (Hebrew)
+TO ga’al (גָאַל: Hebrew)
 
 For the Hebrew term גָאַל, *ga’al*, ‘to redeem’, see [DCH 2, pp. 293-296](http://4Banks.net/Mes-rel/PDF/DCH_Redeem.pdf).
 
@@ -2934,7 +2913,7 @@ About **Enkidu’s process of civilization**, mentioned by G. Buccellati in Chap
 @NOTES R/13.7
 NA mDP
 ND 06 September 2020
-TO Mesopotamian magic
+TO magic
 
 On **Mesopotamian magic**, see [RlA 7, pp. 200ff.](http://publikationen.badw.de/de/rla/index#7378).
 Cf. also the web-article [“Mesopotamian Magic in the First Millennium B.C.”](https://www.metmuseum.org/toah/hd/magic/hd_magic.htm). 
@@ -2993,7 +2972,7 @@ For the publication of a Mesopotamian ‘exorcist’s manual’, see {B}R/Geller
 @NOTES R/13.9
 NA mDP
 ND 06 September 2020
-TO Mesopotamian witchcraft
+TO witchcraft
 
 On **Mesopotamian witchcraft**, see [RlA 15, pp. 224-224](http://4Banks.net/Mes-rel/PDF/RlA_Witchcraft.pdf).
 
@@ -3013,7 +2992,7 @@ For the Akkadian term ***kišpū***, ‘witchcraft’, see [CAD 8 = K, pp. 454-4
 @NOTES R/13.9
 NA mDP
 ND 05 September 2020
-TO Myth of Anzu
+TO Anzu
 
 For the **Myth of [Anzu]**(http://oracc.museum.upenn.edu/nimrud/livesofobjects/anzu/index.html), see {B}R/Foster2005Before, pp. 555-578.
 
@@ -3049,7 +3028,7 @@ TO namburbi (Akkadian)
 
 For the ***namburbi***, cf. *supra* {N}R/9.2. 
 
-See also {B}R/MauI1994Namburbi. 
+See also {B}R/Maul1994Namburbi. 
 
 
 @NOTES R/13.10
@@ -3081,7 +3060,7 @@ NA mDP
 ND 05 September 2020
 TO šaziga (Sumerian)
 
-For the Sumerian term **šaziga** (šag<sub>4</sub>-zig<sub>3</sub>-[ga]), ‘the elevation of the heart’ [lit. ‘(sexual?) arouse’], see [here](http://oracc.org/epsd2/o0038791). Cf. also {B}R/Attinger2005AK.
+For the Sumerian term **šaziga** (šag<sub>4</sub>-zig<sub>3</sub>-[ga]), ‘the elevation of the heart’ [lit. ‘(sexual?) arouse’], see [here](http://oracc.org/epsd2/o0038791). Cf. also {B}R/Attinger2005AK and {B}R/Biggs1967Shaziga.
 
 
 @NOTES R/13.10
@@ -3121,7 +3100,7 @@ For *Appendix 1*, see [here](http://4banks.net/Mes-rel/Sources/appendix 1_mDP.ht
 @NOTES R/13.10
 NA mDP
 ND 05 September 2020
-TO Ea
+TO Ea/Enki
 
 For the god **Ea**, see [here](http://oracc.museum.upenn.edu/amgg/listofdeities/enki/index.html).
 
@@ -3139,7 +3118,7 @@ NA mDP
 ND 05 September 2020
 TO Appendix 2
 
-For *Appendix 2*, see [here](http://4banks.net/Mes-rel/Sources/appendix 2_mDP.htm).
+For *Appendix 2*, see [here](http://4banks.net/Mes-rel/Sources/appendix 2_mDP.htm). See mostly {B}R/Falkenstein1959Sumerische (autograph and transliteration of the Sumerian text) and {B}R/Jacobsen1987Harps (Sumerian text and English translation).
 
 
 @NOTES R/13.10
@@ -3189,7 +3168,7 @@ NA mDP
 ND 05 September 2020
 TO Appendix 16.1
 
-For *Appendix 16.1*, see [here](http://4banks.net/Mes-rel/Sources/appendix 16_mDP.htm#16.1).
+For *Appendix 16.1*, see [here](http://4banks.net/Mes-rel/Sources/appendix 16_mDP.htm#16.1). See mostly {B}R/Meier1967Maqlu.
 
 
 @NOTES R/13.10
@@ -3221,13 +3200,13 @@ NA mDP
 ND 06 September 2020
 TO Appendix 13.3
 
-For *Appendix 13.3*, see [here](http://4banks.net/Mes-rel/Sources/appendix 13_mDP.htm#13.3).
+For *Appendix 13.3*, see [here](http://4banks.net/Mes-rel/Sources/appendix 13_mDP.htm#13.3). See mostly {B}R/Caplice1974Namburbi and {B}R/Ebeling1955Namburbi.
 
 
 @NOTES R/13.11
 NA mDP
 ND 06 September 2020
-TO Ea
+TO Ea/Enki
 
 For the god **Ea**, see [here](http://oracc.museum.upenn.edu/amgg/listofdeities/enki/index.html).
 
@@ -3267,7 +3246,7 @@ For the terms composing the Akkadian syntagm *mār šipri*, ‘messenger’ (lit
 @NOTES R/13.11
 NA mDP
 ND 06 September 2020
-TO <<I, Yahweh, am your God>>; Ex. 20, 2; Deut. 5, 6; Lev. 11, 45; Lev. 19, 2; Lev. 22, 33; Lev. 25, 38; Lev. 26, 45
+TO Ex. 20, 2; Deut. 5, 6; Lev. 11, 45; Lev. 19, 2; Lev. 22, 33; Lev. 25, 38; Lev. 26, 45
 
 The sentence <<I, Yahweh, am your God>> (mentioned by G. Buccellati in Chapter 13, Section 11), is attested several times in the Bible; e.g. see the *incipit* of the account of the “Ten Commandments”, [*Ex.* 20, 2](https://www.tanakhml.org/d13.php2xml?sfr=2&prq=20&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls) and [*Deut.* 5, 6](https://www.tanakhml.org/d13.php2xml?sfr=5&prq=5&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls). 
 
@@ -3277,7 +3256,7 @@ For examples from the *Leviticus*, see e.g. [*Lev.* 11, 45](https://www.tanakhml
 @NOTES R/13.12
 NA mDP
 ND 06 September 2020
-TO magic in the Bible
+TO magic
 
 On **magic** in the Bible, see e.g. {B}R/Achtemeier1996Harper, pp. 641-643.
 
@@ -3293,7 +3272,7 @@ For **demons** in Ancient Near East and Israel, cf. *supra* {N}R/8.6 (and the re
 @NOTES R/13.13
 NA mDP
 ND 06 September 2020
-TO sacrifices in the Bible
+TO sacrifices 
 
 About **sacrifices** in the Bible, see the [Jewish Encyclopedia](http://www.jewishencyclopedia.com/articles/12984-sacrifice); cf. also {B}R/Achtemeier1996Harper, p. 957 (redirecting to the entry “Worship” on pp. 1222-1226).
 
@@ -3301,7 +3280,7 @@ About **sacrifices** in the Bible, see the [Jewish Encyclopedia](http://www.jewi
 @NOTES R/13.13
 NA mDP
 ND 06 September 2020
-TO <<You exist as saints, for I, Yahweh, your God, am holy>>; Lev. 19, 2
+TO Lev. 19, 2
 
 For the sentence <<You exist as saints, for I, Yahweh, your God, am holy>>, see [*Lev.* 19, 2](https://www.tanakhml.org/d21.php2xml?sfr=3&prq=19&psq=2&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls); cf. *supra* {N}R/13.11. 
 
@@ -3325,11 +3304,11 @@ For the Hebrew texts and the English translation of *Lev.* 16, 9-10, see [here](
 @NOTES R/13.13
 NA mDP
 ND 06 September 2020
-TO kippur (Hebrew); yôm kippur (Hebrew); atonement
+TO kippur (כִפֻּר: Hebrew); yôm kippur (יֹּום כִפֻּר: Hebrew); atonement
 
 For the Hebrew term כִפֻּר, *kippur*, ‘atonement’, see [DCH 4, pp. 456-457](http://4Banks.net/Mes-rel/PDF/DCH_Atonement.pdf). For a discussion on the יֹּום כִפֻּר, *yôm kippur*, ‘day of the atonement’, see e.g. the [Jewish Encyclopedia](http://www.jewishencyclopedia.com/articles/15117-yom-kippur).
 
-For **atonement** in Ancient Near East, see e.g. {B}R/Langdon2020Atonement. 
+For **atonement** in Ancient Near East, see e.g. {B}R/Langdon1917Atonement. 
 
 
 @NOTES R/13.13
@@ -3345,13 +3324,13 @@ NA mDP
 ND 06 September 2020
 TO Azazel
 
-For the demon/evil entity עֲזָזֵל, *‘<sup>a</sup>zazel*, **Azazel**, see e.g. the [Jewish Encyclopedia](http://www.jewishencyclopedia.com/articles/2203-azazel), discussing the controversial interpretation of this term (cf. also [DCH 6, p. 326](http://4Banks.net/Mes-rel/PDF/DCH_Azazel.pdf)); cf. {B}R/vanderHorst1999Dictionary, pp. 128-131. 
+For the demon/evil entity עֲזָזֵל, *‘<sup>a</sup>zazel*, **Azazel**, see e.g. the [Jewish Encyclopedia](http://www.jewishencyclopedia.com/articles/2203-azazel), discussing the controversial interpretation of this term (cf. also [DCH 6, p. 326](http://4Banks.net/Mes-rel/PDF/DCH_Azazel.pdf)); cf. {B}R/vanderHorst1999DDD, pp. 128-131. 
 
 
 @NOTES R/13.13
 NA mDP
 ND 06 September 2020
-TO Offering of first fruits; Ex. 13, 2; Ex. 13, 13; Ex. 22, 2
+TO offerings; Ex. 13, 2; Ex. 13, 13; Ex. 22, 2
 
 For the biblical passages related to the **offering of first fruits**, see [*Ex.* 13, 2](https://www.tanakhml.org/d21.php2xml?sfr=2&prq=13&psq=2&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non); [*Ex.* 13, 13](https://www.tanakhml.org/d21.php2xml?sfr=2&prq=13&psq=13&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non); [*Ex.* 22, 2](https://www.tanakhml.org/d21.php2xml?sfr=2&prq=22&psq=2&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non). 
 
@@ -3418,7 +3397,7 @@ For the ***namburbi***, cf. *supra* {N}R/9.2 and {N}R/13.13.
 @NOTES R/14.2
 NA mDP
 ND 12 September 2020
-TO Personal prayer
+TO personal prayer
 
 For **personal prayer** in Mesopotamia, see {B}R/CouvedeMurville1975Personal.
 
@@ -3426,7 +3405,7 @@ For **personal prayer** in Mesopotamia, see {B}R/CouvedeMurville1975Personal.
 @NOTES R/14.2
 NA mDP
 ND 13 September 2020
-TO Personal names
+TO personal names
 
 For **personal names in ancient Mesopotamia**, see [RlA](http://publikationen.badw.de/de/rla/index#8208); cf. e.g. {B}R/Stol1991OBPN.
 
@@ -3436,7 +3415,7 @@ For **personal names in ancient Israel**, see the [Jewish Encyclopedia](http://w
 @NOTES R/14.2
 NA mDP
 ND 13 September 2020
-TO Theophoric names
+TO theophoric names
 
 About **theophoric names** in Israel and ancient Mesopotamia, see {B}R/Offord2013Theophoric. 
 
@@ -3446,7 +3425,7 @@ NA mDP
 ND 11 September 2020
 TO Appendix 17
 
-For *Appendix 17*, see [here](http://4banks.net/Mes-rel/Sources/appendix 17_mDP.htm).
+For *Appendix 17*, see [here](http://4banks.net/Mes-rel/Sources/appendix 17_mDP.htm). See mostly {B}R/Stamm1939Namengebung.
 
 
 @NOTES R/14.2
@@ -3486,7 +3465,7 @@ NA mDP
 ND 11 September 2020
 TO Appendix 12
 
-For *Appendix 12*, see [here](http://4banks.net/Mes-rel/Sources/appendix 12_mDP.htm).
+For *Appendix 12*, see [here](http://4banks.net/Mes-rel/Sources/appendix 12_mDP.htm). Cf. mostly {B}R/Gordon1968Proverbs (transliteration and translation) and {B}R/Lambert1960Wisdom (autographs and translation). 
 
 
 @NOTES R/14.2
@@ -3500,7 +3479,7 @@ On the goddess **Inanna/Ishtar**, see [here](http://oracc.museum.upenn.edu/amgg/
 @NOTES R/14.2
 NA mDP
 ND 11 September 2020
-TO dedications to Inanna
+TO dedicatory inscriptions; Inanna
 
 For **dedicatory inscription to Inanna** on bowls from Nippur (such as the one mentioned by G. Buccellati in Chapter 14, Section 2), see e.g. {B}R/Gotze1970Early; cf. {B}R/Verderame2019Text. 
 
@@ -3518,7 +3497,7 @@ About **proverbs in ancient Mesopotamia**, see [RlA](http://publikationen.badw.d
 @NOTES R/14.2
 NA mDP
 ND 13 September 2020
-TO benedictions and curses
+TO benedictions; curses
 
 On curses in ancient Mesopotamia, see [RlA](http://publikationen.badw.de/de/rla/index#4118); on benediction and curses in ancient Israel, see the *Jewish Encyclopedia*, [here](http://www.jewishencyclopedia.com/articles/2931-benedictions) and [here](http://www.jewishencyclopedia.com/articles/4812-cursing), respectively.
 
@@ -3546,7 +3525,7 @@ For *Ps.* 102, see [here](https://www.tanakhml.org/d13.php2xml?sfr=27&prq=102&ps
 @NOTES R/14.5
 NA mDP
 ND 11 September 2020
-TO determining Fate
+TO determination of fate
 
 About **fate** in ancient Mesopotamian thought, see [RlA](http://publikationen.badw.de/de/rla/index#10550).
 
@@ -3582,7 +3561,7 @@ For the Akkadian verb *nukkuru* (< *nākaru*), ‘to change’, see [CAD 11 = N1
 @NOTES R/14.5
 NA mDP
 ND 11 September 2020
-TO Epos of Gilgamesh
+TO Epic of Gilgamesh
 
 For the text of the ***Epos of Gilgamesh***, cf. *supra* {N}R/6.6.
 
@@ -3614,7 +3593,7 @@ For **Anzu**, see [here](http://oracc.museum.upenn.edu/nimrud/livesofobjects/anz
 @NOTES R/14.5
 NA mDP
 ND 11 September 2020
-TO Myth of Anzu
+TO Anzu
 
 For the ***Myth of Anzu***, cf. *supra* {N}R/13.9.
 
@@ -3622,7 +3601,7 @@ For the ***Myth of Anzu***, cf. *supra* {N}R/13.9.
 @NOTES R/14.6
 NA mDP
 ND 11 September 2020
-TO biblical passages; Ex. 32, 11-14; 1 Kings 17, 20; 1 Sam. 1, 11; Ps. 13, 1; Is. 49, 15; Ps. 41, 5; Jd. 10, 10-16; Is. 9, 11; Ex. 32, 14; Nb. 23, 19; Gen. 1, 5; Gen. 2, 19; Gen. 1, 10; Gen. 1, 28; Gen. 18, 23-32; Jer. 5, 1; Ez. 22, 30; Is. 53, 4-5; Lam. 5, 19-22 
+TO Ex. 32, 11-14; 1 Kings 17, 20; 1 Sam. 1, 11; Ps. 13, 1; Is. 49, 15; Ps. 41, 5; Jd. 10, 10-16; Is. 9, 11; Ex. 32, 14; Nb. 23, 19; Gen. 1, 5; Gen. 2, 19; Gen. 1, 10; Gen. 1, 28; Gen. 18, 23-32; Jer. 5, 1; Ez. 22, 30; Is. 53, 4-5; Lam. 5, 19-22 
 
 For the biblical passages mentioned in Chapter 14, Section 6, see below:
 
@@ -3668,7 +3647,7 @@ For the biblical passages mentioned in Chapter 14, Section 6, see below:
 @NOTES R/14.6
 NA mDP
 ND 11 September 2020
-TO zākar (Hebrew)
+TO zākar (זָכַר: Hebrew)
 
 For the Hebrew term זָכַר, ***zākar***, ‘to remember’, see [DCH 3, pp. 105-110](http://4Banks.net/Mes-rel/PDF/DCH_Remember.pdf).
 
@@ -3676,7 +3655,7 @@ For the Hebrew term זָכַר, ***zākar***, ‘to remember’, see [DCH 3, pp.
 @NOTES R/14.6
 NA mDP
 ND 11 September 2020
-TO šûb (Hebrew)
+TO šûb (שׁוּב: Hebrew)
 
 For the Hebrew term שׁוּב, ***šûb***, ‘to return’, see [DCH 8, pp. 273-298](http://4Banks.net/Mes-rel/PDF/DCH_Return.pdf).
 
@@ -3684,7 +3663,7 @@ For the Hebrew term שׁוּב, ***šûb***, ‘to return’, see [DCH 8, pp. 273-
 @NOTES R/14.6
 NA mDP
 ND 11 September 2020
-TO nāḥam (Hebrew)
+TO nāḥam (נָחַם: Hebrew)
 
 For the Hebrew term נָחַם, ***nāḥam***, ‘to repent’, see [DCH 5, pp. 663-665](http://4Banks.net/Mes-rel/PDF/DCH_Repent.pdf).
  
@@ -3692,7 +3671,7 @@ For the Hebrew term נָחַם, ***nāḥam***, ‘to repent’, see [DCH 5, pp.
 @NOTES R/14.6
 NA mDP
 ND 11 September 2020
-TO qārā’ (Hebrew)
+TO qārā’ (קָרָא: Hebrew)
 
 For the Hebrew term קָרָא, ***qārā’***, ‘to call, to give a name’, see [DCH 7, pp. 287-304](http://4Banks.net/Mes-rel/PDF/DCH_Call.pdf).
 
@@ -3700,7 +3679,7 @@ For the Hebrew term קָרָא, ***qārā’***, ‘to call, to give a name’, 
 @NOTES R/14.6
 NA mDP
 ND 11 September 2020
-TO pārā’ (Hebrew)
+TO pārā’ (פָּרָא: Hebrew)
 
 For the Hebrew term פָּרָא, ***pārā’***, ‘to regenerate, to flourish, to prosper’, see [DCH 6, p. 753](http://4Banks.net/Mes-rel/PDF/DCH_Regenerate.pdf).
 
@@ -3708,7 +3687,7 @@ For the Hebrew term פָּרָא, ***pārā’***, ‘to regenerate, to flourish
 @NOTES R/14.6
 NA mDP
 ND 11 September 2020
-TO rābā(h) (Hebrew)
+TO rābā(h) (רָבָּה: Hebrew)
 
 For the Hebrew term רָבָּה, ***rābā(h)***, ‘to expand’, see [DCH 7, p. 394](http://4Banks.net/Mes-rel/PDF/DCH_Expand.pdf).
 
@@ -3716,9 +3695,9 @@ For the Hebrew term רָבָּה, ***rābā(h)***, ‘to expand’, see [DCH 7, p
 @NOTES R/14.6
 NA mDP
 ND 11 September 2020
-TO Gen. 2, 19; lir<sup>e</sup>’ôt mā iqrā’ lô (Hebrew)
+TO Gen. 2, 19; lir<sup>e</sup>’ôt mā iqrā’ lô (לִרְאֹ֖ות מַה־יִּקְרָא־לֹ֑ו: Hebrew)
 
-For the passage לִרְאֹ֖ות מַה־﻿יִּקְרָא־﻿לֹ֑ו, ***lir<sup>e</sup>’ôt mā iqrā’ lô***, ‘to see what he would call them’ (quoted by G. Buccellati in Chapter 14, Section 6), see [*Gen.* 2, 19](https://www.tanakhml.org/d21.php2xml?sfr=1&prq=2&psq=19&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non).
+For the passage לִרְאֹ֖ות מַה־יִּקְרָא־לֹ֑ו, ***lir<sup>e</sup>’ôt mā iqrā’ lô***, ‘to see what he would call them’ (quoted by G. Buccellati in Chapter 14, Section 6), see [*Gen.* 2, 19](https://www.tanakhml.org/d21.php2xml?sfr=1&prq=2&psq=19&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non).
 
 
 @NOTES R/14.7
@@ -3740,16 +3719,17 @@ For the biblical episode of **Jacob’s struggle with God**, see [*Gen.* 32, 25-
 @NOTES R/14.7
 NA mDP
 ND 12 September 2020
-TO Elijah on Mount Horeb; 1 Kings 19, 8-17
+TO Elijah; 1 Kings 19, 8-17
 
 For the biblical episode of **Elijah on Mount Horeb**, see [*1 Kings* 19, 8-17](https://www.tanakhml.org/d13.php2xml?sfr=10&prq=19&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls); cf. *supra* {N}R/11.1. 
 
 pānîm 'el pānîm
 
+
 @NOTES R/14.7
 NA mDP
 ND 12 September 2020
-TO qôl d<sup>e</sup>māmā daqqāh (Hebrew); 1 Kings 19, 12
+TO qôl d<sup>e</sup>māmā daqqāh (קֹ֖ול דְּמָמָ֥ה דַקָּֽה: Hebrew); 1 Kings 19, 12
 
 For the passage קֹ֖ול דְּמָמָ֥ה דַקָּֽה, ***qôl d<sup>e</sup>māmā daqqāh***, ‘the voice of a subtle silence’, see [*1 Kings* 19, 12](https://www.tanakhml.org/d21.php2xml?sfr=10&prq=19&psq=12&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls); cf. *supra* {N}R/11.1.
 
@@ -3765,7 +3745,7 @@ For the English text of the **Book of Wisdom**, see [here](http://www.vatican.va
 @NOTES R/14.7
 NA mDP
 ND 12 September 2020
-TO φρόνεσις (Greek)
+TO φρόνεσις (frónesis: Greek)
 
 For the Greek term **φρόνεσις**, see [LSJ](http://stephanus.tlg.uci.edu/lsj/#eid=115349). 
 
@@ -3773,7 +3753,7 @@ For the Greek term **φρόνεσις**, see [LSJ](http://stephanus.tlg.uci.edu/
 @NOTES R/14.7
 NA mDP
 ND 12 September 2020
-TO πνεῦμα (Greek)
+TO πνεῦμα (pnéuma: Greek)
 
 For the Greek term **πνεῦμα**, see [LSJ](http://stephanus.tlg.uci.edu/lsj/#eid=86569). 
 
@@ -3781,7 +3761,7 @@ For the Greek term **πνεῦμα**, see [LSJ](http://stephanus.tlg.uci.edu/lsj
 @NOTES R/14.7
 NA mDP
 ND 12 September 2020
-TO σοφία (Greek)
+TO σοφία (sofía: Greek)
 
 For the Greek term **σοφία**, see [LSJ](http://stephanus.tlg.uci.edu/lsj/#eid=98436). 
 
@@ -3817,7 +3797,7 @@ An example of a figurine portraying a standing male worshipper in a position sim
 @NOTES R/15.2
 NA mDP
 ND 12 September 2020
-TO ‘raised-hand prayer’
+TO raised-hand prayer
 
 For the so-called **‘raised-hand prayer’ in Mesopotamia**, see *supra* {N}R/7.3, with further bibliography. Cf. also {B}R/Shibata2010Suilla.  
 
@@ -3893,7 +3873,7 @@ For the **depiction of deities in Mesopotamia**, on different archaeological fin
 @NOTES R/16.1
 NA mDP
 ND 18 September 2020
-TO ‘political use’ of religion
+TO political use of religion
 
 <<The implicit perception of divine initiative is closely linked to the assumptions that define
 political institutions. I do not mean this in the sense that the holders of power have cynically used religion to control their subjects, **even if this were too often occur as a side effect**>> (G. Buccellati, Chapter 16, Section 1).
@@ -3945,7 +3925,7 @@ On this topic, see e.g. the **Sumerian and Akkadian cosmogonical myths** as expl
 @NOTES R/16.5
 NA mDP
 ND 18 September 2020
-TO Mesopotamian kingship
+TO kingship
 
 About the **Mesopotamian kingship**, see the related entry in the [RlA](http://publikationen.badw.de/de/rla/index#6611).
 
@@ -3953,7 +3933,7 @@ About the **Mesopotamian kingship**, see the related entry in the [RlA](http://p
 @NOTES R/16.5
 NA mDP
 ND 18 September 2020
-TO Mesopotamian State
+TO State
 
 About the **Mesopotamian State**, see the related entry in the [RlA](http://publikationen.badw.de/de/rla/index#10972).
 
@@ -3961,7 +3941,7 @@ About the **Mesopotamian State**, see the related entry in the [RlA](http://publ
 @NOTES R/16.5
 NA mDP
 ND 18 September 2020
-TO Mesopotamian terms for ‘king’
+TO king
 
 <<There are different ways in which kingship manifests itself, different territorial areas in which it is exercised, and different terms to refer to the “king.”>> (G. Buccellati, Chapter 16, Section 5). 
 
@@ -3981,7 +3961,7 @@ For the ***Code of Hammurapi***, cf. *supra* {N}R/8.4.
 @NOTES R/16.5
 NA mDP
 ND 18 September 2020
-TO divinisation of kings in Mesopotamia
+TO divinized kings 
 
 <<The explicit divinization of the king is a phenomenon that rarely happens in Mesopotamia, and
 never plays a structural or institutional role, serving only as an extreme form of glorification. But it is
@@ -3997,7 +3977,7 @@ NA mDP
 ND 18 September 2020
 TO sacred marriage
 
-About the **sacred marriage**, see the related entry in the [RlA](http://publikationen.badw.de/de/rla/index#5259).
+About the **sacred marriage**, see the related entry in the [RlA](http://publikationen.badw.de/de/rla/index#5259). Cf. also {B}R/Jones2003Embracing and {B}R/Lapinkivi2004Sumerian.
 
 
 @NOTES R/16.5
@@ -4008,10 +3988,11 @@ TO Enūma elīš
 For the text of the ***Enūma elīš***, see *supra* {N}R/6.2.
 
 
-@NOTES R/16.6
+@NOTES R/16.5
+
 NA mDP
 ND 18 September 2020
-TO nation; ‘chosen people’
+TO nation; chosen people
 
 On the concept of **‘nation’ in the Bible** as ‘chosen people’, see the related entry in the [Jewish Encyclopedia](http://www.jewishencyclopedia.com/articles/4355-chosen-people). 
 
@@ -4065,7 +4046,7 @@ About [Marduk](http://oracc.museum.upenn.edu/amgg/listofdeities/marduk/index.htm
 @NOTES R/17.1
 NA mDP
 ND 19 September 2020
-TO Moses and decalogue
+TO Moses; decalogue
 
 For the biblical passages about **Moses and the decalogue**, cf. *supra* {N}R/4.3, {N}R/8.2, and {N}R/8.4.
 
@@ -4077,7 +4058,7 @@ TO context: mythical and historical
 
 <<The narrative context can be **mythical** or **historical**>> (G. Buccellati, Chapter 17, Section 1). 
 
-For a discussion on the **mythical or historical context of the biblical accounts**, see e.g. {B}R/Liverani2003Oltre. 
+For a discussion on the **mythical or historical context of the biblical accounts**, see e.g. {B}R/Liverani2009Oltre. 
 
 
 @NOTES R/17.2
@@ -4108,7 +4089,7 @@ About **dialectics**, see mostly the philosophical thought of [Hegel](https://pl
 @NOTES R/17.3
 NA mDP
 ND 19 September 2020
-TO ἀρχή (Greek); rēšîth (Hebrew); beginning
+TO ἀρχή (arché: Greek); rēšîth (רֵשִׁית: Hebrew); beginning
 
 For the Greek word **ἀρχή**, ‘beginning’, see the [LSJ](http://stephanus.tlg.uci.edu/lsj/#eid=16275). It is interesting to note that also the first word of the Hebrew Bible, in [Gen. 1, 1](https://www.tanakhml.org/d21.php2xml?sfr=1&prq=1&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls), is רֵשִׁית, ***rēšîth***, that also means ‘beginning’ (see [DCH 7, pp. 381-383](http://4Banks.net/Mes-rel/PDF/DCH_Beginning.pdf). Also noteworthy is the fact that the beginning of the *Gospel of John*, [Jn. 1, 1](https://biblehub.com/interlinear/john/1.htm), recalling the incipit of Genesis, uses the word ἀρχή, ‘beginning’. 
 
@@ -4116,7 +4097,7 @@ For the Greek word **ἀρχή**, ‘beginning’, see the [LSJ](http://stephanu
 @NOTES R/17.3
 NA mDP
 ND 19 September 2020
-TO “post hoc ergo propter hoc”
+TO post hoc ergo propter hoc
 
 For the logical locution ***post hoc ergo propter hoc***, see the entry ‘Fallacy’ on [Britannica](https://www.britannica.com/topic/fallacy#ref1102390); cf. also the entry ‘Fallacies’ on the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/fallacies/).
 
@@ -4128,7 +4109,7 @@ TO worms and toothache
 
 <The aetiology can sometimes be so simplistic as to make it seem a joking proposition, like when **a worm is pointed out as the cause of toothache**>> (G. Buccellati, Chapter 17, Section 3). 
 
-The mistaken idea that **worms could be cause of toothache** is very ancient and finds its roots in a Mesopotamian composition known as *The Legend of the Worm*; for this texts see {B}R/Pritchard1955ANET2, pp. [100-101](https://archive.org/details/ancientneareaste00prit_316/page/n124/mode/2up); see also the translation in {B}R/Foster2005Before, p. 995 (with further bibliography); cf. {B}R/Suddick1990Historical, specifically on p. 142.
+The mistaken idea that **worms could be cause of toothache** is very ancient and finds its roots in a Mesopotamian composition known as *The Legend of the Worm*; for these texts, see {B}R/Pritchard1955ANET2, pp. [100-101](https://archive.org/details/ancientneareaste00prit_316/page/n124/mode/2up); see also the translation in {B}R/Foster2005Before, p. 995 (with further bibliography); cf. {B}R/Suddick1990Historical, specifically on p. 142.
 
 
 @NOTES R/17.3
@@ -4150,7 +4131,7 @@ For **Hammurapi of Babylon** and his **“Code”**, see *supra* {N}R/2.8 and {N
 @NOTES R/17.3
 NA mDP
 ND 19 September 2020
-TO Anum
+TO Anu
 
 For the god **Anum**, see [here](http://oracc.museum.upenn.edu/amgg/listofdeities/an/index.html). 
 
@@ -4190,7 +4171,7 @@ For the **Myth of [Anzu**](http://oracc.museum.upenn.edu/nimrud/livesofobjects/a
 @NOTES R/17.4
 NA mDP
 ND 19 September 2020
-TO Poem of Erra
+TO Erra
 
 For Sumerian texts referring to [**Erra**](http://oracc.museum.upenn.edu/amgg/listofdeities/erra/index.html), see [ETCSL](http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?searchword=l=er3-ra%20t=DN&charenc=gcirc). Specifically, on the poem ***Erra and Ishum***, see {B}R/Foster2005Before, pp. 880-911.
 
@@ -4198,7 +4179,7 @@ For Sumerian texts referring to [**Erra**](http://oracc.museum.upenn.edu/amgg/li
 @NOTES R/17.4
 NA mDP
 ND 19 September 2020
-TO Myth of Adapa
+TO Adapa
 
 For the ***Myth of Adapa***, cf. *supra* {N}R/7.10.
 
@@ -4238,7 +4219,7 @@ For the **decalogue**, cf. *supra* {N}R/4.3, {N}R/8.2, and {N}R/8.4.
 @NOTES R/17.6
 NA mDP
 ND 19 September 2020
-TO ἀποκάλυψις (Greek)
+TO ἀποκάλυψις (apokálupsis: Greek)
 
 For the Greek word **ἀποκάλυψις**, ‘uncovering’, see the [LSJ](http://stephanus.tlg.uci.edu/lsj/#eid=13088).
 
@@ -4270,7 +4251,7 @@ For the mentioned passage of *Mk.* 13, 12, see [here](https://biblehub.com/inter
 @NOTES R/17.6
 NA mDP
 ND 19 September 2020
-TO biblical passages; Is. 7, 16-17; Is. 44, 28; Is. 45, 1-7; Is. 11; Ez. 37, 10; 14; Dan. 7-12 
+TO Is. 7, 16-17; Is. 44, 28; Is. 45, 1-7; Is. 11; Ez. 37, 10; Ez. 14; Dan. 7-12 
 
 For the biblical passages mentioned by G. Buccellati in Chapter 17, Section 6, see here:
 
@@ -4290,7 +4271,7 @@ For the biblical passages mentioned by G. Buccellati in Chapter 17, Section 6, s
 @NOTES R/17.6
 NA mDP
 ND 19 September 2020
-TO wayyiḥ<sup>e</sup>yû (Hebrew)
+TO wayyiḥ<sup>e</sup>yû (וַיִּחְיוּ: Hebrew)
 
 For the Hebrew syntagma וַיִּחְיוּ, ***wayyiḥ<sup>e</sup>yû***, ‘and they lived’ (composed by the proclitic copulative conjunction וַ,*w(a)-*, ‘and’ + the verb חיה, *ḤYH*, ‘to live’), see [DCH 3, pp. 204-207](http://4Banks.net/Mes-rel/PDF/DCH_Live.pdf), under lemma חיה, *ḤYH*, ‘to live’.
 
@@ -4324,7 +4305,7 @@ For the **New-Year festival**, also known with the Akkadian term of ***akītu***
 @NOTES R/17.7
 NA mDP
 ND 19 September 2020
-TO biblical passages; Josh. 8, 32; Josh. 8, 34; Josh. 8, 35; 2 Kings 23, 2 
+TO Josh. 8, 32; Josh. 8, 34; Josh. 8, 35; 2 Kings 23, 2 
 
 For the biblical passages mentioned by G. Buccellati in Chapter 17, Section 7, see here:
 
@@ -4348,7 +4329,7 @@ For the concept of **Bible canon**, see the [Jewish Encyclopedia](http://www.jew
 @NOTES R/18.1
 NA mDP
 ND 24 September 2020
-TO gods’ representation in the Ancient Near East
+TO gods’ representation
 
 For the **representation of gods in the Ancient Near East**, see e.g. {B}R/BraunHolzinger2013Gotterdarstellung. On the same topic, cf. also the [RlA](http://publikationen.badw.de/de/rla/index#4710).
 
@@ -4374,7 +4355,7 @@ For the text of *Ps.* 135, 15 and *Ps.* 115, 4, se [here](https://www.tanakhml.o
 @NOTES R/18.2
 NA mDP
 ND 24 September 2020
-TO `<sup>a</sup>ṣabê haggôyim (Hebrew) = ‘the idols of the people’
+TO `<sup>a</sup>ṣabê haggôyim (עֲצַבֵּי הַגֹּויִם: Hebrew) = ‘the idols of the people’
 
 For the biblical expression עֲצַבֵּי הַגֹּויִם, ***`<sup>a</sup>ṣabê haggôyim***, ‘the idols of the people’ (cf. *supra* {N}R/18.1 for the reference to Psalms), see [DCH 6, p. 526, עָָצָב, *`aṣab*, ‘image’](http://4Banks.net/Mes-rel/PDF/DCH_Idol.pdf) and [DCH 2, pp. 329-334, גּוֹי, *gôy*, ‘nation’](http://4Banks.net/Mes-rel/PDF/DCH_Nation.pdf).
 
@@ -4382,7 +4363,7 @@ For the biblical expression עֲצַבֵּי הַגֹּויִם, ***`<sup>a</sup
 @NOTES R/18.3
 NA mDP
 ND 24 September 2020
-TO gods’ symbols and attributes in Mesopotamia
+TO gods’ symbols and attributes
 
 For **gods’ symbols and attributes in Mesopotamia**, see the [RlA](http://publikationen.badw.de/de/rla/index#4720).
 
@@ -4392,7 +4373,7 @@ Further bibliography on the same topic: {B}R/Unger1926Gottersymbol.
 @NOTES R/18.3
 NA mDP
 ND 24 September 2020
-TO anthropomorphism in Mesopotamia
+TO anthropomorphism
 
 For **anthropomorphism in Mesopotamia**, see the [RlA](http://publikationen.badw.de/de/rla/index#690).
 
@@ -4402,7 +4383,7 @@ Further bibliography on Mesopotamian anthropomorphism vs. Biblical aniconicity: 
 @NOTES R/18.3
 NA mDP
 ND 24 September 2020
-TO sacralization of statues in Mesopotamia
+TO sacralization of statues
 
 The **sacralization of statues in Mesopotamia** is also exemplified by the [*Ritual of Washing and Opening of the Mouth*](http://publikationen.badw.de/de/rla/index#9681) (*pīt pī* and *mīs pī*), performed on a new statue before its setting into the temple, to provide it with a sacral value. 
 
@@ -4456,7 +4437,7 @@ On the god **Dumuzi**, see [here](http://publikationen.badw.de/de/rla/index#2673
 @NOTES R/18.3
 NA mDP
 ND 24 September 2020
-TO Inanna and Dumuzi
+TO Inanna; Dumuzi
 
 For **mythological texts** regarding Inanna and Dumuzi, see e.g. ETCSL c. 1.4.1.3, [transliteration](http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.4.1.3&display=Crit&charenc=gcirc#) and [translation](http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.1.4.1.3#).
 Many **solemn hymns** were also composed in honour of Inanna and Dumuzi: see e.g. [ETCSL c. 4.08.01-4.08.32](http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.08*#). 
@@ -4481,7 +4462,7 @@ For the passage about the creation of man ‘**in God’s image**’, see [*Gen.
 @NOTES R/18.4
 NA mDP
 ND 24 September 2020
-TO b<sup>e</sup>ṣalme-nu (Hebrew); kid<sup>e</sup>mûtē-nu (Hebrew); ṣelem (Hebrew) = ṣalmu (Akkadian); d<sup>e</sup>mût (Hebrew)
+TO b<sup>e</sup>ṣalme-nu (בְּצַלְמֵנוּ: Hebrew); kid<sup>e</sup>mûtē-nu (כִּדְמוּתֵנוּ: Hebrew); ṣelem (צֶלֶם: Hebrew) = ṣalmu (Akkadian); d<sup>e</sup>mût (דְמוּת: Hebrew)
 
 For the Hebrew expression בְּצַלְמֵנוּ, ***b<sup>e</sup>ṣalme-nu*** (‘in our image’) and כִּדְמוּתֵנוּ, *kid<sup>e</sup>mûtē-nu* (‘as our icon’), related to the two Hebrew terms צֶלֶם, *ṣelem*, ‘image’ and דְמוּת, *d<sup>e</sup>mût*, ‘icon’, see respectively [DCH 7, p. 127](http://4Banks.net/Mes-rel/PDF/DCH_Image.pdf) and [DCH 2, p. 449](http://4Banks.net/Mes-rel/PDF/DCH_Icon.pdf).
 
@@ -4514,7 +4495,7 @@ On Mesopotamian myths about ‘**creation**’, see e.g. the text of the *Enūma
 @NOTES R/19.1
 NA mDP
 ND 25 September 2020
-TO city in Mesopotamia
+TO city
 
 For the definition and development of **city in Mesopotamia**, see e.g. the [RlA](http://publikationen.badw.de/de/rla/index#10980). Cf. *infra* {N}R/19.3.
 
@@ -4530,7 +4511,7 @@ For the story of the [**Mesopotamian flood**](http://publikationen.badw.de/de/rl
 @NOTES R/19.1
 NA mDP
 ND 25 September 2020
-TO Inanna’s descent into the Netherworld
+TO Inanna’s descent
 
 For **[Inanna](http://oracc.museum.upenn.edu/amgg/listofdeities/inanaitar/index.html)’s descent into the Netherworld**, see ETCSL c. 1.4.1: [transliteration](http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.4.1&display=Crit&charenc=gcirc#) and [translation](http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.1.4.1#); cf. see {B}R/Foster2005Before, pp. 498-505. See also {B}R/Buccellati1982Descent.
 
@@ -4546,7 +4527,7 @@ For the ***Code of Hammurapi***, [RlA 3, p. 255-269, § 3.6](http://publikatione
 @NOTES R/19.1
 NA mDP
 ND 25 September 2020
-TO Yahdun-Lim (King of Mari)
+TO Yahdun-Lim
 
 About **Yahdun-Lim** (King of Mari), see [RlA](http://publikationen.badw.de/de/rla/index#6024).
 
@@ -4570,7 +4551,7 @@ On **Biblical ‘Lamentations’**, see *supra* {N}R/12.4. For a **comparison be
 @NOTES R/19.2
 NA mDP
 ND 25 September 2020
-TO time in Mesopotamia: cyclical vs. linear
+TO time: cyclical vs. linear
 
 On **time in Mesopotamia (cyclical vs. linear)**, see RlA 15, pp. 246-248.
 
@@ -4578,7 +4559,7 @@ On **time in Mesopotamia (cyclical vs. linear)**, see RlA 15, pp. 246-248.
 @NOTES R/19.2
 NA mDP
 ND 25 September 2020
-TO cyclical time in Mesopotamia
+TO cyclical time
 
 <<But the notion of a cyclical way of seeing history is not supported by documentation>> (G. Buccellati, Chapter 19, Section 2). 
 
@@ -4618,7 +4599,7 @@ For the role of the **divine intervention** during the Neo-Assyrian period, see 
 @NOTES R/19.3
 NA mDP
 ND 25 September 2020
-TO development of city and institutions in Mesopotamia
+TO development of city
 
 About the **development of city and institutions in Mesopotamia**, see e.g. {B}R/Liverani2014History, pp. 81-114; cf. also {B}R/Liverani2006Uruk, pp. 67-72. Cf. *supra* {N}R/19.1 (about development of city in Mesopotamia).
 
@@ -4626,7 +4607,7 @@ About the **development of city and institutions in Mesopotamia**, see e.g. {B}R
 @NOTES R/19.4
 NA mDP
 ND 25 September 2020
-TO community in the Bible
+TO community
 
 About the **concept and organization of community in the Bible**, see the [Jewish Encyclopedia](http://www.jewishencyclopedia.com/articles/4573-community-organization-of).
 
@@ -4634,7 +4615,7 @@ About the **concept and organization of community in the Bible**, see the [Jewis
 @NOTES R/19.4
 NA mDP
 ND 25 September 2020
-TO history and time in the Bible
+TO history; time
 
 For a discussion on **history and time in the Bible**, see e.g. {B}R/Buccellati2014Time.
 
@@ -4650,7 +4631,7 @@ Links to text of *Psalms* mentioned by G. Buccellati: [*Ps.* 144, 3](https://www
 @NOTES R/19.5
 NA mDP
 ND 25 September 2020
-TO yāmîm (Hebrew)
+TO yāmîm (יָמִים: Hebrew)
 
 For the Hebrew word יָמִים, ***yāmîm***, ‘days’ (here translated by G. Buccelati as ‘history’), see [DCH 4, pp. 166-185, under lemma יוֹם, *yôm*, ‘day’](http://4Banks.net/Mes-rel/PDF/DCH_Day.pdf).
 
@@ -4658,7 +4639,7 @@ For the Hebrew word יָמִים, ***yāmîm***, ‘days’ (here translated by 
 @NOTES R/19.5
 NA mDP
 ND 25 September 2020
-TO dôr l<sup>e</sup>dôr (Hebrew)
+TO dôr l<sup>e</sup>dôr (דּוֹר לְדוֹר: Hebrew)
 
 For the Hebrew expression דּוֹר לְדוֹר, ***dôr l<sup>e</sup>dôr***, ‘generation to generation’, see [DCH 2, pp. 428-430, under lemma דּוֹר, *dôr*, ‘generation’](http://4Banks.net/Mes-rel/PDF/DCH_Generation.pdf).
 
@@ -4682,7 +4663,7 @@ For the Sumerian term **dur.an.ki**, see the three entries [dur](http://oracc.or
 @NOTES R/20.1
 NA mDP
 ND 11 October 2020
-TO Mesopotamian temple
+TO temple
 
 For an introduction on the **‘temple’ in Mesopotamia**, see the [RlA](http://publikationen.badw.de/de/rla/index#11551).
 
@@ -4694,7 +4675,7 @@ For a general discussion on the nature and features of **Mesopotamian temple**, 
 @NOTES R/20.1
 NA mDP
 ND 11 October 2020
-TO Israelite temple
+TO temple
 
 For the **temple of Solomon** and the later **temple of Herod**, see the *Jewish Encyclopedia*, respectively at [this link](http://www.jewishencyclopedia.com/articles/13844-solomon-temple-of) and [this link](http://www.jewishencyclopedia.com/articles/14304-temple-of-herod).
 
@@ -4749,7 +4730,7 @@ For an example of **inscription regarding construction and dedication of temples
 @NOTES R/20.4
 NA mDP
 ND 11 October 2020
-TO biblical passages; 1 Kings 6-9; 2 Sam 7, 5; 2 Sam 7, 12-13; 1 Kings 5, 17; Ex 23, 33-34; 2 Ch 3, 9-10  
+TO 1 Kings 6-9; 2 Sam 7, 5; 2 Sam 7, 12-13; 1 Kings 5, 17; Ex 23, 33-34; 2 Ch 3, 9-10  
 
 For the biblical passages mentioned by G. Buccellati in Chapter 20, Section 4, see *infra*:
 
@@ -4769,7 +4750,7 @@ For the biblical passages mentioned by G. Buccellati in Chapter 20, Section 4, s
 @NOTES R/20.4
 NA mDP
 ND 11 October 2020
-TO bayit liš<sup>e</sup>mî (Hebrew); bayit l<sup>e</sup>šēm (Hebrew)
+TO bayit liš<sup>e</sup>mî (בַּיִת לִשְׁמִי: Hebrew); bayit l<sup>e</sup>šēm (בַּיִת לְשֵׁם: Hebrew)
 
 For the biblical expressions ﻿בַּיִת לִשְׁמִי, ***bayit liš<sup>e</sup>mî*** and בַּיִת לְשֵׁם, ***bayit l<sup>e</sup>šēm***, see respectively [DCH 2, pp. 151-164, under lemma בַּיִת, *bayit*, ‘house’](http://4Banks.net/Mes-rel/PDF/DCH_House.pdf) and [DCH 8, pp. 422-431, under lemma שֵׁם, *šēm*, ‘name’](http://4Banks.net/Mes-rel/PDF/DCH_Name.pdf).
  
@@ -4777,7 +4758,7 @@ For the biblical expressions ﻿בַּיִת לִשְׁמִי, ***bayit liš<sup
 @NOTES R/20.4
 NA mDP
 ND 11 October 2020
-TO qodeš (Hebrew); ‘the holy of holies’
+TO qodeš (קֹדֶשׁ: Hebrew); the holy of holies
 
 For the biblical term קֹדֶשׁ, ***qodeš***, ‘holyness/holy’, see [DCH 7, pp. 196-204](http://4Banks.net/Mes-rel/PDF/DCH_Holyness.pdf), reporting also the expression קֹדֶשׁ הַקֳּדָשִׁים, *qodeš haqqādāšîm*, ‘the holy of holies’, a typical Hebrew construct (base adjective + direct plural genitive of the same adjective) to express the absolute superlative, thus ‘the holiest’.  
 
@@ -4785,7 +4766,7 @@ For the biblical term קֹדֶשׁ, ***qodeš***, ‘holyness/holy’, see [DCH 7
 @NOTES R/20.5
 NA mDP
 ND 11 October 2020
-TO biblical passages; Mic 1, 5; Mic 3, 12; Jer 26, 18; Jer 7, 1-4; Is 66, 1-2; 2 Ch 3, 9-10  
+TO Mic 1, 5; Mic 3, 12; Jer 26, 18; Jer 7, 1-4; Is 66, 1-2; 2 Ch 3, 9-10  
 
 For the biblical passages mentioned by G. Buccellati in Chapter 20, Section 5, see *infra*:
 
@@ -4805,7 +4786,7 @@ For the biblical passages mentioned by G. Buccellati in Chapter 20, Section 5, s
 @NOTES R/20.5
 NA mDP
 ND 11 October 2020
-TO bāmôt (Hebrew)
+TO bāmôt (בָמֹות: Hebrew)
 
 For the biblical term בָמֹות, ***bāmôt***, ‘hills > (pagan) sanctuaries’, see [DCH 2, pp. 184-185, under lemma בָּמָה, *bāmā(h)*, ‘high place’](http://4Banks.net/Mes-rel/PDF/DCH_Hill.pdf).
 
@@ -4813,7 +4794,7 @@ For the biblical term בָמֹות, ***bāmôt***, ‘hills > (pagan) sanctuarie
 @NOTES R/20.5
 NA mDP
 ND 11 October 2020
-TO hêkāl (Hebrew)
+TO hêkāl (הֵיכָָל: Hebrew)
 
 For the biblical term הֵיכָָל, ***hêkāl***, ‘palace, temple’, see [DCH 2, pp. 541-542](http://4Banks.net/Mes-rel/PDF/DCH_Palace.pdf). The term derives from the Akkadian [*ekallu(m)*](http://4Banks.net/Mes-rel/PDF/CAD4_52-62.pdf), which is a calque from the Sumerian [É.GAL](http://oracc.org/epsd2/o0026716), literally ‘big house’. 
 
@@ -4821,7 +4802,7 @@ For the biblical term הֵיכָָל, ***hêkāl***, ‘palace, temple’, see [
 @NOTES R/20.6
 NA mDP
 ND 11 October 2020
-TO shekinah (Hebrew)
+TO shekinah (שכינה: Hebrew)
 
 For the biblical concept of שכינה, *shekinah*, ‘dwelling > (divine) presence’, see the [Jewish Encyclopedia](http://www.jewishencyclopedia.com/articles/13537-shekinah), with reference to biblical passages and later Targumic interpretation.  
 
@@ -4829,7 +4810,7 @@ For the biblical concept of שכינה, *shekinah*, ‘dwelling > (divine) prese
 @NOTES R/20.6
 NA mDP
 ND 11 October 2020
-TO biblical passages; Jn 2, 19-21; Mt 26, 61; Mt 12, 6 
+TO Jn 2, 19-21; Mt 26, 61; Mt 12, 6 
 
 For the biblical passages mentioned by G. Buccellati in Chapter 20, Section 6, see *infra*:
 
@@ -4843,7 +4824,7 @@ For the biblical passages mentioned by G. Buccellati in Chapter 20, Section 6, s
 @NOTES R/21.1
 NA mDP
 ND 18 October 2020
-TO orality and literacy: Mesopotamia and Israel
+TO orality; literacy
 
 About **orality and literacy in ancient Mesopotamia**, see e.g. {B}R/Michalowski1992Orality.
 
@@ -4853,15 +4834,15 @@ On the same topic in **ancient Israel**, see e.g.  {B}R/Miller2012Orality.
 @NOTES R/21.2
 NA mDP
 ND 18 October 2020
-TO š<sup>e</sup>ma` Yisrā'ēl (Hebrew)
+TO š<sup>e</sup>ma` Yisrā'ēl (שְׁמַע יִשְׂרָאֵל: Hebrew)
 
-For the ***š<sup>e</sup>ma` Yisrā'ēl***, cf. *supra* {N}R/2.15.
+For the ***š<sup>e</sup>ma` Yisrā'ēl*** (שְׁמַע יִשְׂרָאֵל), cf. *supra* {N}R/2.15.
 
 
 @NOTES R/21.2
 NA mDP
 ND 18 October 2020
-TO akītu (Akkadian); New-Year Festival
+TO akītu (Akkadian); New Year festival
 
 For the ***akītu***, the Mesopotamian ‘New Year’s Festival’, cf. *supra* {N}R/17.7.
 
@@ -4885,7 +4866,7 @@ For **Marduk**, polyad god of Babylon (mentioned in Section 5.2, point (5)), see
 @NOTES R/21.2
 NA mDP
 ND 18 October 2020
-TO Lv 16; ‘day of atonement’
+TO Lv 16; day of atonement
 
 For the text of *Lv.* 16, regarding the ‘day of atonement’, (cf. *supra* {N}R/13.13), see [here](https://www.tanakhml.org/d13.php2xml?sfr=3&prq=16&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls).
 
@@ -4893,9 +4874,9 @@ For the text of *Lv.* 16, regarding the ‘day of atonement’, (cf. *supra* {N}
 @NOTES R/21.3
 NA mDP
 ND 18 October 2020
-TO God’s presence; shekinah (Hebrew)
+TO God’s presence; shekinah (שכינה: Hebrew)
 
-<<God’s **presence** in the message requires and awaits the presence of the interlocutors who have heard it>> (G. Buccellati, Chapter 21, Section 3). We can here envisage a connection between the presence (*shekinah*) of God in the temple (see *supra* {N}R/20.6) and in the biblical message which is to be proclaimed to the people; God is not relegated in the temple (as the Mesopotamian gods), but can ‘get off’ the temple through his proclaimed message, i.e. the biblical scripture. 
+<<God’s **presence** in the message requires and awaits the presence of the interlocutors who have heard it>> (G. Buccellati, Chapter 21, Section 3). We can here envisage a connection between the presence (שכינה, *shekinah*) of God in the temple (see *supra* {N}R/20.6) and in the biblical message which is to be proclaimed to the people; God is not relegated in the temple (as the Mesopotamian gods), but can ‘get off’ the temple through his proclaimed message, i.e. the biblical scripture. 
 
 
 @NOTES R/21.5
@@ -4909,7 +4890,7 @@ For the concept of *lectio divina*, born at the time of the Fathers of the Churc
 @NOTES R/21.5
 NA mDP
 ND 18 October 2020
-TO ´ărôn haqqodeš (Hebrew)
+TO ´ărôn haqqodeš (אֲרוֹן הַקֹּדֶשׁ: Hebrew)
 
 For the Hebrew expression אֲרוֹן הַקֹּדֶשׁ, ***´ărôn haqqodeš***, ‘(the) ark, the holy’, see the [Jewish Encyclopedia](http://www.jewishencyclopedia.com/articles/1805-aron-ha-kodesh); more in detail, see [DCH 1, pp. 372-373, under lemma אֲרוֹן, *´ărôn*, ‘ark’](http://4Banks.net/Mes-rel/PDF/DCH_Ark.pdf) and [DCH 7, pp. 196-204, under lemma קֹדֶשׁ, *qodeš*, ‘holyness/holy’](http://4Banks.net/Mes-rel/PDF/DCH_Holyness.pdf).
 
@@ -4917,9 +4898,9 @@ For the Hebrew expression אֲרוֹן הַקֹּדֶשׁ, ***´ărôn haqqodeš**
 @NOTES R/21.5
 NA mDP
 ND 18 October 2020
-TO genîza(h) (Hebrew)
+TO genîza(h) (גניזה: Hebrew)
 
-For the concept of גניזה ,***genîza(h)***, lit. ‘hiding/hiding (place)’, from the Hebrew noun גֶּנֶז, *genez*, ‘treasury’ (see [DCH 2, p. 368](http://4Banks.net/Mes-rel/PDF/DCH_Treasury.pdf)) was a kind of sacred place for the deposition of old scrolls of the Torah or other sacred Hebrew texts, see the [Jewish Encyclopedia](http://www.jewishencyclopedia.com/articles/6582-genizah).
+For the concept of גניזה,***genîza(h)***, lit. ‘hiding/hiding (place)’, from the Hebrew noun גֶּנֶז, *genez*, ‘treasury’ (see [DCH 2, p. 368](http://4Banks.net/Mes-rel/PDF/DCH_Treasury.pdf)) was a kind of sacred place for the deposition of old scrolls of the Torah or other sacred Hebrew texts, see the [Jewish Encyclopedia](http://www.jewishencyclopedia.com/articles/6582-genizah).
 
 
 @NOTES R/22.1
@@ -4935,7 +4916,7 @@ About **rituals and services in ancient Mesopotamia**, see the [RlA](http://publ
 @NOTES R/22.1
 NA mDP
 ND 25 October 2020
-TO `<sup>a</sup>bodā(h) (Hebrew)
+TO `<sup>a</sup>bodā(h) (עֲבֹדָּה: Hebrew)
 
 For the Hebrew term עֲבֹדָּה, ***`<sup>a</sup>bodā(h)***, ‘service’, see [DCH 6, pp. 226-229](http://4Banks.net/Mes-rel/PDF/DCH_Service.pdf).
  
@@ -4945,7 +4926,7 @@ For an explanation of the concept of ***`<sup>a</sup>bodā(h)***, see e.g. the [
 @NOTES R/22.2
 NA mDP
 ND 25 October 2020
-TO offerings and sacrifices in Mesopotamia
+TO offerings; sacrifices
 
 On **offerings and sacrifices in ancient Mesopotamia**, cf. *supra* {N}R/13.2.
 
@@ -4953,7 +4934,7 @@ On **offerings and sacrifices in ancient Mesopotamia**, cf. *supra* {N}R/13.2.
 @NOTES R/22.2
 NA mDP
 ND 25 October 2020
-TO sacrifices in the Bible
+TO sacrifices
 
 On ** sacrifices in the Bible**, cf. *supra* {N}R/13.13.
 
@@ -4961,7 +4942,7 @@ On ** sacrifices in the Bible**, cf. *supra* {N}R/13.13.
 @NOTES R/22.2
 NA mDP
 ND 25 October 2020
-TO biblical passages; Ps 50, 9-13; Dt 26, 16; Is 1, 11-20; Ps 50, 14-15; Ps 40, 7-8; Am 5, 21-24; Mic 6, 6-8; Jer 6, 20
+TO Ps 50, 9-13; Dt 26, 16; Is 1, 11-20; Ps 50, 14-15; Ps 40, 7-8; Am 5, 21-24; Mic 6, 6-8; Jer 6, 20
 
 For the biblical passages mentioned by G. Buccellati in Chapter 22, Section 2, see the following:
 
@@ -4985,7 +4966,7 @@ For the biblical passages mentioned by G. Buccellati in Chapter 22, Section 2, s
 @NOTES R/22.5
 NA mDP
 ND 25 October 2020
-TO time in Mesopotamia: cyclical vs. linear
+TO time: cyclical vs. linear
 
 On **time in Mesopotamia (cyclical vs. linear)**, see RlA 15, pp. 246-248. Cf. *supra* {N}R/9.2. 
 
@@ -5001,7 +4982,7 @@ For the **Mesopotamian ‘New Year Festival’** (*akītu*), see *supra* {N}R/17
 @NOTES R/22.5
 NA mDP
 ND 25 October 2020
-TO ‘beginning’
+TO beginning
 
 For the biblical concept of **‘beginning’**, see *supra* {N}R/6.9.
 
@@ -5009,7 +4990,7 @@ For the biblical concept of **‘beginning’**, see *supra* {N}R/6.9.
 @NOTES R/22.6
 NA mDP
 ND 25 October 2020
-TO history and time in the Bible
+TO history; time
 
 For a discussion on **history and time in the Bible**, see e.g. {B}R/Buccellati2014Time; cf. *supra* {N}R/19.4.
 
@@ -5029,7 +5010,7 @@ For the Akkadian expression ***mārū ugārim***, ‘children of the irrigation 
 @NOTES R/22.7
 NA mDP
 ND 25 October 2020
-TO processions and processional streets in ancient Mesopotamia
+TO processions; processional streets
 
 About **processions and processional streets in ancient Mesopotamia**, see the [RlA](http://publikationen.badw.de/de/rla/index#9743), presenting also their attestation in literature and archaeology.
 
@@ -5037,7 +5018,7 @@ About **processions and processional streets in ancient Mesopotamia**, see the [
 @NOTES R/22.8
 NA mDP
 ND 25 October 2020
-TO death in Mesopotamia
+TO death 
 
 About the **conception of death in ancient Mesopotamia**, see the [RlA](http://publikationen.badw.de/de/rla/index#11713).
 
@@ -5045,7 +5026,7 @@ About the **conception of death in ancient Mesopotamia**, see the [RlA](http://p
 @NOTES R/22.8
 NA mDP
 ND 25 October 2020
-TO Underworld in Mesopotamia
+TO Underworld 
 
 About the **Mesopotamian Underworld**, see the [RlA](http://publikationen.badw.de/de/rla/index#12104).
 
@@ -5069,7 +5050,7 @@ For the reference to **Shakespeare’s ‘undiscovered country’**, see [*Hamle
 @NOTES R/22.8
 NA mDP
 ND 25 October 2020
-TO Gilgamesh epic
+TO Epic of Gilgamesh
 
 For the text of the ***Epic of Gilgamesh***, see *supra* {N}R/6.6.
 
@@ -5157,7 +5138,7 @@ For the Akkadian term ***kispu***, ‘funeral banquet’, see [CAD 8 = K, pp. 42
 @NOTES R/22.9
 NA mDP
 ND 25 October 2020
-TO death in the Bible
+TO death
 
 For the **concept of death in the Bible**, see the [Jewish Encyclopedia](http://www.jewishencyclopedia.com/articles/5019-death-views-and-customs-concerning).
 
@@ -5165,7 +5146,7 @@ For the **concept of death in the Bible**, see the [Jewish Encyclopedia](http://
 @NOTES R/22.9
 NA mDP
 ND 25 October 2020
-TO š<sup>e</sup>’ôl (Hebrew)
+TO š<sup>e</sup>’ôl (שְׁאוֹל: Hebrew)
 
 For the Hebrew term שְׁאוֹל, ***š<sup>e</sup>’ôl***, ‘Netherworld’, see [DCH 8, pp. 206-207](http://4Banks.net/Mes-rel/PDF/DCH_Sheol.pdf).
 
@@ -5175,7 +5156,7 @@ Cf. also the entry ‘Sheol’ on the [Jewish Encyclopedia](http://www.jewishenc
 @NOTES R/22.9
 NA mDP
 ND 25 October 2020
-TO biblical passages; 1Sam 28, 8-20; Is 8, 19; Dt 21, 1; Gn 9, 29; Ps 16, 10; Ps 49, 9-10, 16; Is 26, 19; Jb 19, 25-26; Ez 37, 4-5; Dn 12, 2; 2Mac 7, 9
+TO 1 Sam. 28, 8-20; Is 8, 19; Dt 21, 1; Gn 9, 29; Ps 16, 10; Ps 49, 9-10, 16; Is 26, 19; Jb 19, 25-26; Ez 37, 4-5; Dn 12, 2; 2 Mac. 7, 9
 
 For the biblical passages mentioned by G. Buccellati in Chapter 22, Section 9, see below:
 
@@ -5205,7 +5186,7 @@ For the biblical passages mentioned by G. Buccellati in Chapter 22, Section 9, s
 @NOTES R/22.11
 NA mDP
 ND 25 October 2020
-TO cult technicians in Mesopotamia
+TO cult technicians 
 
 About **cult technicians in ancient Mesopotamia**, see the lemma ‘priest’ in the [RlA](http://publikationen.badw.de/de/rla/index#9715).
 
@@ -5213,7 +5194,7 @@ About **cult technicians in ancient Mesopotamia**, see the lemma ‘priest’ in
 @NOTES R/22.11
 NA mDP
 ND 25 October 2020
-TO cult technicians in the Bible
+TO cult technicians 
 
 About **cult technicians in the Bible**, see the lemma ‘priest’ in the [Jewish Encyclopedia](http://www.jewishencyclopedia.com/articles/12358-priest); cf. also *infra* the following note about the **Levites**.
 
@@ -5221,7 +5202,7 @@ About **cult technicians in the Bible**, see the lemma ‘priest’ in the [Jewi
 @NOTES R/22.11
 NA mDP
 ND 25 October 2020
-TO ‘tribe’ of Levi = Levites
+TO tribe of Levi = Levites
 
 About the **‘tribe’ of Levi** and the **Levites**, see e.g. the [Jewish Encyclopedia](http://www.jewishencyclopedia.com/articles/9866-levites-temple-servants).
 
@@ -5242,7 +5223,7 @@ For the Hebrew text and an English translation of **Leviticus**, see the [Tanakh
 @NOTES R/23.1
 NA mDP
 ND 1 November 2020
-TO destruction of Mesopotamia: past and present
+TO end of Mesopotamian world
 
 A historical event considered as the ‘ending’ of Mesopotamian indigenous culture is the **conquest of Babylon by the Persian Achaemenids** in 539 BC, by Cyrus the Great. On this topic, see e.g. {B}R/Liverani2014History, pp. 562-658.    
 
@@ -5278,17 +5259,17 @@ For the **‘sacrifice’ of Isaac by Abraham**, see *supra* {N}R/6.9.
 @NOTES R/24.1
 NA mDP
 ND 1 November 2020
-TO emic perspective
+TO emic 
 
-In this chapter, and in the whole book, the author implicitly insists on the application of an **-emic perspective** in the analysis of ancient cultures. This topic is well discussed by G. Buccellati in his paper {B}R/Buccellati2006Emic. A similar topic, i.e. that of [**empathy**](https://plato.stanford.edu/entries/empathy/) in reading the past, is presented by G. Buccellati in {B}R/Buccellati2014Dalprofondo, pp. 71-72. 
+In this chapter, and in the whole book, the author implicitly insists on the application of an **-emic perspective** in the analysis of ancient cultures. This topic is well discussed by G. Buccellati in his paper  {B}R/Buccellati2006Emic. A similar topic, i.e. that of [**empathy**](https://plato.stanford.edu/entries/empathy/) in reading the past, is presented by G. Buccellati in {B}R/Buccellati2014Dalprofondo, pp. 71-72. 
 
 
 @NOTES R/24.4
 NA mDP
 ND 1 November 2020
-TO Fate/Destiny
+TO fate; destiny
 
-On **Fate/Destiny** in ancient Mesopotamia, cf. *supra* {N}R/14.5.
+On **fate/destiny** in ancient Mesopotamia, cf. *supra* {N}R/14.5.
 
 
 @NOTES R/25.1
@@ -5296,21 +5277,21 @@ NA mDP
 ND 8 November 2020
 TO development of religious thought
 
-For a discussion on the development of first religious thoughts in Ancient near East, see *supra* {N}R/6.2 and {N}R/16.1.
+For a discussion on the development of first religious thoughts in Ancient Near East, see *supra* {N}R/6.2 and {N}R/16.1.
 
 
 @NOTES R/25.2
 NA mDP
 ND 8 November 2020
-TO Fate/Destiny
+TO fate; destiny
 
-On **Fate/Destiny** in ancient Mesopotamia, see *supra* {N}R/14.5.
+On **fate/destiny** in ancient Mesopotamia, see *supra* {N}R/14.5.
 
 
 @NOTES R/25.2
 NA mDP
 ND 8 November 2020
-TO biblical creation
+TO creation
 
 On **creation in the Bible**, see *supra* {N}R/6.9 and {N}R/7.9.
 
@@ -5359,9 +5340,9 @@ For ** *Gen* 2, 17**, the biblical passage about the ‘tree of the knowledge’
 @NOTES R/25.4
 NA mDP
 ND 8 November 2020
-TO <sup>ĕ</sup>lohîm (Hebrew)
+TO ĕlohîm (אֱלֹהִים: Hebrew)
 
-On the term ***elohîm***, see the [Jewish Encyclopedia](http://www.jewishencyclopedia.com/articles/5704-elohim). For the specific Hebrew term אֱלֹהִים, *<sup>ĕ</sup>lohîm*, ‘God(s)’, see [DCH 1, pp. 277-286](http://4Banks.net/Mes-rel/PDF/DCH_Elohim.pdf).
+On the term ***ĕlohîm***, see the [Jewish Encyclopedia](http://www.jewishencyclopedia.com/articles/5704-elohim). For the specific Hebrew term אֱלֹהִים, *<sup>ĕ</sup>lohîm*, ‘God(s)’, see [DCH 1, pp. 277-286](http://4Banks.net/Mes-rel/PDF/DCH_Elohim.pdf).
 
 
 @NOTES R/25.4
@@ -5404,7 +5385,10 @@ ND 8 November 2020
 TO Assyrian elegy
 
 For the text of the **Assyrian elegy** left by an anonymous poet of the 7<sup>th</sup> cent. BC presenting a dialogue in front of a woman’s grave, see {B}R/Foster2005Before, p. 949 (Text G.IV.29), with further literature in notes.
+
 The text has been republished and deeply analysed in {B}R/George2010Elegy.  
+
+
 
 
 
@@ -5419,7 +5403,7 @@ About **Naram-Sin**, see e.g. {B}R/Liverani2014History, pp. 135-137.
 @NOTES R/26.1
 NA mDP
 ND 8 November 2020
-TO ‘king of the four edges/banks of the world’
+TO king of the four edges/banks of the world
 
 For the Akkadian expression *šarru kibrāt arbātu*(*m*) or *arba’i*(*m*) / *šarru kibrāt erbetti*(*m*) or *erbêm*  = Sumerian LUGAL UB.DA.LÍMMU(.BA), ‘king of the four edges/banks of the world’, see e.g. [CAD 8 = K, pp. 331-336](http://4Banks.net/Mes-rel/PDF/CAD8_331-336.pdf). Cf. *supra* {N}R/2.13.   
 
@@ -5435,15 +5419,15 @@ For the etymology of the Greek term **Mesopotamia**, see *supra* {N}R/2.13.
 @NOTES R/26.1
 NA mDP
 ND 8 November 2020
-TO ‘(country of) four edges/banks of the world’
+TO country of four edges/banks of the world
 
-For the Akkadian expression (*mātu*) *kibrāt arbātu*(*m*) or *arba’i*(*m*) / (*mātu*) kibrāt erbetti*(*m*) or *erbêm*  = Sumerian (KUR) UB.DA.LÍMMU(.BA), ‘(country of) the four edges/banks of the world’, see e.g. [CAD 8 = K, pp. 331-336](http://4Banks.net/Mes-rel/PDF/CAD8_331-336.pdf). Cf. *supra* {N}R/2.13.   
+For the Akkadian expression (*mātu*) *kibrāt arbātu*(*m*) or *arba’i*(*m*) / (*mātu*) *kibrāt erbetti*(*m*) or *erbêm*  = Sumerian (KUR) UB.DA.LÍMMU(.BA), ‘(country of) the four edges/banks of the world’, see e.g. [CAD 8 = K, pp. 331-336](http://4Banks.net/Mes-rel/PDF/CAD8_331-336.pdf). Cf. *supra* {N}R/2.13.   
 
 
 @NOTES R/26.2
 NA mDP
 ND 8 November 2020
-TO development of human communities in Mesopotamia
+TO development of human communities 
 
 On the **development of human communities in Mesopotamia**, from villages to towns and state, cf. *supra* {N}R/19.1 and {N}R/19.3. 
 
@@ -5451,7 +5435,7 @@ On the **development of human communities in Mesopotamia**, from villages to tow
 @NOTES R/26.2
 NA mDP
 ND 8 November 2020
-TO political institutions in Mesopotamia
+TO political institutions
 
 On **political institutions in Mesopotamia**, see the first volume of the series [*Mesopotamia
 The Land of the Four River Banks*](https://4banks.net/), entitled [*At the Origins of Politics*](https://4banks.net/Mes-pol/title%20P.htm).
@@ -5460,7 +5444,7 @@ The Land of the Four River Banks*](https://4banks.net/), entitled [*At the Origi
 @NOTES R/26.3
 NA mDP
 ND 8 November 2020
-TO literary expression in Mesopotamia
+TO literary expression 
 
 On **literary expression in Mesopotamia**, see the second volume of the series [*Mesopotamia
 The Land of the Four River Banks*](https://4banks.net/), entitled [*Thought Enshrined in Clay*](https://4banks.net/Mes-Lit/title%20L.htm).
@@ -5477,7 +5461,7 @@ The topic of **‘broken tradition’** is explained by G. Buccellati and A. Bez
 @NOTES R/26.4
 NA mDP
 ND 8 November 2020
-TO art and architecture in Mesopotamia
+TO art; architecture 
 
 On **art and architecture in Mesopotamia**, see the third volume of the series [*Mesopotamia
 The Land of the Four River Banks*](https://4banks.net/), entitled [*The Shapes of Phantasy*](https://4banks.net/Mes-Art/title%20A.htm).

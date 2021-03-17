@@ -7,7 +7,7 @@ P Roma: Tipografia G. Bardi
 @@@R
 SA mDP
 SD November 2020
-TO sacrifice and divination in Babylonia and Assyria
+TO sacrifices; divination
 
 The author collects and comments in this volume many **sacrificial and divinatory texts** of Babylonian and Assyrian origin, dividing them into different, specific categories, such as the series *Maqlû*, *Šurpu*, and sacrifices performed at Babylon during the *akītu* festival, i.e. the New-Year Festival in honour of the polyad god [Marduk](http://oracc.museum.upenn.edu/amgg/listofdeities/marduk/index.html).
    

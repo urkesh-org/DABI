@@ -9,7 +9,7 @@ For many examples of Mesopotamian devotional gestures, described by Buccellati i
 @NOTES R/15.3
 NA sE
 ND 9 November 2020
-TO abstention from food
+TO abstention
 
 
 On food regulation in ancient Mesopotamia (with a particular focus on meat, but that includes several relevant bibliographical references on the broader topic), see {B}R/Ermidoro2020Animals.

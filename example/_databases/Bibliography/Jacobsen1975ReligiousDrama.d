@@ -7,7 +7,7 @@ P in Goedicke and Roberts, *Unity and Diversity*
 SA jJL
 SD March 2020
 NR 18.3
-TO Religious Drama; Sacred Marriage Drama; Battle Drama; fertility dramas; processions
+TO religious drama; sacred marriage; battle; fertility dramas; processions
 
 Jacobsen’s article examines what **religious dramas** were meant to achieve, and the ways their meaning changed over time in Babylon. He considers the older materials regarding fertility dramas, especially the Sacred Marriage Drama, and the first millenium remnants of the fertility dramas and the Battle Drama.
 

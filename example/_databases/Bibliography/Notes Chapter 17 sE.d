@@ -1,7 +1,7 @@
 ﻿@NOTES R/17.7
 NA sE
 ND 16 November 2020
-TO Enuma Elish; Akitu
+TO Enūma elīš; akitu
 
 On the reading of the Enuma Elish during the Akitu festival (and on its political significance) see {B}R/Bidmead2002Akitu; {B}R/Pongratz-Leisten1994Akitu.
 

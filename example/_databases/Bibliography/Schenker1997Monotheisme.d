@@ -6,8 +6,7 @@ P in *Biblica*, Vol. 78, No. 3 (1997), pp. 436-450
 @@@R
 SA jJL
 SD April 2020
-NR 3.3, 8.6
-TO Monotheism; Divine Beings; Angels; Demons
+TO monotheism; divine beings; angels; demons
 
 Schenker defines **monotheism** as the transcendence of one god over the others, not necessarily the complete non-existence of other gods. <<In order to speak of monotheism in truth, it is sufficient that there be a face-to-face between a unique god on one hand and all the other divine beings on the other.>> (p. 438) He proceeds to examine three texts that support his thesis. 
 

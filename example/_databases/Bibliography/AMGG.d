@@ -9,7 +9,7 @@ SA mDP
 SD August 2020
 TO Mesopotamian deities
 
-<<The Mesopotamian literary corpus is one of the oldest literatures in the world. It is infused with the divine, because religion played a crucial part in the way Mesopotamians expressed their thoughts about human life. Mesopotamian religion was polytheistic, with a pantheon consisting of hundreds if not thousands of gods of varying importance. This website offers information about the fifty most important gods and goddesses and provides starting points for further research>> (from website).
+<<The Mesopotamian literary corpus is one of the oldest literatures in the world. It is infused with the divine, because religion played a crucial part in the way Mesopotamians expressed their thoughts about human life. Mesopotamian religion was polytheistic, with a pantheon consisting of hundreds if not thousands of gods of varying importance. This website offers information about the **fifty most important gods and goddesses** and provides starting points for further research>> (from website).
 
 
 

@@ -13,3 +13,9 @@ Ulanowski opens his article with a definition of divination, i.e., <<human obser
 The author traces a useful (though brief) history of divination in Mesopotamia, from the Sumerian texts of the third millennium BCE to the first millennium. The author considers divination indeed as a form of ritual (i.e. a formal procedure carried out by trained practitioners in order to provide clients with answers) but also as 'pure performance'. He analyzes the roles played by the several deities involved in the divinatory practices (Shamash, Adad, Sin, Ninsianna and Ea).
 
 Finally, Ulanowski highlights the performatice act inherent in the very act of the interpretation of signs - hence the stress which placed in the ancient written sources with regards to the skill of the professionals and the secrecy in the transmission of texts connected to their professions.
+
+@NOTES R/9.1
+NA jJL
+ND January 2021
+
+See {B}R/Ulanowski2014MesopotamianDivination on divination in Mesopotamia.

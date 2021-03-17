@@ -12,9 +12,9 @@ The present publication is divided into 5 chapters about **gender of divinities*
  
 *Chapter 1*, "Gender Theory and Issues" (gender categories, changing gender, marginalization of goddesses);
  
-*Chapter 2*, "Plethora of **Female Deities**" (processes of syncretism, fusion, fission and mutation; first stage of profusion followed by a second stage of recession and by a third one of conflation; general trends);
+*Chapter 2*, "Plethora of Female Deities" (processes of syncretism, fusion, fission and mutation; first stage of profusion followed by a second stage of recession and by a third one of conflation; general trends);
  
-*Chapter 3*, "Facets of Change" (the case of [**Ninhursaga**](https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ninhursaga) and related mythological messages);
+*Chapter 3*, "Facets of Change" (the case of **Ninhursaga** and related mythological messages);
  
 *Chapter 4*, "Images" (image and religion; visualizing deities; statues, terra-cotta figurines, seals and their role in visualization; power of presence);
  
@@ -28,4 +28,4 @@ NA mDP
 ND 16 June 2020
 TO gender of divinities
 
-For an investigation on the gender of divinities in ancient Mesopotamia, see {B}R/AsherGreve2013Goddesses.
+For an investigation on the **gender of divinities** in ancient Mesopotamia, see {B}R/AsherGreve2013Goddesses.

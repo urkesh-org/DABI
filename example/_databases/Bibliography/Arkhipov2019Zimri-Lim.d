@@ -3,7 +3,6 @@ Y 2019
 T "Zimri-Lim Offers a Throne to Dagan of Terqa"
 P in *Ancient Near Eastern Temple Inventories in the Third and Second Millennia BCE: Integrating Archaeological, Textual, and Visual Sources*, pp. 131-137
 
-
 @@@R
 SA iN
 SD March 2020
@@ -14,3 +13,9 @@ Beginning with a royal inscription from Gudea, thrones belonging to many gods we
 Information from the Old Babylonian Mari archives mentions a throne dedicated to Dagan of Terqa was constructed during the reign of Zimri-Lim. In addition to a letter from Zimri-Lim's secretary, the throne is mentioned in two letters and 16 accounting documents from Mari - all of which describe the illustrious manufacturing process and raw material materiality of the throne with emphasis on gold, silver, and precious stones used. The letter cites seven goldsmiths tasked with construction, four mentioned by name, all of whom are known from other accounting documents detailing the processes of their manufacturing and the corresponding information with respect to materials used. Arkhipov offers a hypothetical sketch of how the throne may have looked in accordance with descriptions made from texts where the throne of Dagan is mentioned, in addition to correlations made from iconography.
 
 The article sheds light on throne construction and the relevance to religious iconography. Arkhipov lists the Akkadian names given to significant materials used in the construction of thrones. His methodology utilizes text and material culture to reproduce a hypothetical sketch.
+
+@NOTES R/18.1
+NA jJL
+ND January 2021
+
+For a study of a particular artistic artefact, the trhone of Dagan of Terqa, see {B}R/Arkhipov2019Zimri-Lim.

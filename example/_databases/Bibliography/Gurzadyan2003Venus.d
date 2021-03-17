@@ -6,7 +6,7 @@ P [*Akkadica* 124](https://arxiv.org/abs/physics/0311036), pp. 13-17
 @@@R
 SA mDP
 SD November 2020
-TO chronology; “Venus Tablet of Ammisaduqa”
+TO chronology; Venus tablets; Ammisaduqa
 
 <<It is shown that the refraction near the horizon is introducing an additional bias into the **Venus Tablet of Ammisaduqa**, which is able to influence the interpretation of the data. We then discuss the attempts to link certain solar eclipses to the birth of Shamshi-Adad and conclude that a record of a single solar eclipse without description of details and/or unambiguous historical links, can hardly act as a reliable anchor>> (author’s abstract on [Cornell University website](https://arxiv.org/abs/physics/0311036)).
 

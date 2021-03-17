@@ -1,4 +1,4 @@
-T 12. Authorship
+T 13. Authorship
 S Stefania Ermidoro
 D December 2020
 HTML authorship
@@ -16,3 +16,4 @@ HTML authorship
 - Contributed the following themes:
     1. <a href="../themes/food.htm">Identity: food</a>
     1. <a href="../themes/arch-hist.htm">Archaeology and history</a> *(Work in progress)*
+- Contributed the review of the phonemic transcriptions of all <a href="../sources/appendices_mDP.htm">Appendices</a>.

@@ -1,4 +1,4 @@
-﻿AU Herles, Michael
+AU Herles, Michael
 Y 2006
 T *Götterdarstellungen Mesopotamiens in der 2. Hälfte des 2. Jahrtausends v. Chr.: das anthropomorphe Bild im Verhältnis zum Symbol*
 P Alter Orient und Altes Testament 329
@@ -14,6 +14,10 @@ TO Mesopotamian representation of gods; anthropomorphism
 [This thesis is helpful in defining the different ways of **representation of gods in ancient Mesopotamia**, mainly for what regards anthropomorphic depictions.]
 
 
+@NOTES R/18.3
+NA jJL
+ND January 2021
 
+See {B}R/Herles2006Gotterdarstellungen for different ways of representing gods in ancient Mesopotamia.
 
 

@@ -7,9 +7,9 @@ P Last access: 12 September 2020
 @@@R
 SA mDP
 SD September 2020
-TO Anti-witchcraft Rituals
+TO anti-witchcraft rituals
 
-A collection of Mesopotamian anti-witchcraft rituals, compiled by the [ORACC project](http://oracc.museum.upenn.edu/).
+A collection of Mesopotamian **anti-witchcraft rituals**, compiled by the [ORACC project](http://oracc.museum.upenn.edu/).
 
 
 

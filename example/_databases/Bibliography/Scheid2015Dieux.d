@@ -10,3 +10,10 @@ SD March 2020
 TO repentance
 
 The Roman gods do get angry, and cultic actions seek to pacify them. But they never repent in the Christian sense. In the myths, the gods regret certain acts or events, but without feeling repentance. The very term *paenitentia* witnesses to this fact. [Author's summary] 
+
+
+@NOTES R/8.5
+NA jJL
+ND January 2021
+
+See {B}R/Scheid2015Dieux for a study of divine anger in the Roman gods.

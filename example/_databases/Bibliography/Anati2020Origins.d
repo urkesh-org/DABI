@@ -23,3 +23,9 @@ present shape? As presented in this book, the evolution of archeological and
 anthropological evidence and analysis contribute a
 new look to the origins and history of religion." [Editor's summary]
 
+
+@NOTES R/1.3
+NA jJL
+ND January 2021
+
+For new research on the origins of religion, see {B}R/Anati2020Origins.

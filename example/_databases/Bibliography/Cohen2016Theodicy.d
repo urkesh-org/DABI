@@ -6,7 +6,7 @@ P Durand, Jean-Marie; Marti, Lionel; R&ouml;mer, Thomas (eds.) *Col&egrave;res e
 @@@R
 SA jJL
 SD April 2020
-TO Divine wrath; Theodicy
+TO divine wrath; theodicy
 
 Author’s summary: The present essay has come to challenge the idea that the Problem of **Theodicy** was introduced to Mesopotamian literature as a reaction to social or historical circumstances. First, support for historical or social catastrophic scenarios that allegedly promoted the rise of the critical discussion of divine retribution was denied. 
 
@@ -16,3 +16,10 @@ Secondly, it was argued that with a growing and substantial corpus of works dati
 
 [**Cohen’s article examines and refutes the explanations of Thorkild Jacobsen, Wilfred Lambert, Rainer Albertz, and Karel van der Toorn**. In his view, their theories about theodicy suffer from a lack of independent historical data, which relativizes or contradicts the assumptions upon which their explanations rest. Cohen therefore attempts to rectify the situtation with **new data** and arrives at the conclusion that the problem of Theodicy accompanied Babylonian religious reflection from its beginning, and did not arise in reaction to a cultural or economic shift, as claimed for instance by Nagy. <<Questioning divine reward and punishment and the introduction of sceptical or critical attitudes are constant themes in Mesopotamian wisdom literature; hence an evolutionist historical scenario is not needed to explain their appearance and development.>> (p. 245)
 Cohen also expands the concept of theodicy to refer not only to a blameless sufferer (as Bricker proposed), but more broadly to the <<attempt to explain in religious terms suffering or evil.>> (p. 246) From the beginning, religious people have reflected on the **failure of the principle of divine retribution** to explain the actual situation of the world.]
+
+
+@NOTES R/12.4
+NA jJL
+ND January 2021
+
+See {B}R/Cohen2016Theodicy for a treatment of theodicy in Mesopotamia.

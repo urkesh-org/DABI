@@ -6,7 +6,7 @@ P Edinburgh: T. & T. Clark [with several re-prints by other publishers]
 @@@R
 SA mDP
 SD May 2020
-TO Mesopotamian religion; Egyptian religion; comparative approach
+TO Mesopotamian religion; Egyptian religion; comparative method
 
 The volume collects several lectures delivered by [A.H. Sayce](https://en.wikipedia.org/wiki/Archibald_Sayce).
 
@@ -28,7 +28,7 @@ A good, even though dated, introduction to many aspects of religion in ancient M
 @NOTES R/2.2
 NA mDP
 ND 30 June 2020
-TO comparative approach
+TO comparative method
 
 The comparative approach is a fruitful way to better understand religious thoughts in antiquity: e.g., {B}R/Sayce1902Religions displays two sections including lectures of both Egyptian (*Part 1*) and Babylonian (*Part 2*) religions. The author rarely stresses *apertis verbis* specific comparisons between the two systems, even though the reader can easily recognise assonances and discordances in the two different religious thoughts.   
 

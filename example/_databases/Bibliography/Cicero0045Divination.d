@@ -12,5 +12,9 @@ Cicero is careful to distinguish between knowledge of the fact that foreknowledg
 Divination is to be distinguished from other technical foreknowledge: <<Doctors, pilots, and also farmers all sense many things in advance, but I call none of them ‘divination’>> (111) 
 Error is possible; <<although many things deceive those who evidently divine the future by means of art or conjecture, nonetheless divination exists; but human beings can make mistakes in this art as in every other.>> (123) 
   
+@NOTES R/9.1
+NA jJL
+ND January 2021
 
+For a Roman accounting of divination, which bears similarities with what is found in Mesopotamia, see {B}R/Cicero0045Divination.
 

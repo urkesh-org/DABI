@@ -6,7 +6,7 @@ P Durand, Jean-Marie; Marti, Lionel; R&ouml;mer, Thomas (eds.) //Col&egrave;res 
 @@@R
 SA jJL
 SD April 2020
-TO Divine wrath; Human-God relations; Human-world relations; Priestly narrative
+TO divine wrath; human-God relations; human-world relations; priestly narrative
 
 While **divine anger** is a normal feature of mythological representations of the gods, and is present throughout the Hebrew Bible, it **is remarkably absent from the Priestly narrative (Pg)** as defined by de Pury (a detailed outline is provided in appendix to the article). The author notes that while the Deuteronomic narrative presents a relation between humans and YHWH that looks like a vassal-sovereign relation, the Pg narrative expresses a much more open dynamic: <<In the narratives of Gen 1, 9, 17, or 23, one has the impression of the elaboration of an autonomously functioning system, a system which strives to leave each of the different partners their own dynamics, interests, and spontaneity, without measuring their behaviors by a pre-fixed standard. The divine word takes the form of an invitation rather than an order.>> (p. 193)
 

@@ -38,3 +38,11 @@ HTML authorship
     1. <a href="../sources/appendix 15_mDP.htm">Appendix 15</a>
     1. <a href="../sources/appendix 16_mDP.htm">Appendix 16</a>
     1. <a href="../sources/appendix 17_mDP.htm">Appendix 17</a>
+- Contributed the following excerpts:
+    1. <a href="../excerpts/Achtemeier1996Harper.htm">Achtemeier *et al.* 1996</a>
+    1. <a href="../excerpts/Brelich1976Prolegomeni.htm">Brelich 1976</a>
+    1. <a href="../excerpts/Cauvin2000Birth.htm">Cauvin 2000</a>
+    1. <a href="../excerpts/Davis2016Relating.htm">Davis 2016</a>
+    1. <a href="../excerpts/Frahm2011Commentaries.htm">Frahm 2011</a>
+    1. <a href="../excerpts/Jacobsen1976Treasures.htm">Jacobsen 1976</a>
+- Contributed to the final review of the English promanuscript (mostly for what regards transliterations of words from ancient Near Eastern languages).

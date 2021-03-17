@@ -1,4 +1,4 @@
-AU Oppenheim, Adolf Leo
+AU Oppenheim, A. Leo
 Y 1964
 T [*Ancient Mesopotamia. Portrait of a Dead Civilization*](https://oi.uchicago.edu/research/publications/misc/ancient-mesopotamia-portrait-dead-civilization)
 P Chicago-London: The University of Chicago Press 

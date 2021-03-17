@@ -13,6 +13,8 @@ TO Babylonian and Assyrian text commentaries
 
 [The volume illustrates through the analysis of Mesopotamian commentary tablets the way Ancient Babylonians and Assyrians made commentaries to texts of different genres. It is a clear exemplification of how ancient Mesopotamians approached their own literature.]
 
+A further insight on this book offering passages (quoted *verbatim*) on specific topics, can be found on [Excerpts](http://4Banks.net/Mes-rel/Excerpts/Frahm2011Commentaries.htm). 
+
 
 
 

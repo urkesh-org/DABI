@@ -17,7 +17,7 @@ For an early attempt to organize the varied materials for an Ancient Mesopotamia
 @NOTES R/6.2
 NA sE
 ND 19 October 2020
-TO "protoeuphratian" structure
+TO protoeuphratian
 
 Against the theory of a "protoeuphratian" or a "pre-Sumerian" substratum see, however, {B}R/Rubio1999Substratum.
 

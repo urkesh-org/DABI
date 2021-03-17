@@ -7,7 +7,7 @@ P Durand, Jean-Marie; Marti, Lionel; R&ouml;mer, Thomas (eds.) *Col&egrave;res e
 SA jJL
 SD April 2020
 NR 6.6
-TO Divine wrath; Sin; Repentance; Touching presence
+TO divine wrath; sin; repentance; touching presence
 
 Durand offers a close examination of the words indicating **fault, sin, regret, and repentance**. He begins by noting that action was essentially referred to humans, as the gods spent their eternity asleep (if possible). <<All lack and all error had to be first of all, or rather uniquely, on the part of humans.>> (p. 377).
 
@@ -29,6 +29,6 @@ Notice that the <<touching presence>> in Buccellati is literally the god who tou
 @NOTES R/6.6
 NA jJL
 ND April 2020
-TO 
+TO sin
 
 Note also {B}R/Durand2016Entre p. 387 the <<blind catalog>> of sins that a sinner might list, hoping that one of them would correspond to his actual offense, of which he was unaware. Quite the opposite of a personal relationship in which the partner had been offended.

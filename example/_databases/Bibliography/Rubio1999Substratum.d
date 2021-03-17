@@ -1,15 +1,18 @@
 AU Rubio, Gonzalo
 Y 1999
-T "On the Alleged 'Pre-Sumerian Substratum'"
-P *Journal of Cuneiform Studies* 51, pp. 1-16.
+T “On the Alleged ‘Pre-Sumerian Substratum’”
+P *Journal of Cuneiform Studies* 51/1, pp. 1-16
 
-@@@ R
-SA sE
-SD October 2020
-TO "protoeuphratian substratum"
+@@@R
+SA mDP
+SD December 2020
+TO Pre-Sumerian substratum
 
-In this article, Rubio discusses the so-called "Sumerian problem", namely he attampts to find an answer to the long-debated issue whether the Sumerians were an autochthonous Mesopotamian population or they came from somewhere else. In his investigation, he looks at both the textual and the archeological evidence.
+<<One of the most discussed Assyriological topics is the “Sumerian problem”: Were the Sumerians an autochthonous Mesopotamian population or did they come from somewhere else? In order to answer this question one has to take a look at both the textual and the archeological materials we have. The archeological and environmental evidence seem to allow different, and even contradictory, readings and interpretations>> (from p. 1).
 
-Rubio questions the very idea of a "pre-Sumerian substratum" (or "protoeuphratian substratum"), which is supported by Buccellati in §6.2. Such theory was first proposed by Landsberger (1944; 1974) and later developed by Gelb (1960), Oppenheim (1967), Salonen (1952; 1968; 1969), and Diakonoff (1975). However, after looking in details at Landsberger's and (more recently) Whittaker's publications on this topic - and rooting his analysis on philological and historical grounds, the scholar ultimately denies the existence of such "alleged substratum".
+[This paper discusses the problem of the Sumerian origin, a topic still deeply debated among modern scholars. It also deals with the problem of the origin of Sumerian language, discussing the existence of a possible **‘Pre-Sumerian substratum’**.]
 
-Rubio's conclusion is that <<there is no monolithic substratum that would have left, in a sort of primeval age, its vestiges in  the Sumerian lexicon. (...) Furthermore, and from a theoretical point of view, one should not overlook that the search for origins  (Ursprache, Urheimat, etc.) is an intellectual construct of the past - frequently a misconstruction of it - and belongs to the realm of our concerns as scholars rather than to the world of events>> (p. 11).
+PDF available [here](https://www.journals.uchicago.edu/doi/pdfplus/10.2307/1359726)
+
+
+

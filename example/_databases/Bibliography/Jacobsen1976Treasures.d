@@ -8,25 +8,13 @@ SA mDP
 SD July 2020
 TO development of religion; Mesopotamian religion; Mesopotamia gods; heroes; epic texts
 
-This volume retraces the paths in the development of the concept of **religion** in ancient Mesopotamia, from the 4<sup>th</sup> to the 2<sup>nd</sup> millennium BC. It is divided into 7 chapters:
-
-*chapter 1* (pp. 1-22) explains the basic terminology, defining the terms **religion** (considered as a *response* of the human beings to a specific need), **Mesopotamian** (sketching the geographical framework), and **ancient** (about the basic chronological development of the discussion);
-
-*chapter 2* (pp. 23-74) defines the fourth-millennium metaphor of gods as **providers** of fertility, presenting the cult of [**Dumuzi/Tammuz**](http://4Banks.net/Mes-rel/TEMI/mesopotamian_gods_mDP.htm#Dumuzi) as representative of the provider god in contexts of courtship, weddings, funerary rituals, and in the concepts of search and return;
-  
-*chapter 3* (pp. 75-92) presents the third-millennium metaphor of gods as **rulers** able to provide human beings with a cosmic order reflected in the constitution of polity (under this respect, the **Assembly of gods** has the ultimate power on the human world);
- 
-*chapter 4* (pp. 93-144) insists on the aforementioned metaphor of gods as **rulers**, presenting individual divine figures, paired to specific issues: [**An**](http://4Banks.net/Mes-rel/TEMI/mesopotamian_gods_mDP.htm#An) = authority; [**Enlil**](http://4Banks.net/Mes-rel/TEMI/mesopotamian_gods_mDP.htm#Enlil) = force; [**Ninḫursaga**](http://4Banks.net/Mes-rel/TEMI/mesopotamian_gods_mDP.htm#Ninhursaga) = productivity; [**Enki**](http://4Banks.net/Mes-rel/TEMI/mesopotamian_gods_mDP.htm#Enki) = cunning; divine interplay = [***The Story of Atrahasīs***](http://4Banks.net/Mes-rel/PDF/Foster2005_227-280.pdf); [**Nanna/Suen**](http://4Banks.net/Mes-rel/TEMI/mesopotamian_gods_mDP.htm#Nanna) = princeliness; [**Ninurta**](http://4Banks.net/Mes-rel/TEMI/mesopotamian_gods_mDP.htm#Ninurta) = warlike prowess; [**Utu**](http://4Banks.net/Mes-rel/TEMI/mesopotamian_gods_mDP.htm#Utu) = righteousness; [**Ishkur**](http://4Banks.net/Mes-rel/TEMI/mesopotamian_gods_mDP.htm#Iskur) = rainstorm; [**Inanna**](http://4Banks.net/Mes-rel/TEMI/mesopotamian_gods_mDP.htm#Inanna) = infinite variety (of issues);
-
-*chapter 5* (pp. 145-164) explains the second-millennium metaphor of gods as **parents**, describing the increase of **personal religion** and of **personal gods** (vs. the typical fourth and third-millennium polyad gods);
-
-*chapter 6* (pp. 165-192) investigates the second-millennium metaphor of gods as **creators**, the primordial force behind the origin of the world; the most important **creation epics**, i.e. the [***Enûma elish***](http://4Banks.net/Mes-rel/PDF/Foster2005_436-486.pdf);
-
-*chapter 7* (pp. 193-220) presents the second-millennium metaphor of gods/semi-gods as **heroes**, discussing the figure of [**Gilgamesh**](http://publikationen.badw.de/de/rla/index#4555) in the many versions of the [***Epic of Gilgamesh***](http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.1*#).
+This volume retraces the paths in the development of the concept of **religion** in ancient Mesopotamia, from the 4<sup>th</sup> to the 2<sup>nd</sup> millennium BC. 
 
 An *Epilogue* (pp. 221-240) offers an overview on the second-millennium main religious **achievements** and provides the reader with some glimpses on later first-millennium religious developments.
 
 [Note that some positions taken by the author, specifically in defining the concept of ‘religion’, are different from G. Buccellati’s ones. Notes to specific chapters discuss these different views.]
+
+A further insight on this book offering passages (quoted *verbatim*) on specific topics, can be found on [Excerpts](http://4Banks.net/Mes-rel/Excerpts/Jacobsen1976Treasures.htm). 
 
 
 @NOTES R/1.1
@@ -34,7 +22,7 @@ NA mDP
 ND 18 July 2020
 TO religion
 
-**<<By religion I mean the codification of the interaction with an absolute that remains empirically unknown, but is nevertheless empirically assumed. It is an absolute because our perception of things is conditioned by it in ways that are beyond our control. An empirically unknown absolute because it totally eludes all physical and tangible parameters>> (Buccellati, §1.1).** This definition of religion is quite different from others, e.g. that in {B}R/Jacobsen1976Treasures, who considers religion as a response of the human beings to a specific need, thus avoiding any relationship with the ‘absolute’. 
+<<By **religion** I mean the codification of the interaction with an absolute that remains empirically unknown, but is nevertheless empirically assumed. It is an absolute because our perception of things is conditioned by it in ways that are beyond our control. An empirically unknown absolute because it totally eludes all physical and tangible parameters>> (Buccellati, §1.1). This definition of religion is quite different from others, e.g. that in {B}R/Jacobsen1976Treasures, who considers religion as a response of the human beings to a specific need, thus avoiding any relationship with the ‘absolute’. 
 
 
 @NOTES R/2.3

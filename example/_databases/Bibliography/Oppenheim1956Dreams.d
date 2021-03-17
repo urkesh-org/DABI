@@ -1,4 +1,4 @@
-﻿AU Oppenheim, Leo Adolf 
+AU Oppenheim, A. Leo 
 Y 1956
 T “The Interpretation of Dreams in the Ancient Near East. With a Translation of an Assyrian Dream-Book”
 P *Transactions of the American Philosophical Society, New Series* 46/3, pp. 179-373
@@ -6,7 +6,7 @@ P *Transactions of the American Philosophical Society, New Series* 46/3, pp. 179
 @@@R
 SA mDP
 SD November 2020
-TO Assyrian Dream-Book; Appendices 10.4-6
+TO Assyrian Dream-Book; Appendix 10.4-6
 
 This publication offers the transliteration and English translation of some **Akkadian theophanic dreams** of the Neo-Assyrian period.
 

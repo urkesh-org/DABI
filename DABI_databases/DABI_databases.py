@@ -249,7 +249,7 @@ def parse_date(date):
             return datetime.strptime(date, '%d %B %Y').replace(hour=2)
 
 
-def parse_bibl(text, file_id, sites_abbr, settings, authorship_dict):
+def parse_bibl(text, file_id, sites_abbr, authorship_dict, md):
     """Parse a Database file, :return: Bibliography object."""
     bibliography = Bibliography(ID=file_id)
     notes = []
@@ -345,10 +345,9 @@ def parse_bibl(text, file_id, sites_abbr, settings, authorship_dict):
                 values = filter(None, map(str.strip, value.split('; ')))
                 if key == 'SA':  # convert abbreviations
                     values = [authorship_dict.get(SA, TextWithLink(SA)) for SA in values]
-                elif key == 'NR':
+                elif key == 'NR':  # (deprecated)
                     values = [TextWithLink(NR, link=f'Notes/{NR.split(".",1)[0].zfill(2)}.htm#{NR}') if NR[0].isdigit()
-                              else TextWithLink(NR) for NR in values]
-                    # ? convert [text](link)
+                              else TextWithLink(md.reset().convert(NR)[len('<p>'):-len('</p>')]) for NR in values]
                 getattr(bibliography.entries[-1], key).extend(values)
             
         elif block == 'notes':
@@ -372,14 +371,11 @@ def parse_bibl(text, file_id, sites_abbr, settings, authorship_dict):
                     values = [authorship_dict.get(NA, TextWithLink(NA)) for NA in values]
                 getattr(notes[-1], key).extend(values)
     
-    # Render Markdown in text, AU, T, P
-    _md = Markdown(**settings['MARKDOWN'])
-    _md.preprocessors.deregister('meta')  # no metadata extraction
-    
+    # render Markdown in text
     for bibliography_entry in bibliography.entries:
-        bibliography_entry.text = _md.convert(bibliography_entry.text)
+        bibliography_entry.text = md.reset().convert(bibliography_entry.text)
     for note in notes:
-        note.text = _md.convert(note.text)
+        note.text = md.reset().convert(note.text)
     
     if getattr(bibliography, 'entries'):  # if a summary is present
         # AU, T, Y are mandatory
@@ -387,9 +383,9 @@ def parse_bibl(text, file_id, sites_abbr, settings, authorship_dict):
         if missing:
             raise UserWarning(f'missing mandatory keys "{", ".join(missing)}"')
 
-        bibliography.AU = [_md.convert(AU)[len('<p>'):-len('</p>')] for AU in bibliography.AU]  # [len('<p>'):-len('</p>')]
-        bibliography.T = _md.convert(bibliography.T)
-        bibliography.P = _md.convert(bibliography.P)
+        bibliography.AU = [md.reset().convert(AU)[len('<p>'):-len('</p>')] for AU in bibliography.AU]  # [len('<p>'):-len('</p>')]
+        bibliography.T = md.reset().convert(bibliography.T)
+        bibliography.P = md.reset().convert(bibliography.P)
         
         # generate REF from ID
         if not bibliography.REF:
@@ -408,6 +404,8 @@ def parse_bibl(text, file_id, sites_abbr, settings, authorship_dict):
 def fetch_dabi_data(page_generator):
     """Read .d files, generate database_bibl, database_notes, database_topics"""
     settings = page_generator.settings  # Pelican settings
+    md = Markdown(**settings['MARKDOWN'])  # Markdown renderer
+    md.preprocessors.deregister('meta')  # no metadata extraction
     path = Path(settings.get('PATH')) / settings.get('DATABASES_PATH', '_databases/')
     bibl_dir = path / 'Bibliography'
     if not bibl_dir.is_dir():
@@ -433,7 +431,7 @@ def fetch_dabi_data(page_generator):
             
             try:
                 with file.open(mode='r', encoding='utf-8-sig') as handler:
-                    bibliography, notes = parse_bibl(handler.read(), file_id, sites_abbr, settings, authorship_dict)
+                    bibliography, notes = parse_bibl(handler.read(), file_id, sites_abbr, authorship_dict, md)
                     if bibliography:
                         if len(bibliography.entries) > 1 or len(bibliography.entries[0].sites) > 1:
                             # duplicate entries for each site

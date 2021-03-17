@@ -6,7 +6,7 @@ P in *Kaskal. Rivista di storia, ambienti e culture del Vicino Oriente Antico*, 
 @@@R
 SA gB
 SD July 2012
-TO body parts; symbolic associations; omen
+TO body parts; symbolic associations; omina
 
 A typological classification of the omina according to the **formal organization of body parts** in the malformed fetus reduces the entire corpus to five categories: malformation, absence, incompleteness, misplacement, excess.
 

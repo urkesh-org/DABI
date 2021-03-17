@@ -12,6 +12,8 @@ TO sage in Israel and Mesopotamia
 
 [This miscellanea collects many contributions describing **how sages where defined and perceived in ancient Israel**, and how they actually acted on a cultural, social and political level, presenting also a comparative approach on **ancient Mesopotamia**.]
 
+A further insight on this book offering passages (quoted *verbatim*) on specific topics, can be found on [Excerpts](http://4Banks.net/Mes-rel/Excerpts/Gammie1990Sage.htm). 
+
 
 
 

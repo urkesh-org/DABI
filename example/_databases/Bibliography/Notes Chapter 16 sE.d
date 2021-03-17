@@ -9,7 +9,7 @@ Similarly to what is stated by Buccellati in this paragraph, when dealing with r
 @NOTES R/16.5
 NA sE
 ND 9 November 2020
-TO Sumerian King List
+TO Sumerian King List (SKL)
 
 On the Sumerian King List, see {B}R/Marchesi2010SKL.
 
@@ -25,7 +25,7 @@ Besides the Sumerian King List discussed by Buccellati, another interesting exam
 @NOTES R/16.5
 NA sE
 ND 9 November 2020
-TO royal divinization
+TO divinized kings
 
 On the divination of the king in ancient Mesopotamia, see {B}R/Vidal2014Divinization (esp. p. 31: "divinization of the king was an exceptional ideological tool, always used with a political purpose") and {B}R/Brisch2013DivineKingship.
 On the priestly functions of Mesopotamian kings see {B}R/Glassner1993RoiPretre.

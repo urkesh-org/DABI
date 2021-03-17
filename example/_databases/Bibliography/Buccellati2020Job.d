@@ -7,7 +7,7 @@ P Eisenbrauns, University Park, Pennsylvania, pp. 386-407.
 @@@R
 SA jJL
 SD March 2020
-TO Tanakh; polytheism; monotheism; canon; Job; Ludlul
+TO Tanakh; polytheism; monotheism; canon; Job; Ludlul bel nemeqi
 
 The author interprets the book of Job as a four-part text that follows the **major divisions in the Tanakh**: chapters 1-2 echo Genesis; 3-27 engages an "ideological" versus a "prophetic" view of history; 28-31 is related to the Wisdom literature; and the remainder of Job regards revelation understood as a mystical encounter with the living God. "The adherence to the 'living' God means precisely this: that the heavens narrate the glory of the creator, but that the ultimate goal is neither the construct (the heavens) nor the narration (the books), but rather the constructor and the narrator."
 
@@ -21,6 +21,7 @@ In closing, Buccellati also proposes that the connection between **Job and Ludlu
 @NOTES R/12.3
 NA jJL
 ND March 2020
+TO Job
 
 While not common, there are examples of a "Job-like" personality in Babylonian texts too. ({B}R/Buccellati2020Job)
 
@@ -28,5 +29,6 @@ While not common, there are examples of a "Job-like" personality in Babylonian t
 @NOTES R/12.4
 NA jJL
 ND March 2020
+TO Job
 
 An extended meditation on the book of Job as a microcosm expressing the essence of the Tanakh, especially in the sense that a personal relationship with the Absolute is possible, can be found in ({B}R/Buccellati2020Job).

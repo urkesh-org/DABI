@@ -24,7 +24,7 @@ On **slavery**, note the nuances mentioned by Oppenheim: <<There are no laws kno
 @NOTES R/2.10
 NA jJL
 ND October 2020
-TO control, unpredictability
+TO control; unpredictability
 
 The opposition between systems of control that seek to domesticate the absolute, and the recognition of powerlessness in the face of an unpredictable absolute, underlies the argument of the entire present work. In the biblical world, the theme can be connected to the phrase the "**living God**" as referred to YHWH. The unpredictability of God is at the heart of more recent readings of the Bible. See for instance S. Kierkegaard and K. Barth.
 
@@ -49,4 +49,4 @@ NA jJL
 ND October 2020
 TO polytheism
 
-See {B}R/Bettini2014Elogio for a sympathetic reading of polytheism in the contemporary world.
+See {B}R/Bettini2014Polytheism for a sympathetic reading of polytheism in the contemporary world.

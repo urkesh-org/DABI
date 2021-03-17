@@ -25,6 +25,6 @@ On the issue of "presence" and how to detect it in Ancient Mesopotamia divinatio
 @NOTES R/7.10
 NA sE
 ND 19 October 2020
-TO *melammu*
+TO melammu (Akkadian)
 
 On the *melammu* in Akkadian literature (perceived as a manifestation of the Divine and a reflection of the perceived cosmic order) see also {B}R/Atac2007Melammu

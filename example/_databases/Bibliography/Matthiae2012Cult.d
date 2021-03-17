@@ -1,5 +1,5 @@
 AU Matthiae, Paolo
-Y 1998
+Y 2012
 T *L'Archeologie du Culte: Les Ancetres Royaux dans la Documentation Archeologique d'Ebla et les Temoignages Textuels d'Ougarit*
 P CRAI 2012, II (avril-juin), p. 951-992.
 
@@ -19,6 +19,8 @@ A third piece of evidence can be found in three tombs at Tell Mardikh (1850-1700
 Fourthly, three poetic fragments (KTU 1.20-22) dealing with the Rapi'uma are, in Matthaiae's estimation, to be understood as referring to divinized kings.
 
 Finally, a complex of buildings connect the temple of the god of the underworld, Rashap, to the sanctuary of divinized ancestors (1800-1600 BCE) entombed under the living quarters of the crown prince. Matthiae concludes that the "tradition of the divinization of dead kings and faith in the essential protection these divine beings offer the community of the living, the reigning household, and the whole of society, derive in Syria from the very beginnings of urban life", that is, around the second half of the third millenium BCE.
+
+[A critical review of this paper can be found in [Matthiae 2012](https://4banks.net/Mes-rel/synopses/Matthiae2012.htm).]
 
 [A wider discussion on cultic rituals at Ebla can be found in [*Cultic Rituals at Ebla*](http://4Banks.net/Mes-rel/TEMI/Rituals_Ebla_mDP.htm).]
 

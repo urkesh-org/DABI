@@ -6,7 +6,7 @@ P Baghdader Forschungen 16. Verlag Ph. von Zabern: Mainz.
 @@@ R
 SA sE
 SD November 2020
-TO akitu; procession
+TO akitu; processions
 
 The volume aims to analyse the topography of the city in first-millennium BCE Mesopotamia of the first millennium, in the light - and in function of - the main rituals of the time, which were carried out also due to their being often representations of mythological events. The author examines with particular accuracy the documentation related to the akitu festival, not only because it is the most documented event, but also because it is the richest in mythical content. The author's examination is constantly conducted with reference to both the Babylonian and Assyrian cultures: differentiations linked to the specific political-religious background of the two geographical areas are duly highlighted.
 

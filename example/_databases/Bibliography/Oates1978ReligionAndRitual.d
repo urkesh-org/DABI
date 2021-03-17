@@ -8,7 +8,7 @@ P *World Archaeology* 10/2 [*Archaeology and Religion*], pp. 117-124
 SA mDP
 SD March 2020
 NR 1.1; 6.2; 13.1; 13.14; 22.8 
-TO religion; ritual; burial practices; clay figurines; Mother Goddesses; fertility figures; ethnographical parallels
+TO religion; ritual; burial customs; clay figurines; Mother goddesses; fertility figures; ethnographical parallels
 
 This paper deals with the two basic concepts of **religion and ritual**, underlining the reciprocal relation between the two entities. Religion is here defined as “a major 'prime mover' in the rise of civilized societies” (p. 117).
 

@@ -7,7 +7,7 @@ P online publication
 @@@R
 SA mDP
 SD September 2020
-TO gestures of prayer
+TO gestures
 
 <<Prayer, including praise as well as supplication, tends to be understood as the offering up of words that are enunciated and heard. However, prayer also has an important visual component, especially in the context of the temple, where ritual actions are a focus. The quintessential type of **gesture associated with prayer** in the ancient world was the lifting of the hands, a visual sign that accompanied verbal expressions of praise and entreaty>> (from author’s incipit).
 

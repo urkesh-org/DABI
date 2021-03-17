@@ -1,7 +1,7 @@
 ﻿@NOTES R/12.2
 NA sE
 ND 1 November 2020
-TO Wisdom; literature
+TO wisdom
 
 For a comparison of wisdom texts in Ancient Mesopotamia and Ancient Greece, see {B}R/Johnston2019Knowledge.
 

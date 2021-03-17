@@ -1,0 +1,16 @@
+﻿AU Pongratz-Leisten, Beate, and Sonik, Karen
+Y 2015
+T *The Materiality of Divine Agency*
+P Studies in Ancient Near Eastern Records 8, Berlin and Boston: De Gruyter.
+
+
+@@@ R
+SA sE
+SD January 2021
+TO divine agency; anthropomorphism
+
+<br><br>The seven contributions gathered in the present volume, which emphasize but are not limited to case studies on the ancient Near East, are intended to address key research questions in the religious and anthropological fields, including the **relationship between the divine and its material presence**, the "production" of the divine presence and its **agency**, visual representation of the divine and **anthropomorphism**. The book is divided in three parts. <br><br>
+Part I is dedicated to "The material divine: Anthropomorphism, animation, and agency in cross-cultural perspective" and it is introduced by a paper written by the two editors in which they treat the conceptualization of the terms 'divine', 'sacred', and 'presence', and discuss the animating of divine images and presencing of the divine. Then, a contribution from C. Walker Bynum offers a critical assessment of generalized cognitive models of and explanations for the anthropomorphizing and animation of holy things, taking the Christian Eucharist during the later Middle Ages in Europe as a case study.<br><br>
+Parts II shifts the focus on "Divine materials, materiality, and materialization in Mesopotamia". The contribution by K. Benzel explores both the inherent properties and attributed qualities of materials such as gold and silver, which in ancient Mesopotamia could actively produce or create - rather than merely reflect or reproduce - the divine. Taking first millennium BC texts that describe divine bodies and body parts as case study, Pongratz-Leisten's paper explores the attribution of composite anthropomorphic forms to deities as a means of articulating the power of unified divine agency. K. Sonik examines in her contribution the construction of the anthropomorphic divine body in Mesopotamia and the implications and associations of physical and behavioral anthropomorphism.<br><br>
+In Part III of the volume, the contributions explore "Visual and auditory engagement with the divine and divine agents in the ancient Near East". D.E. Fleming, taking the zukru festival in the city of Emar as his case study, examines the non-verbal communication established between worshipers and the god Dagan. A.-C. Rendu-Loisel analyzes exorcistic rituals from the first millennium BC, focusing on the element of noise and discussing how divine or supernatural presence could be produced or rendered tangible.<br><br>
+Overall, the volume provides significant insights from the disciplines of anthropology, archaeology, art history, and sociology inside the scope of ancient Near Eastern studies. Its seven contributions offer an interesting spectrum of investigations on **materiality and divine agency**, mostly (though not exclusively) from the perspective of ancient Mesopotamia studies.

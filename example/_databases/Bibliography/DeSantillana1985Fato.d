@@ -7,7 +7,7 @@ P Milano: Adelphi
 SA gB
 SD July 2012
 
-http://cartescoperterecensionietesti.blogspot.it/2008/06/giorgio-de-santillana-fato-antico-e.html
+An interesting review of De Santillana's work on fate, focused on the question of human freedom, is [here](http://cartescoperterecensionietesti.blogspot.it/2008/06/giorgio-de-santillana-fato-antico-e.html)
 
 
 @NOTES R/5.3

@@ -7,7 +7,7 @@ P in Durand, Jean-Marie; Marti, Lionel; R&ouml;mer, Thomas (eds.) *Col&egrave;re
 SA jJL
 SD April 2020
 NR 6.3
-TO Divine wrath; Warrior god
+TO divine wrath; warrior god
 
 This article investigates different manifestations of the **divine wrath** in the Hebrew Bible. **God’s anger seems to be at the origin of his name**, according to Wellhausen, deriving this conclusion from the root “h-w-h”. It would be fitting, then, that a god of the tempest would be named Yhwh.
 

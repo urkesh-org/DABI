@@ -10,3 +10,9 @@ SD July 2013
 A description of cultural elements that connect Urkesh with the northerly regions, including the original publication of seal A15.270, used as an illustration on the cover of the Italian edition of "*Quando in alto i cieli...*". See the full text in the [Urkesh website](urkesh.org).
 
 ;the direct link to the article is not working, so I put a simple generic reference to Urkesh.org
+
+@NOTES R/13.11
+NA jJL
+ND January 2021
+
+See {B}R/Kelly-Buccellati2005Urkesh for an examination of the seal used as a cover for the Italian publication of *Quando in alto i cieli...*.

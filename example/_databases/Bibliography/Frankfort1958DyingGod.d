@@ -1,4 +1,4 @@
-AU Frankfort, Henry
+AU Frankfort, Henri
 Y 1958
 T "The Dying God"
 P *Journal of the Warburg and Courtauld Institutes* 21, No. 3/4, pp. 141-151.
@@ -6,7 +6,7 @@ P *Journal of the Warburg and Courtauld Institutes* 21, No. 3/4, pp. 141-151.
 @@@ R
 SA sE
 SD October 2020
-TO dying god; myths; comparative approach
+TO dying god; myths; comparative method
 
 This paper provides evidence of the inaugural lecture given by Frankfort as Director of the Warburg Institute and Professor of the History of Pre-Classical Antiquity in the University of London (in 1949). Frankfort selected the topic of the figure of the "dying god" as case-study aimed at investigating the relations between the Greeks and their predecessors in and around the Eastern Mediterranean. He believed that <<the variations in the cults and myths of this god are a good illustration of the extraordinary complexity which the problem of the survival of cultural forms may assume>> (p. 141).
 

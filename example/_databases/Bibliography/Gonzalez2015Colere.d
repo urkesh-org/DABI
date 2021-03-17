@@ -15,7 +15,7 @@ TO divine wrath
 @NOTES R/8.5
 NA jJL
 ND April 2020
-TO prophet; institution
+TO prophets; institution
 
 In the biblical perspective, divine wrath is the consequence of an opposition between two wills. For Gonzalez, it also has a pedagogical meaning:  {B}R/Gonzalez2015Colere.
 
@@ -23,6 +23,6 @@ In the biblical perspective, divine wrath is the consequence of an opposition be
 @NOTES R/10.5
 NA jJL
 ND April 2020
-TO prophet; institution
+TO prophets; institution
 
 The prophet contributes to conserving and building the institutions, even when he finds himself criticizing their failings. See: {B}R/Gonzalez2015Colere.

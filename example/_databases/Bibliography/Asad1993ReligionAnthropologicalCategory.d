@@ -3,8 +3,7 @@ Y 1993
 T "The Construction of Religion as an Anthropological Category"
 P *Genealogies of Religion: Discipline and Reasons of Power in Christianity and Islam*, Baltimore: Johns Hopkins University Press, pp. 27-54.
 
-
-@@@ R
+@@@R
 SA sE
 SD July 2020
 TO definition of religion; Geertz
@@ -15,3 +14,10 @@ Asad challenges the category of belief and of religion itself. The author reject
 He therefore analyses Geertz's definition of religion to prove that <<a transhistorical definition of religion is not viable.>> Asad sees the end of the eighteenth century as the moment in which the very idea that religion is essentially a matter of symbolic meanings linked to ideas of general order (expressed through either or both rite and doctrine) ultimately arose as part of the Christian history. In his own words, from Kant onwards <<From being a concrete set of practical rules attached to specific processes of power and knowledge, religion has come to be abstracted and universalized.>>
 
 Asad ultimately maintains that <<Geertz's treatment of religious belief, which lies at the core of his conception of religion, is a modern, privatized Christian one because and to the extent that it emphasizes the priority of belief as a state of mind rather than as constituting activity in the world.>>
+
+
+@NOTES R/1.1
+NA jJL
+ND January 2021
+
+For a critical perspective, which challenges definitions of religion such as the one proposed by Buccellati, see {B}R/Asad1993ReligionAnthropologicalCategory.

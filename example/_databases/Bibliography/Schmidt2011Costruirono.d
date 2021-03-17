@@ -7,7 +7,7 @@ P [Original German version: Schmidt, Klaus 2007, *Sie bauten die ersten Tempel*,
 @@@R
 SA mDP
 SD June 2020
-TO emergence of religious/spiritual thought; Anatolia; prehistory; cultic activities; ancestor cult; funerary practices; totemic/shamanic beliefs 
+TO emergence of religious thought; Anatolia; prehistory; cultic activities; ancestor cults; funerary practices; totemic/shamanic beliefs 
 
 This volume, written by [Klaus Schmidt](https://en.wikipedia.org/wiki/Klaus_Schmidt_(archaeologist)), director of excavations at [**Göbekli Tepe**](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe) (cf. [DAINST](https://www.dainst.org/projekt/-/project-display/21890)) from 1996 to 2014, describes the discovery of this ancient prehistorical site in South-Eastern Anatolia, comparing it with other similar structures or with different archaeological sites in other country of the Middle-Near East. 
 

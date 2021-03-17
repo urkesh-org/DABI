@@ -6,7 +6,7 @@ P *World Archaeology* 10/2 [*Archaeology and Religion*], pp. 117-124
 @@@R
 SA mDP
 SD April 2020
-TO religion; rituals; ‘prime mover’; ‘Mother Goddesses’; magic; burial practices; clay figurines; *andirons*
+TO religion; rituals; prime mover; Mother goddesses; magic; burial customs; clay figurines; andirons
 
 This paper deals with the basic concepts of **religion** and **ritual**, underlining the reciprocal relation between the two entities. Religion is here specifically defined as <<a major **‘prime mover’** in the rise of civilized societies>> (p. 117). 
 

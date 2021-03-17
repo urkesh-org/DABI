@@ -6,7 +6,7 @@ P *Journal of the American Oriental Society* 123/2, pp. 291-302
 @@@R
 SA mDP
 SD November 2020
-TO sacred marriage; political legitimation 
+TO sacred marriage; political legitimation; politics and religion 
 
 <<The sacred marriage ceremony from ancient Mesopotamia is one of the most dramatic ways of conceptualizing the relationship between king and gods known from the ancient world. According to a number of literary texts, kings from the late third and early second millennia -- and perhaps even earlier -- consummated a ritual union with Inanna, the goddess of love and war. Given the literary nature of our evidence, this ceremony may have been only an intellectual construct, rather than an event in real life. Irrespective of this, however, it remains a major source, not only for early Mesopotamian religious thought in general, but for ideas of kingship in particular>> (p. 291).
 

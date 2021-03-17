@@ -5,7 +5,7 @@ T I And Thou
 @@@R
 SA jJL
 SD April 2020
-TO relationship; God; Mysticism; I; prayer; magic; intuition; monotheism; transcendence; diffuse transcendence; absolute transcendence
+TO relationship; God; mysticism; I; prayer; magic; intuition; monotheism; transcendence; diffuse transcendence; absolute transcendence
 
 Written when Buber was 45, *I and Thou* explores human existence through the lens of three nouns, I, it, and Thou, which in Buber's view form **two essential kinds of relationships**. Buber asserts that the <<I – it>> relationship pertains to the world of things, techniques, power, objectivity, and the <<I – Thou>> relationship pertains to the world of persons. <<The primary word I – Thou can only be spoken with the whole being. The primary word I – it can never be spoken with the whole being.>> (p. 3)
 Human life is twofold, and Buber clarifies that he does not mean to disparage the objective, <<I – it>> relationships that make up much of the life and activity of humans. But the <<I>> in relation to objects is not the same as the <<I>> that relates to persons. <<When Thou is spoken, the speaker has no thing for his object.>> (p. 4) Buber struggles with words in order to present a rich distinction between objects and the <<mysticism of presence>> of the <<Thou>>, and to insist upon the incommensurable value of a person. Famously, he wrote that <<all real living is meeting>>. 

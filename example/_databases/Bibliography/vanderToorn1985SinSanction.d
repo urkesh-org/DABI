@@ -7,7 +7,7 @@ P Studia Semitica Neerlandica 22. Assen: Van Gorcum.
 @@@ R
 SA sE
 SD October 2020
-TO prayers; sin; divine punishment; ethics
+TO prayer; sin; divine punishment; ethics
 
 The author's stated goal for this book is to investigate Israelite and Mesopotamian penitential prayer (called *šig?* and *dingiršadibba*). In doing this, however, van der Toorn undertakes an investigation of the moral world-view of each culture in which the prayers were recited, using a comparative approach between Israel and Mesopotamia.
 

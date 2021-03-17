@@ -7,7 +7,7 @@ P in Goedicke and Roberts, *Unity and Diversity*
 SA jJL
 SD March 2020
 NR 12.4
-TO Similarities Between Monotheism and Polytheism
+TO monotheism; polytheism; monotheism and polytheism, similarities
 
 This article is concerned with **relativizing the differences between Israelite and Mesopotamian religious practices**, in contrast to G. E. Wright’s affirmation of the distinctiveness of Israelite faith. 
 

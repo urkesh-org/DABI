@@ -7,7 +7,7 @@ P Brill
 @@@R
 SA iN
 SD October 2020
-TO sacred space; dur-an-ki; hierophany; center/periphery 
+TO sacred space; dur-an-ki (Sumerian); hierophany; center/periphery 
 
 This article explores the opposing viewpoints of Eliade and Smith with respect to the concept of sacred space and positionality. Kang identifies areas of scholarly contention surrounding the **dichotomy between center and periphery**, challenging Eliade's assertions that religious institutions are centered and therefore sacred, rendering peripheral areas as profane, chaotic and even meaningless. The concept of **dur-an-ki** is examined as, from Eliade's point of view, the point of intersection between cosmic realms, or as the "navel" or point of union/separation. Smith challenges Eliade's notions of centrality by questioning the validity of his interpretations and provides insight from leading Assyriologists. 
 

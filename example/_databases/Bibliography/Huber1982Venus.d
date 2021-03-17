@@ -7,7 +7,7 @@ P Malibu, Undena Publications
 @@@R
 SA mDP
 SD November 2020
-TO Venus Tablets
+TO Venus tablets
 
 <<We undertake e comprehensive effort to establish the absolute chronology of the First Dynasty of Babylon and of Ur III by reexamining the Venus Tablet data and by cross-checking with extensive contemporary month-length data. The presently available evidence heavily favors the Long Chronology, with Ammisaduqa year 1 beginning in -1701 = 1702 B.C.; the most likely beginning for Amarsin year 1 is -2093>> (authors’ abstract on p. 1).
 

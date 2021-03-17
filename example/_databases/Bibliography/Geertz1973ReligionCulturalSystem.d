@@ -3,11 +3,10 @@ Y 1973
 T "Religion as a Cultural System"
 P *The Interpretation of Cultures. Selected Essays by Clifford Geertz*, New York: Basic Books, pp. 87-125.
 
-@@@ R
+@@@R
 SA sE
 SD July 2020
 TO definition of religion; symbols; rituals
-
 
 In this contribution, Geertz aims to define religion from a cultural standpoint. Thus, he provides at first his definition of "culture" and "religion" - the first being <<an historically transmitted pattern of meanings embodied in symbols, a system of inherited conceptions expressed in symbolic forms by means of which men communicate, perpetuate, and develop their knowledge about and attitudes toward life>> (p. 89). Religion is then defined as **<<(1) a system of symbols which acts to (2) establish powerful, pervasive, and long-lasting moods and motivations in men by (3) formulating conceptions of a general order of existence and (4) clothing these conceptions with such an aura of factuality that (5) the moods and motivations seem uniquely realistic>>** (p. 90).
 At the core of this definition is the idea that religion consists of a set of interrelated (elsewhere referred to as "sacred") symbols that fuse an ethos, i.e. a set of <<powerful, pervasive, and long-lasting moods and motivations>>, with a world view, i.e., a set of <<conceptions of a general order of existence>>.
@@ -19,3 +18,10 @@ Geertz also provides a definition for ritual: **<<a consecrated behavior>>** in 
 Finally, Geertz highlights how <<religion is sociologically interesting not because it describes the social order, but because, like environment, political power, wealth, jural obligation, personal affection, and a sense of beauty, it shapes it>> (p. 119).
 
 [20 years after the publication of this volume, Geertz's view has been challenged by Asad in his article "The Construction of Religion as an Anthropological Category" ({B}R/Asad1993ReligionAnthropologicalCategory)]
+
+
+@NOTES R/2.1
+NA jJL
+ND January 2021
+
+See {B}R/Geertz1973ReligionCulturalSystem for an influential interpretation of religion, distinct from Buccellati's. 
