@@ -1,4 +1,4 @@
-﻿AU Frahm, Eckart
+AU Frahm, Eckart
 Y 2011
 T *Babylonian and Assyrian Text Commentaries: Origins of Interpretation* 
 P Guides to the Mesopotamian Textual Record 5
@@ -7,6 +7,7 @@ P Münster: Ugarit-Verlag
 @@@R
 SA mDP
 SD November 2020
+NR [Excerpts](https://4banks.net/Mes-Rel/Excerpts/Frahm2011Commentaries.htm)
 TO Babylonian and Assyrian text commentaries 
 
 <<This book provides a new introduction to the **text commentaries from Babylonia and Assyria**. It first describes the Mesopotamian philological and divinatory traditions from which the commentaries emerged […], then discusses their temporal and geographic distribution […], and in the following chapters deals with their typology […], hermeneutical techniques […], and sources>> (p. 6)

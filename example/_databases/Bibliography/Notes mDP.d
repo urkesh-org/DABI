@@ -2984,7 +2984,7 @@ Cf. also the project [“Studies in Ancient Mesopotamian Witchcraft Beliefs: Cor
 @NOTES R/13.9
 NA mDP
 ND 05 September 2020
-TO kišpū (Akkadian)
+TO ki&#353;p&#363 (Akkadian)
 
 For the Akkadian term ***kišpū***, ‘witchcraft’, see [CAD 8 = K, pp. 454-456](http://4Banks.net/Mes-rel/PDF/CAD8_454-456.pdf).
 
@@ -5130,7 +5130,7 @@ For **Utnapishtim**, see *supra* {N}R/7.8.
 @NOTES R/22.8
 NA mDP
 ND 25 October 2020
-TO kispu (Akkadian)
+TO ki&#353;p&#363 (Akkadian)
 
 For the Akkadian term ***kispu***, ‘funeral banquet’, see [CAD 8 = K, pp. 425-427](http://4Banks.net/Mes-rel/PDF/CAD8_425-427.pdf).
 

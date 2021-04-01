@@ -79,12 +79,13 @@ table.bibliography tr.bibl-entry td {
 
 .octicon-link {
     visibility: hidden;
+    transition: visibility 0.5s;
     position: relative;
     left: -6px;
     margin: 0 -16px -16px -32px;
     padding: 0 16px 16px 16px; }
 table.bibliography tr:hover .octicon-link {
-    visibility: visible; }
+    visibility: visible; transition-duration: 0s; }
 
 
 

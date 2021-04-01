@@ -6,7 +6,7 @@ P *Studi Micenei ed Egeo-Anatolici* 47, pp. 27-59
 @@@R
 SA mDP
 SD April 2020
-TO Hurrian religious practices; Urkesh; Temple BA; ābi; necromantic structure; KASKAL.KUR; Kumarbi; kispum; secondary burials
+TO Hurrian religious practices; Urkesh; Temple BA; ābi; necromantic structure; KASKAL.KUR; Kumarbi; ki&#353;p&#363 (Akkadian); secondary burials
 
 The focus of this contribution is firstly on the peculiar role of [**Urkesh**](http://urkesh.org) (from, at least, the third millennium BC) as a **Hurrian religious centre**. 
 

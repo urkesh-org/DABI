@@ -6,6 +6,7 @@ P Cambridge: Cambridge University Press
 @@@R
 SA mDP
 SD July 2020
+NR [Excerpts](https://4banks.net/Mes-Rel/Excerpts/Cauvin2000Birth.htm)
 TO prehistory; emergence of religious thought
 
 <<Jacques Cauvin has spent many years researching the beginnings of the Neolithic in the Near East, excavating key sites and developing new ideas to explain the hugely significant cultural, social and economic changes which transformed mobile hunter-gatherers into the first village societies and farmers in the world. In this book, first published in 2000, the synthesis of his mature understanding of the process beginning around 14,000 years ago challenges ecological and materialist interpretations, arguing for a quite different kind of understanding influenced by ideas of structuralist archaeologists and members of the French Annales school of historians. Defining the Neolithic Revolution as essentially a restructuring of the human mentality, expressed in terms of new religious ideas and symbols, the survey ends around nine thousand years ago, when the developed religious ideology, the social practice of village life and the economy of mixed farming had become established throughout the Near East and east Mediterranean, and spreading powerfully into Europe>> (description on [editor’s webpage](https://www.cambridge.org/it/academic/subjects/archaeology/ancient-near-east1/birth-gods-and-origins-agriculture?format=HB&isbn=9780521651356#description)).

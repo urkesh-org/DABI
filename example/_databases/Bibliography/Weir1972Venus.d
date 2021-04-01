@@ -1,7 +1,7 @@
 ﻿AU Weir, John D.
 Y 1972
 T *The Venus Tablets of Ammizaduga*
-P [Uitgaven van het Nederlands Historisch-Archaeologisch Instituut te Istanbul/PIHANS 29] (http://www.nino-leiden.nl/publication/the-venus-tablets-of-ammizaduga)
+P [Uitgaven van het Nederlands Historisch-Archaeologisch Instituut te Istanbul/PIHANS 29](http://www.nino-leiden.nl/publication/the-venus-tablets-of-ammizaduga)
 P Istanbul: Nederlands Historisch-Archaelogisch Instituut in the Nabije Oosten
 
 @@@R

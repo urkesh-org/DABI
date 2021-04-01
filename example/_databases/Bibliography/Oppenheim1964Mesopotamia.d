@@ -6,6 +6,7 @@ P Chicago-London: The University of Chicago Press
 @@@R
 SA mDP
 SD May 2020
+NR [Excerpts](https://4banks.net/Mes-Rel/Excerpts/Oppenheim1964Portrait.htm)
 TO Mesopotamian religion; rituality; exorcisms; omina; mythology; spirits; divination; magic
 
 This masterpiece in the introduction to Near Eastern culture, and specifically to Babylonian culture, devotes chapter 4 to the topic of **religion** and **rituality** in the ancient Mesopotamian world. 

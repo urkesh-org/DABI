@@ -7,6 +7,7 @@ P Roma-Bari: Laterza, pp. 1-55
 @@@R
 SA mDP
 SD June 2020
+NR [Excerpts](https://4banks.net/Mes-Rel/Excerpts/Brelich1976Prolegomeni.htm)
 TO comparative history of religions; religion; sacred; sacralization; religious beliefs; methodology; cultural tradition; nature; myths; cult; rituals; taboo; sacrifices 
 
 This introduction to the volume *Storia delle religioni. I. L’Oriente e l’Europa nell’antichità. Tomo primo*, focuses on the definition of some basic aspects of the methodology behind a scientific **comparative history comparison of religions**. 

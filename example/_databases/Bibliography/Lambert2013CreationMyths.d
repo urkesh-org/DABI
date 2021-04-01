@@ -6,6 +6,7 @@ P (Mesopotamian Civilization 16), Winona Lake: Eisenbrauns.
 @@@ R
 SA sE
 SD July 2020
+NR [Excerpts](https://4banks.net/Mes-Rel/Excerpts/Lambert2013Creation.htm)
 TO destiny; fate; creation; cosmology; divine order; literature; myths
 
 

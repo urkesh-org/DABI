@@ -6,6 +6,7 @@ P Chicago & London: The University of Chicago Press
 @@@R
 SA mDP
 SD December 2020
+NR [Excerpts](https://4banks.net/Mes-Rel/Excerpts/Bottero1992Writing.htm)
 TO Mesopotamian reasoning
 
 <<Our ancestors, the Mesopotamians, invented writing and with it a new way of looking at the world. In this collection of essays, the French scholar Jean Bottéro attempts to go back to the moment which marks the very beginning of history. To give the reader some sense of how Mesopotamian civilization has been mediated and interpreted in its transmission through time, Bottéro begins with an account of Assyriology, the discipline devoted to the ancient culture. This transmission, compounded with countless discoveries, would not have been possible without the surprising decipherment of the cuneiform writing system. Bottéro also focuses on divination in the ancient world, contending that certain modes of worship in Mesopotamia, in their application of causality and proof, prefigure the “scientific mind”.>> (from [editor’s webpage](https://press.uchicago.edu/ucp/books/book/chicago/M/bo3684684.html)).
