@@ -70,6 +70,7 @@ For metadata and codes documentation see `example/_databases/_README_Bibliograph
 ## Authors
 
 * **Bernardo Forni** - [fornib](https://github.com/fornib)
+* **Nizar Mohammad**
 
 
 ## Licensing
