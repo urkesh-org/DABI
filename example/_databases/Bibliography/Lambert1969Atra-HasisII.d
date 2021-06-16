@@ -1,4 +1,4 @@
-AU Lambert, W.G.
+AU Lambert, Wilfred G.
 Y 1969
 T "New Evidence for the First Line of *Atra-has&#299;s*"
 P *Or.* NS 38 (1969) 533-38.

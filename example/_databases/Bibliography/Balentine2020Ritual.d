@@ -6,6 +6,7 @@ P New York: Oxford University Press
 @@@R
 SA mDP
 SD February 2021
+NR [Excerpts](https://4banks.net/Mes-Rel/Excerpts/Balentine2020Ritual.htm)
 TO rituals
 
 This handbook contains many references to many **ritual practices** attested in the Bible, compared with similar or antithetic ritual traditions in the Ancient Near East.

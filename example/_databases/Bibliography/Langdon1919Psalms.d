@@ -1,6 +1,6 @@
 ﻿AU Langdon, Stephen 
 Y 1919 
-T *Sumerian Liturgies and Psalms*
+T [*Sumerian Liturgies and Psalms*](http://www.etana.org/sites/default/files/coretexts/14911.pdf)
 P University of Pennsylvania, The University Museum: Publications of the Babylonian Section 10/4
 P Philadelphia: The University Museum
 

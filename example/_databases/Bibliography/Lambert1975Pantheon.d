@@ -1,7 +1,8 @@
-AU Lambert, W.G. 
+AU Lambert, Wilfred G.
 Y 1975
-T The Historical Development of the Mesopotamian Pantheon: A Study in Sophisticated Polytheism
-P in Goedicke and Roberts, *Unity and Diversity*
+T "The Historical Development of the Mesopotamian Pantheon: A Study in Sophisticated Polytheism"
+P in Goedicke, Hans and Roberts, J.J.M. (eds), *Unity in Diversity: Essays in the History, Literature, and Religion of the Ancient Near East*
+P Baltimore: Johns Hopkins University Press, pp. 191-200 
 
 @@@R
 SA jJL
@@ -12,11 +13,14 @@ This article documents the development of several strands of Mesopotamian **poly
 
 However, this list represents only one opinion in the ancient world, one which did not win out in the end. According to Lambert, <<while the attempts to tidy up a host of minor gods and overlapping among the bigger ones were commendable, this was not enough to adjust a sophisticated polytheism to the reality of nature. And the one attempt to see all power in the hands of one god, Marduk, though now vindicated in principle by a scientific understanding of the workings of the universe, did not win the support which it deserved.>> (p. 199). 
 
+
 @NOTES R/3.6
 NA jJL
 ND March 2020
+TO attributes
 
 Buccellati affirms that each divinity exhausts an attribute.
+
 
 @NOTES R/8.6
 NA jJL
@@ -24,6 +28,7 @@ ND March 2020
 TO angels; demons
 
 Lambert’s treatment of **angels**/**demons**, which do admit of **monotheism** in the Christian understanding of the term, is at odds with [Smith 2001]({B}R/Smith2001Origins).
+
 
 @NOTES R/17.4
 NA jJL

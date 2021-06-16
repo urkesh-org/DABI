@@ -1,6 +1,6 @@
 ﻿AU Kelly-Buccellati, Marilyn
 Y 2002
-T "Ein hurritischer Gang in die Unterwelt"
+T ["Ein hurritischer Gang in die Unterwelt"](http://4Banks.net/Mes-rel/PDF/KellyBuccellati2002.pdf)
 P *Mitteilungen der Deutschen Orient-Gesellschaft zu Berlin* 134, pp. 131-148
 
 @@@R
@@ -20,7 +20,7 @@ After a general introduction to the topic, *paragraph 2* describes the structure
 
 *Paragraph 5* investigates the **historical meaning of the rituals** performed in the *ābi*: **necromantic practices** are attested in Mesopotamian and Anatolian sources (and in the Bible, too) and similar cultic activities were acted in the area of the *ābi* (also including the mudbrick platform in Area X, for which see e.g. [Buccellati 2005](http://urkesh.org/EL-MZ/Buccellati_2005_Monumental_Urban_Complex_-_SCCNH_15.pdf)) to worship **chthonian deities**: thus, the **triple equation Area A12 = *ābi* = KASKAL.KUR**, as a **passage to the Netherworld** seems to be validated by both textual and archaeological evidence.
 
-PDf available [here](http://4Banks.net/Mes-rel/PDF/KellyBuccellati2002.pdf)
+PDF available [here](http://4Banks.net/Mes-rel/PDF/KellyBuccellati2002.pdf)
 
 
 @NOTES R/11.7

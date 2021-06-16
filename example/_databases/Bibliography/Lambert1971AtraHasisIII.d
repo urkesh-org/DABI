@@ -1,4 +1,4 @@
-AU Lambert, W.G.
+AU Lambert, Wilfred G.
 Y 1971
 T "Critical Notes on Recent Publications: III. Further Comments on the Interpretation of Atra-has&#299;s"
 P *Or.* NS 40 (1971) 95-98.

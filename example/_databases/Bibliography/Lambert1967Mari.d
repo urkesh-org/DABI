@@ -1,4 +1,4 @@
-AU Lambert, W.G.
+AU Lambert, Wilfred G.
 Y 1967
 T "The Language of Mari,"
 P  in J.R. KUPPER (ed.), *La Civilisation de Mari*, *RAI* XV, Paris 1967, 29-38.

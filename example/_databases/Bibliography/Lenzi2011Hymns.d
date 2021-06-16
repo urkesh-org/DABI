@@ -1,6 +1,6 @@
 ﻿AU Lenzi, Alan 
 Y 2011
-T *Reading Akkadian Prayers and Hymns. An Introduction*
+T [*Reading Akkadian Prayers and Hymns. An Introduction*](https://repositorio.uca.edu.ar/bitstream/123456789/8016/1/reading-akkadian-prayers-hymns-introduction.pdf)
 P Ancient Near East Monographs 3
 P Atlanta: Society of Biblical Literature 
 
@@ -13,7 +13,7 @@ After a theoretical discussion about the very concept of prayer in Mesopotamia, 
 
 [The book represents a useful source for a comparison between Mesopotamian prayers and Biblical texts, specifically with the *Psalter*.]
 
-PDF available [here](https://repositorio.uca.edu.ar/bitstream/123456789/8016/1/reading-akkadian-prayers-hymns-introduction.pdf).
+PDF available [here](https://repositorio.uca.edu.ar/bitstream/123456789/8016/1/reading-akkadian-prayers-hymns-introduction.pdf)
 
 
 

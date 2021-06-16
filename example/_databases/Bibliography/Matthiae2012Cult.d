@@ -22,8 +22,9 @@ Finally, a complex of buildings connect the temple of the god of the underworld,
 
 [A critical review of this paper can be found in [Matthiae 2012](https://4banks.net/Mes-rel/synopses/Matthiae2012.htm).]
 
-[A wider discussion on cultic rituals at Ebla can be found in [*Cultic Rituals at Ebla*](http://4Banks.net/Mes-rel/TEMI/Rituals_Ebla_mDP.htm).]
+[A wider discussion on cultic rituals at Ebla can be found in [*Rituals in the Ancient Near East and Israel*](https://4banks.net/Mes-rel/temi/Rituals.htm#Ebla).]
 
+PDF available [here](https://www.persee.fr/doc/crai_0065-0536_2012_num_156_2_93591)
 
 @NOTES R/6.4
 NA jJL

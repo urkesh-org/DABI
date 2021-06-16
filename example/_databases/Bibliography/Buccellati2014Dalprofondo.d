@@ -8,6 +8,7 @@ P [Arabic version](http://urkesh.org/pages/911-profondo-arabic.htm)
 @@@R
 SA mDP
 SD December 2020
+NR [Excerpts](http://4Banks.net/Mes-rel/Excerpts/Buccellati2014Dalprofondo.htm)
 TO calendars; necromancy; religious thought
 
 After a foreword (by Marilyn Kelly-Buccellati) and an introduction by the author, the book is divided into 4 chapters, dealing with topics about [Urkesh/Tell Mozan](http://urkesh.org/) and another site in Georgia, namely Dmanisi.
@@ -18,24 +19,9 @@ Chapter 3 deals with some aspects on these first community of hominids (around 3
 
 Moreover, the last part of Chapter 4 particularly focuses on the so-called **‘necromantic pit’** discovered at [Urkesh/Tell Mozan](http://urkesh.org/), known as ***âbi*** in the Hurrian language.
 
-PDF available [here](http://urkesh.org/attach/GBDalProfondo.pdf)
+PDF (Italian version) available [here](http://urkesh.org/attach/GBDalProfondo.pdf)
+
 PDF (Arabic version) available [here](http://urkesh.org/EL-MZ/Buccellati_2016_Catalogo_Siria_2014_Arabo%20OPTIMIZED.pdf)
-
-
-@NOTES R/6.2
-NA mDP
-ND 19 August 2020
-TO emergence of religious thought 
-
-For the **emergence of religious thought** in prehistoric times (in Georgia, Dmanisi), see e.g. {B}R/Buccellati2014Dalprofondo. 
-
-
-@NOTES R/8.6
-NA mDP
-ND 19 August 2020
-TO necromancy; Urkesh 
-
-For necromantic practices at [Urkesh/Tell Mozan](http://urkesh.org/) related to the **‘necromantic pit’** known as ***âbi***, see {B}R/Buccellati2014Dalprofondo. 
 
 
 

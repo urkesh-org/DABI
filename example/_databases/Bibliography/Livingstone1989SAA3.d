@@ -1,6 +1,6 @@
 AU Livingstone, Alasdair (ed.) 
 Y 1989
-T *State Archives of Assyria 3: Court Poetry and Literary Miscellanea* 
+T [*State Archives of Assyria 3: Court Poetry and Literary Miscellanea*](http://oracc.museum.upenn.edu/saao/corpus) 
 P Helsinki: Helsinki University Press
 
 @@@R

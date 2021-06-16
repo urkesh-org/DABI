@@ -1,6 +1,6 @@
-﻿AU Lafont, Bernard 
+﻿AU Lafont, Bertrand 
 Y 1984
-T “Le roi de Mari et les prophètes d’Adad” 
+T [“Le roi de Mari et les prophètes d’Adad”](https://www.jstor.org/stable/23282398)
 P *Revue d’Assyriologie et d’archéologie orientale* 78/1, pp. 7-18
 
 @@@R

@@ -1,4 +1,4 @@
-﻿AU Foster, Benjamin R. 
+AU Foster, Benjamin
 Y 1974
 T “Humor and Cuneiform Literature” 
 P *Journal of the Ancient Near Eastern Society* 6, pp. 69- 85

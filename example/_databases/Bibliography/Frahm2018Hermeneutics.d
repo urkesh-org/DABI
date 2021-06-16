@@ -1,4 +1,4 @@
-AU Eckart, Frahm
+AU Frahm, Eckart 
 Y 2018
 T “The Perils of Omnisignificance: Language and Reason in Mesopotamian Hermeneutics”
 P *Journal of Ancient Near Eastern History* 5/1-2, pp. 107-129

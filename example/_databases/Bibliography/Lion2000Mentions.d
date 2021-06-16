@@ -1,6 +1,6 @@
 AU Lion, Brigitte
 Y 2000
-T “Les mentions de « prophètes » dans la seconde moitié du IIe millénaire av. J.-C.”
+T ["Les mentions de « prophètes » dans la seconde moitié du IIe millénaire av. J.-C."](http://www.jstor.com/stable/23281993)
 P *Revue d’Assyriologie et d’archéologie orientale* 9/1, pp. 21-32 
 
 @@@R

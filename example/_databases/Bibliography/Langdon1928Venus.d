@@ -1,6 +1,6 @@
 ﻿AU Langdon, Stephen and Fotheringham, John Knight
 Y 1928
-T *The Venus Tablets of Ammizaduga*
+T [*The Venus Tablets of Ammizaduga*](https://ia801704.us.archive.org/25/items/TheVenusTabletsOfAmmizaduga1928/LangdonFotheringham1928TheVenusTabletsOfAmmizaduga.pdf)
 P London: Oxford University Press
 
 @@@R

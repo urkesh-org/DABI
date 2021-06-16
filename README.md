@@ -18,7 +18,7 @@ To install the program in the DABI directory:
 ```shell
 git clone https://github.com/urkesh-org/DABI.git
 cd DABI
-python -m pip -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 To run the program for the example website:

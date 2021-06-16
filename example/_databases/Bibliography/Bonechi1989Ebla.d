@@ -1,11 +1,12 @@
 AU Bonechi, Marco
 Y 1989
-T [“Un atto di culto a Ebla”](https://www.academia.edu/5249315/Un_atto_di_culto_a_Ebla)
+T “Un atto di culto a Ebla”
 P *Miscellanea eblaitica* 2, *Quaderni di semitistica* 16, pp. 131-147
 
 @@@R
 SA mDP
 SD April 2020
+NR [Review](https://4banks.net/Mes-rel/synopses/Bonechi1989.htm)
 TO Ebla; cultic activities
 
 This paper analyses the occurrence of some peculiar terms connected to specific **cultic activities** performed at [**Ebla/Tell Mardikh**](http://www.ebla.it/eindex.html). The author starts outlining some recurrent elements:
@@ -26,7 +27,9 @@ Throughout the article, the author presents many texts from Ebla to better deter
 
 [A critical review of this paper can be found in [Bonechi 1989](https://4banks.net/Mes-rel/synopses/Bonechi1989.htm).]
 
-[A further discussion on cultic rituals at Ebla can be found in [*Cultic Rituals at Ebla*](http://4Banks.net/Mes-rel/TEMI/Rituals_Ebla_mDP.htm).]
+[A further discussion on cultic rituals at Ebla can be found in [*Cultic Rituals at Ebla*](http://4Banks.net/Mes-rel/TEMI/Rituals.htm).]
+
+PDF available [here](https://www.academia.edu/5249315/Un_atto_di_culto_a_Ebla)
 
 
 @NOTES R/2.13

@@ -1,6 +1,6 @@
 ﻿AU Katz, Arnold M. and Katz, Phyllis B.
 Y 1995
-T “Emergence of Scientific Explanations of Nature in Ancient Greece”
+T [“Emergence of Scientific Explanations of Nature in Ancient Greece”](https://doi.org/10.1161/01.CIR.92.3.637)
 P *Circulation* 92/3, pp. 637-645
 
 @@@R

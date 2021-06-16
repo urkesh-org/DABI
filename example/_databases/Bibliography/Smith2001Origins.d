@@ -6,6 +6,7 @@ P Oxford: Oxford University Press
 @@@R
 SA jJL
 SD March 2020
+NR [Review](https://4banks.net/Mes-Rel/synopses/Smith.htm)
 TO monotheism; polytheism; El; Yahweh
 
 Smith's study **downplays a radical difference between monotheism and polytheism**. He believes that **El was the original god of Isra-el, and was originally distinct from Yahweh**. **Monotheism, then, would seem to be the distillation of an older pantheon**, in which one figure (Yahweh) was so emphasized that he eclipsed all others, including El. 

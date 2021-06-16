@@ -1,6 +1,6 @@
 ﻿AU Lichtenstein, Murray
 Y 1969
-T “Dream-Theophany and the E Document” 
+T [“Dream-Theophany and the E Document”](https://janes.scholasticahq.com/article/2222-dream-theophany-and-the-e-document)
 P *Journal of the Ancient Near Eastern Society* 1/2, pp. 45-54
 
 @@@R

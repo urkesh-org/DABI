@@ -1,6 +1,6 @@
 ﻿AU Langdon, Stephen 
 Y 1919
-T “Gesture in Sumerian and Babylonian Prayer: A Study in Babylonian and Assyrian Archaeology”
+T [“Gesture in Sumerian and Babylonian Prayer: A Study in Babylonian and Assyrian Archaeology”](https://www.jstor.org/stable/25209542)
 P *The Journal of the Royal Asiatic Society of Great Britain and Ireland*, pp. 531-556 
 
 @@@R

@@ -1,6 +1,6 @@
 ﻿AU Liverani, Mario
 Y 2006
-T *Uruk. The First City*
+T [*Uruk. The First City*](https://archive.org/details/LiveraniMario1998UrukTheFirstCity/mode/2up)
 P London; Oakville: Equinox
 
 @@@R

@@ -1,7 +1,7 @@
 AU Leitz, Christian
 Y 2002
-T *Lexikon der ägyptischen Götter und Götterbezeichnungen*, 8 Bande
-P Orientalia Lovaniensia Analecta 110-116, 129
+T *Lexikon der ägyptischen Götter und Götterbezeichnungen* 
+P Orientalia Lovaniensia Analecta 110-116, 129 (8 Bande)
 P Leuven-Paris-Dudley: Peeters
 
 @@@R

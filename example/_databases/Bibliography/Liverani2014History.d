@@ -1,6 +1,7 @@
 AU Liverani, Mario
 Y 2014
-T *The Ancient Near East. History, Society and Economy* (translated from the Italian version by Soraia Tabatabai: Liverani, Mario 2011 [new updated edition], *Antico Oriente. Storia, società, economia*, Roma-Bari: Laterza)
+T *The Ancient Near East. History, Society and Economy* 
+T (translated from the Italian version by Soraia Tabatabai: Liverani, Mario 2011 [new updated edition], *Antico Oriente. Storia, società, economia*, Roma-Bari: Laterza)
 P London; New York: Routledge
 
 @@@R

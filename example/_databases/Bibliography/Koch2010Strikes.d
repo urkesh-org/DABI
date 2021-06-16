@@ -1,7 +1,7 @@
 AU Koch, Ulla S.
 Y 2010
 T "Three Strikes and You're Out! A View on Cognitive Theory and the First-Millennium Extispicy Ritual"
-P in A. Annus (ed), *Divination and Interpretation of Signs in the Ancient World* (Oriental Institute Seminars 6), Chicago: The Oriental Institute, pp. 43-59.
+P in A. Annus (ed), *Divination and Interpretation of Signs in the Ancient World* [(Oriental Institute Seminars 6)](https://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/ois6.pdf), Chicago: The Oriental Institute, pp. 43-59.
 
 @@@ R
 SA sE
@@ -11,3 +11,5 @@ TO divination; extispicy
 In this article, U. Koch tries to apply elements from cognitive theory of religion to shed light on a particular question posed by the Mesopotamian extispicy ritual: namely, why the remedy for an unfavourable extispicy was to perform another - up to three times in a row. The scholar also analyzes the (possible) existence of apotropaic or appeasement rituals to be performed alongside (or: to counterbalance) a negative extispicy. Looking at the primary sources from ancient Mesopotamia, Koch comes to the conclusion that «Whereas the letters and reports from Assyrian and Babyonian scholars demonstrate that aversive action in the form of various rituals, including *namburbis*, was not uncomon in connection with astrological omina, there is no similar evidence that apotropaic or appeasement rituals were ever performed in connection with extispicy. **Aversive action in response to unfavourable extispicy is never explicitly mentioned** in the scholarly correspondence of the Neo-Assyrian kings, nor to my knowledge are they attested to in texts from the second millennium» (p. 46).
 
 Still, Koch detects an interesting similarity between the extispicy and the *namburbi* ritual: they were both described as a judgment. She mentions the case of one extispicy ritual in which the diviner is instructed to "perform a sacrifice, establish a verdict" - while in another one the diviner is told to "sit on the seat of the judge" in front of the gods of Justice, Shamash and Adad. The place in which the ritual takes place is itself called "the place of decision by extispicy" or "the place of judgment" (for precise details and bibliographical references for these texts cf. pp. 51-52). «**Within the divinatory discipline the metaphor of the court of law is most consequently and consistenly used in extispicy, and the extispicy ritual actually *mise en scène* **.» (p. 52). Koch explains this phaenomenon with the «conceptual blending between the juridical domain and the sacred domain.» (p. 53). Just as a court case implies two intentional agents - accuser and accused, or victim and culprit - also in rituals the actions and intentions of the human and divine party are laid open to judgment, and the divine judge is asked to rule in favor of the client.
+
+PDF of the entire volume available [here](https://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/ois6.pdf)

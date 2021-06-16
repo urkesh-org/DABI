@@ -6,6 +6,7 @@ P Laterza: Roma - Bari.
 @@@ R
 SA sE
 SD December 2020
+NR [Review](https://4banks.net/Mes-rel/synopses/liverani.htm)
 TO Israel; Bible; history
 
 In the introductory pages of this volume, the author declares his ambitious goal of offering **a history of Israel free from any influence deriving from the biblical story** and his willingness to bring the story of the birth of Istrael back to its historical reality. Liverani roots his research on the most recent discoveries of textual and literary criticism, also making use of the contributions provided by archaeology and epigraphy, and on the basis of the modern historiographic methodology and criteria.

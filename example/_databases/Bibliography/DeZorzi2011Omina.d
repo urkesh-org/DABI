@@ -14,6 +14,10 @@ A "hermeneutic" analysis recognizes **sets of symbolic associations** that perta
 
 The concluding part "investigates **mechanisms of association** that create links between protases and apodoses through the use of paronomasia and other words of word-play" (p. 67). The article gives a large number of well chosen examples, and includes an up-to-date bibliography.
 
+[The paper describes the formal structure of the omen series *Šumma izbu*, see [*Appendix* 5](http://4banks.net/Mes-rel/Excerpts/appendices_mDP.htm#5), investigating the logical mental process behind the cause-consequence mechanism of this text; note by [mDP](https://4banks.net/Mes-rel/authorship/DePietri.htm).]
+
+PDF available [here](https://www.academia.edu/1196992/The_omen_series_shumma_izbu_internal_structure_and_hermeneutic_strategies)
+
 
 @NOTES R/6.4
 NA gB

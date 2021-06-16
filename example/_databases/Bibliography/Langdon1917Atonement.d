@@ -1,7 +1,8 @@
 ﻿AU Langdon, Stephen 
 Y 1917
-T “A Ritual of Atonement for a Babylonian King”
-P *The Museum Journal. Penn Museum* 8/1, pp. 39-44; republished in online version on *The Museum Journal. Penn Museum, Web* [12 Sep 2020](https://www.penn.museum/sites/journal/556/)
+T [“A Ritual of Atonement for a Babylonian King”](https://www.penn.museum/documents/publications/journal/08-1/babylonian_king_atonement.pdf)
+P *The Museum Journal. Penn Museum* 8/1, pp. 39-44 
+P republished in online version on *The Museum Journal. Penn Museum, Web* [12 Sep 2020](https://www.penn.museum/sites/journal/556/)
 
 @@@R
 SA mDP

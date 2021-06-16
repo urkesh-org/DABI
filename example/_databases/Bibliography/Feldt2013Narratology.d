@@ -3,6 +3,7 @@ Y 2013
 T Myths and Narratology: Narrative Form, Meaning and Function in the Standard Babylonian Epic of Anzu
 P *Bulletin for the Study of Religion*, 42.4 (2013) pp. 22-29
 
+@@@R
 SA iN
 SD December 2020
 TO function; narratology

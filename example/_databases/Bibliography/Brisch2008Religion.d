@@ -1,4 +1,4 @@
-﻿AU Brisch, Nicole Maria
+AU Brisch, Nicole
 Y 2008
 T *Religion and Power. Divine Kingship in the Ancient World and Beyond* 
 P Oriental Institute Seminars 4

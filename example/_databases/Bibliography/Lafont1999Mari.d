@@ -1,7 +1,7 @@
 AU Lafont, Bertrand 
 Y 1999
-T “Sacrifices et rituels à Mari et dans la Bible”
-P *Revue d’Assyriologie et d’archéologie orientale 93/1 (= *Actes de la table ronde « Les traditions amorrites et la Bible »*), pp. 57-77 
+T ["Sacrifices et rituels à Mari et dans la Bible"](https://www.jstor.org/stable/23281949)
+P *Revue d'Assyriologie et d'archéologie orientale* 93/1 (= *Actes de la table ronde « Les traditions amorrites et la Bible »*), pp. 57-77 
 
 @@@R
 SA mDP

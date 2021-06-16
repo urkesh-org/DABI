@@ -4,6 +4,7 @@ T The Formation of Myth Patterns in the Old Testament
 P *Journal of Bible and Religion*, vol. 29, no. 2, 1961 pp. 108-112
 P Oxford University Press
 
+@@@R
 SA iN
 SD December 2020
 TO patterns; mythology

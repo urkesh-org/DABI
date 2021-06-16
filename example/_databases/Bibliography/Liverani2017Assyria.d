@@ -1,6 +1,7 @@
 ﻿AU Liverani, Mario
 Y 2017
-T *Assyria: The Imperial Mission* (translated from Italian by Andrea Trameri and Jonathan Valk) 
+T *Assyria: The Imperial Mission* 
+T (translated from Italian by Andrea Trameri and Jonathan Valk) 
 P Winona Lake, Indiana: [Eisenbrauns](https://www.eisenbrauns.org/books/titles/978-1-57506-754-4.html)
 
 @@@R

@@ -4,6 +4,7 @@ T Moving Beyond Symbol and Myth: understanding the kingship of God of the Hebrew
 P *Studies in Biblical Literature* Vol. 99
 P Peter Lang, 2009
 
+@@@R
 SA iN
 SD December 2020
 TO spiritual metaphor, cognitive theory

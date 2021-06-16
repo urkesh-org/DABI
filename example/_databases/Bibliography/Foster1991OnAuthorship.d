@@ -1,4 +1,4 @@
-AU Foster, Benjamin R.
+AU Foster, Benjamin
 Y 1991
 T "On Authorship in Akkadian Literature"
 P *Istituto Universitario Orientali di Napoli, Annali* 51, pp. 17-32.

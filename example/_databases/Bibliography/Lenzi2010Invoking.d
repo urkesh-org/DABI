@@ -1,6 +1,6 @@
 AU Lenzi, Alan 
 Y 2010
-T “Invoking the God: Interpreting Invocations in Mesopotamian Prayers and Biblical Laments of the Individual”
+T ["Invoking the God: Interpreting Invocations in Mesopotamian Prayers and Biblical Laments of the Individual"](https://www.jstor.org/stable/27821021)
 P *Journal of Biblical Literature* 129/2, pp. 303-315 
 
 @@@R

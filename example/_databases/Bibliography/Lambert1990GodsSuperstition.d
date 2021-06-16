@@ -6,9 +6,9 @@ P *Revue de l'histoire des religions* 207/2, pp. 115-130.
 @@@ R
 SA sE
 SD September 2020
-TO pantheon; monotheism; art
+TO pantheon; monotheism; art; superstition; theology; philosophy
 
-In this article, Lambert offers a condensed synthesis of the ancient Mesopotamian religion. This text is interesting because of the approach that it uses, as it is described by the author in the opening paragraph that aims to justify the wording used for the title: <<The terms "superstition", "philosophy" and "theology" have been deliberately chosen as raw, crude terms to avoid a powerful terminology which would take over the subject by imposing its own concepts on the discussion. By "superstition" the emotional content of religion is meant ; "philosophy" is used to refer to the rational element in religion (with an implicit objection to those who might wish to assert that abstract thought began with the Greeks) ; and "theology" refers to the amalgam of these emotional and rational elements.>> (p. 116) 
+In this article, Lambert offers a condensed synthesis of the **ancient Mesopotamian religion**. This text is interesting because of the approach that it uses, as it is described by the author in the opening paragraph that aims to justify the wording used for the title: <<The terms **"superstition", "philosophy" and "theology"** have been deliberately chosen as raw, crude terms to avoid a powerful terminology which would take over the subject by imposing its own concepts on the discussion. By "superstition" the emotional content of religion is meant ; "philosophy" is used to refer to the rational element in religion (with an implicit objection to those who might wish to assert that abstract thought began with the Greeks) ; and "theology" refers to the amalgam of these emotional and rational elements.>> (p. 116) 
 
 While discussing Mesopotamian religion on the basis of Sumerian and Akkadian texts, Lambert highlights some interesting facts: firstly, that there is virtually no duplication in the Sumerian city patron gods - a fact that he justifies with a well-thought organization of the pantheon made *ab origine* by Sumerian theologians. 
 
@@ -18,15 +18,21 @@ Lambert also discusses the fact that by both theological thinking and the power 
 
 Lambert, then, tackles the issue of whether the Mesopotamian anthropomorphic divine representations were preceded by a theriomorphic stage. He analyses symbols used to represent gods in various types of artistic forms, and he comes to the conclusion that supporting evidence of a pre-anthropomorphic stage of religion is lacking.
 
+PDF (1) available [here](https://www.persee.fr/doc/rhr_0035-1423_1990_num_207_2_1735)
+
+PDF (2) available [here](https://www.jstor.org/stable/23671046) 
+
 
 @NOTES R/5.1
 NA jJL
 ND January 2021
+TO plurality of gods
 
 See {B}R/Lambert1990GodsSuperstition for a treatment of the plurality of gods in Mesopotamia.
 
 @NOTES R/5.2
 NA jJL
 ND January 2021
+TO Mesopotamian "theology"
 
 See {B}R/Lambert1990GodsSuperstition for an interpretation of first millennium BC Mesopotamian "theology" as tending toward monotheism.

@@ -1,6 +1,6 @@
 ﻿AU Luckenbill, Daniel David 
 Y 1924
-T *The Annals of Sennacherib*
+T [*The Annals of Sennacherib*](https://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/oip2.pdf)
 P Oriental Institute Publications 2
 P Chicago: University of Chicago Press; [editor’s webpage](https://oi.uchicago.edu/research/publications/oip/oip-2-annals-sennacherib)
 

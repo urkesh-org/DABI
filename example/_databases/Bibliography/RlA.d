@@ -1,16 +1,16 @@
-﻿W [Reallexikon der Assyriologie und vorderasiatischen Archäologie](http://publikationen.badw.de/de/rla/index)
-Y 2020 
-T ***Reallexikon der Assyriologie und vorderasiatischen Archäologie (RlA)***
-P [Bayerische Akademie der Wissenschaften (BAdW)](https://badw.de/die-akademie.html)
-P Last access: 21 August 2020 
+﻿AU Ebeling, Erich and Meissner, Bruno *et al.*
+Y 1928-
+T *Reallexikon der Assyriologie und Vorderasiatischen Archäologie* [*RlA*]
+T [begründet von Erich Ebeling und Bruno Meissner; fortgeführt von Ernst Weidner und Wolfram von Soden; herausgegeben von Dietz Otto Edzard unter Mitwirkung von P. Calmeyer *et al.*]
+P Berlin, New York: de Gruyter
 
 @@@R
 SA mDP
-SD August 2020
-TO Reallexikon der Assyriologie
+SD May 2021
+NR [Excerpts](https://4banks.net/Mes-Rel/Excerpts/RlA.htm)
+TO Ancient Near East
 
-An online version of the fundamental *Reallexikon der Assyriologie und vorderasiatischen Archäologie* (RlA): <<The “**Reallexikon der Assyriologie und Vorderasiatischen Archäologie (RlA)**” (Encyclopaedia of Ancient Near Eastern Studies) represents the most extensive publication project in Ancient Near Eastern Studies. Its first fascicle was published in 1928, the last one in 2018, all in all covering a time frame of 90 years. The Encyclopaedia comprises Ancient Near Eastern archaeology, history and culture in Mesopotamia, Syria, Anatolia, Iran, Levant and neighbouring regions from prehistory to the end of the cuneiform cultures around the time of Christ’s birth. The articles are written in German, English or French, covering names of locations, deities and kings, history, religion, literature, sciences, flora and fauna, material culture as well as art and architecture of the Ancient Near East>> (from website).
+This series composed of many volumes represent the basic encyclopedic work on many aspects of the Ancient Near Eastern culture and society, including history and religion. Each volume displays the lemmata in alphabetical order.
 
-
-
+Online version at this [link](http://publikationen.badw.de/de/rla/index).
 

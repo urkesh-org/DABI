@@ -1,9 +1,121 @@
-﻿@NOTES R/1.5
+﻿@NOTES R/1.1
+NA mDP
+ND 25 April 2021
+TO religion
+
+For Giorgio Buccellati's definition of **religion**, see previously {B}R/Buccellati1981Wisdom, pp. 36-37: text in [Buccellati 1981/Excerpt](https://4banks.net/Mes-rel/Excerpts/Buccellati1981Wisdom.htm#Religion). For others definition of religion, somehow alternative to that given here by Giorgio Buccellati, see e.g. {B}R/Brelich1976Prolegomeni, pp. 4ff.: text in [Brelich 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Brelich1976Prolegomeni.htm#Religion). 
+
+
+@NOTES R/1.1
+NA mDP
+ND 18 July 2020
+TO religion
+
+<<By **religion** I mean the codification of the interaction with an absolute that remains empirically unknown, but is nevertheless empirically assumed. It is an absolute because our perception of things is conditioned by it in ways that are beyond our control. An empirically unknown absolute because it totally eludes all physical and tangible parameters>> (Buccellati, §1.1). This definition of religion is quite different from others, e.g. that in {B}R/Jacobsen1976Treasures, who considers religion as a response of the human beings to a specific need, thus avoiding any relationship with the ‘absolute’: see [Jacobsen 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Jacobsen1976Treasures.htm#religion). 
+
+
+@NOTES R/1.1
+NA mDP
+ND 3 July 2020
+TO religion
+
+As stressed by G. Buccellati, **‘religion’** is a term difficult to be defined as it was perceived in ancient Mesopotamian mindset: a discussion on this topic is offered in {B}R/Xella2014Dieux in its introductory note on the ancient concept of ‘religion’ (on p. 525: text in [Xella 2014/Excerpt](https://4banks.net/Mes-rel/Excerpts/Xella2014Dieux.htm#Religion)), not well defined in antiquity as it is nowadays, helping in understanding how to approach ancient polytheism and religious thought, avoiding any superimposition of modern terminology or concepts.
+
+
+@NOTES R/1.1
+NA mDP
+ND 02 May 2021
+TO religion
+
+For another definition of the term **‘religion’**, see {B}R/Brelich1976Prolegomeni, pp. 4, 13, 33: text in [Brelich 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Brelich1976Prolegomeni.htm#Religion1).
+
+
+@NOTES R/1.1
+NA mDP
+ND 25 April 2021
+TO perception
+
+For a definition by Giorgio Buccellati on the term **perception**, see e.g. {B}R/Buccellati2014Dalprofondo, pp. 36-37: text in [Buccellati 2014/Excerpt](https://4banks.net/Mes-rel/Excerpts/Buccellati2014Dalprofondo.htm#Perception). 
+
+
+@NOTES R/1.1
+NA mDP
+ND 25 April 2021
+TO language
+
+For a discussion on the role and historical development of **language**, see e.g. {B}R/Buccellati2014Time, pp. 70-71: text in [Buccellati 2014/Excerpt](https://4banks.net/Mes-rel/Excerpts/Buccellati2014Time.htm#Language). 
+
+
+@NOTES R/1.2
+NA mDP
+ND 17 June 2020
+TO absolute
+
+For an investigation on the **‘absolute’** in ancient Mesopotamia, see {B}R/Buccellati2014Time, p. 77: text in [Buccellati 2014/Excerpt](https://4banks.net/Mes-rel/Excerpts/Buccellati2014Time.htm#Absolute).
+
+
+@NOTES R/1.2
+NA mDP
+ND 17 June 2020
+TO absolute
+
+For the **'absolute'** in ancient Mesopotamian religion, see {B}R/Buccellati2012Coerenza.
+
+
+@NOTES R/1.2
+NA mDP
+ND 17 June 2020
+TO absolute
+
+For an investigation on the **‘absolute’** in ancient Mesopotamia, see {B}R/Buccellati2012Trinità.
+
+
+@NOTES R/1.3
+NA mDP
+ND 02 May 2021
+TO comparative history of religions
+
+For the methodology to be applied in a **comparative history of religions**, see {B}R/Brelich1976Prolegomeni, pp. 36, 54-55: text in [Brelich 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Brelich1976Prolegomeni.htm#History). Cf. section [6. History of the Discipline](https://4banks.net/Mes-Rel/sub-history.htm) (by [Jonah Lynch](https://4banks.net/authorship/Lynch.htm)).
+
+
+@NOTES R/1.4
+NA mDP
+ND 25 April 2021
+TO origin
+
+On the topic of the **origin** of a spiritual thought and transcendence, see e.g. {B}R/Buccellati2014Time, pp. 73-74: text in [Buccellati 2014/Excerpt](https://4banks.net/Mes-rel/Excerpts/Buccellati2014Time.htm#Transcendence). 
+
+
+@NOTES R/1.5
+NA mDP
+ND 25 April 2021
+TO Funerary rites; Burials
+
+On the topic of **funerary rites** and **burials** see the bibliography presented on [Urkesh.org/Topical index](http://urkesh.org/pages/a65.htm), *sub voce* ["Burials"](http://urkesh.org/pages/a65.htm#Burials) and ["Funerary practices"](http://urkesh.org/pages/a65.htm#Funerarypractices). 
+
+
+@NOTES R/1.5
 NA mDP
 ND 7 July 2020
 TO Book of Tobias
 
 For the text of the **Book of Tobias**, see [*The New American Bible*](http://www.vatican.va/archive/ENG0839/__PCA.HTM) (English translation).
+
+
+@NOTES R/1.5
+NA mDP
+ND 25 April 2021
+TO monotheism; polytheism
+
+For a discussion on the core difference between **monotheism** and **polytheism**, see e.g. {B}R/Buccellati2012Trinità, pp. 31-32: text in [Buccellati 2012b/Excerpt](https://4banks.net/Mes-rel/Excerpts/Buccellati2012Trinità.htm#Polytheismandmonotheism).  
+
+
+@NOTES R/1.6
+NA mDP
+ND 17 June 2020
+TO revelation; intuition
+
+For **‘revelation’** and **‘intuition’** in ancient Mesopotamia, see {B}R/Buccellati2014Time.
 
 
 @NOTES R/1.6
@@ -46,14 +158,78 @@ TO cultural assumptions
 Human beings are culturally embedded. This concept of **calibrated ‘assumptions’** can be compared with the archaeological concept on ‘inference’, explained by M. De Pietri in [CAR](https://critique-of ar.net/themes/inference.htm).
 
 
+@NOTES R/1.11
+NA mDP
+ND 02 May 2021
+TO methodology
+
+For the **methodology** to be applied in the analysis of religions and their history, see {B}R/Brelich1976Prolegomeni, pp. 36, 54-55: text in [Brelich 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Brelich1976Prolegomeni.htm#History).
+
+
+@NOTES R/2.1
+NA mDP
+ND 02 May 2021
+TO history of religions
+
+For the **history of religions**, see {B}R/Brelich1976Prolegomeni, pp. 36, 54-55: text in [Brelich 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Brelich1976Prolegomeni.htm#History). Cf. section [6. History of the Discipline](https://4banks.net/Mes-Rel/sub-history.htm) (by [Jonah Lynch](https://4banks.net/authorship/Lynch.htm)).
+
+
+@NOTES R/2.2
+NA mDP
+ND 17 June 2020
+TO structural approach
+
+For a **‘structural approach’** on the comparison of the Bible and ancient Mesopotamian religion, see {B}R/Buccellati2014Time, p. 74: text in [Buccellati 2014/Excerpt](https://4banks.net/Mes-rel/Excerpts/Buccellati2014Time.htm#Structural). 
+
+
+@NOTES R/2.2
+NA mDP
+ND 02 May 2021
+TO comparative history of religions
+
+For a structural approach in the **comparative history of religions**, see {B}R/Brelich1976Prolegomeni, pp. 36, 54-55: text in [Brelich 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Brelich1976Prolegomeni.htm#History).
+
+
+@NOTES R/2.2
+NA mDP
+ND 17 June 2020
+TO absolute; structural comparison
+
+For a **structural comparison** on the **‘absolute’** between Bible and Mesopotamian religion, see {B}R/Buccellati2012Trinità.
+
+
+@NOTES R/2.3
+NA mDP
+ND 29 June 2020
+TO Mesopotamian religion
+
+On the comparison of Biblical religion with the Mesopotamian one, see the introduction to religion and religious practices in ancient Mesopotamia in {B}R/Jacobsen1976Treasures, describing the notion of religion in Mesopotamia ([Jacobsen 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Jacobsen1976Treasures.htm#numinous)), the pantheon ([Jacobsen 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Jacobsen1976Treasures.htm#plurality)), and displaying the main mythological texts from the 4<sup>th</sup> to the 2<sup>nd</sup> millennium BC.
+
+
 @NOTES R/2.4
 NA mDP
 ND 7 July 2020
 TO before philosophy
 
-For the existence of a **philosophy ‘before philosophy’**, see mainly {B}R/Frankfort1949Before.
+For the existence of a **philosophy ‘before philosophy’**, see mainly {B}R/Frankfort1949Before: excerpts on *speculative thought* from *Introduction* in [Frankfort 1949/Excerpt](https://4banks.net/Mes-rel/Excerpts/Frankfort1949Before.htm#Speculativethought).
 
-For the possibility of retracing ‘implicit mythological intuitions’ of religious phaenomena, later further elaborated by classical philosophy, see {B}R/Cornford1957Philosophy, *Preface*, p. v.
+For the possibility of retracing ‘implicit mythological intuitions’ of religious phaenomena, later further elaborated by classical philosophy, see {B}R/Cornford1957Philosophy, *Preface*, p. v., excerpted in [Cornford 1957/Excerpt](https://4banks.net/Mes-rel/Excerpts/Cornford1957.htm#Mythologicalintuition).
+
+
+@NOTES R/2.5
+NA mDP
+ND 17 June 2020
+TO polarity; structural comparison
+
+For **polarity** and **structural comparison** between Bible and Mesopotamian religion, see {B}R/Buccellati2012Trinità.
+
+
+@NOTES R/2.5
+NA mDP
+ND 17 June 2020
+TO polarity
+
+For the **‘polarity’** between the Bible and ancient Mesopotamian religion, see {B}R/Buccellati2014Time.
 
 
 @NOTES R/2.5
@@ -61,9 +237,7 @@ NA mDP
 ND 7 July 2020
 TO Abraham
 
-For **Abraham and his origins**, see [Berlyn 2005](http://urkesh.org/pages/921a.htm#Berlyn) and [Buccellati 2015a](http://urkesh.org/EL2/Buccellati_2015_Abramo.pdf). 
-
-For the spiritual features of the figure of Abraham, see [Buccellati 2015b](https://www.ilsussidiario.net/news/cultura/2015/9/7/letture-abramo-e-il-desiderio-di-un-noi-in-armonia-reciproca/636247/) and [Buccellati 2015c](https://www.meetingrimini.org/eventi-totale/abramo-la-nascita-dellio/) (with video).
+For **Abraham and his origins**, see {B}R/Berlyn2005Abraham; on his spiritual features, see [Buccellati 2015](http://urkesh.org/EL2/Buccellati_2015_Abramo.pdf), with [video](https://www.meetingrimini.org/eventi-totale/abramo-la-nascita-dellio/).
 
 
 @NOTES R/2.6
@@ -71,17 +245,25 @@ NA mDP
 ND 7 July 2020
 TO canon; Masoretic Text (MT)
 
-For the Bible as a **‘canon’** and specifically for the formation of the Old Testament, see the [‘Masoretic Text’ = MT](https://www.britannica.com/topic/Masoretic-text), based on a precise methodology called [‘Massorah’](http://www.jewishencyclopedia.com/articles/10465-masorah). 
+The Bible as a **‘canon’** can be recognized in the standardization of the Old Testament with the fixation of the 'Masoretic Text’, based on a precise methodology called [‘Massorah’](http://www.jewishencyclopedia.com/articles/10465-masorah). 
 
-The MT is fully available on [Sefaria.org](https://www.sefaria.org/texts/Tanakh) or on the [TanakhML Project](https://www.tanakhml.org/), offering the Hebrew text according to the *Biblia Hebraica Stuttgartensia* and the English translation following the *King James Version*.  
+The MT is fully available on {B}R/Sefaria, on {B}R/BiHu, or on {B}R/Tanakh, the latter offering the Hebrew text according to the *Biblia Hebraica Stuttgartensia* and the English translation following the *King James Version*.  
 
 
-@NOTES R/2.6
+@NOTES R/2.7
 NA mDP
-ND 7 July 2020
-TO Jacobsen, Thorkild
+ND 16 June 2020
+TO cultural tradition
 
-On the figure and thought of **Thorkild Peter Rudolph Jacobsen** (1904-1993), see [CDLI:wiki](http://cdli.ox.ac.uk/wiki/doku.php?id=jacobsen_thorkild).
+For the analysis of ancient **cultural traditions**, see {B}R/Brelich1976Prolegomeni.
+
+
+@NOTES R/2.7
+NA mDP
+ND 18 June 2020
+TO Mesopotamian religion
+
+Buccellati describes Mesopotamian religion as <<a system of perceptions and interactions that are historically documented for specific times and places, from which a central fulcrum of spirituality can be deduced>> (§2.7). This feature of Mesopotamian religion led people to a cultural sharing of identity and solidarity, to cohesion and mutual exchange. Buccellati also recognizes that in Mesopotamian religion there are at the same time a ‘temporal coherence’ and a ‘substantial development’, meaning that Mesopotamian religion needs to be analysed both synchronically and diachronically. A similar topic is discussed in {B}R/Jacobsen1976Treasures, where the author stresses how Mesopotamian religion must be investigated in its **historical development** (e.g. on p. 25, [Jacobsen 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Jacobsen1976Treasures.htm#history)).  
 
 
 @NOTES R/2.8
@@ -107,7 +289,7 @@ NA mDP
 ND 7 July 2020
 TO analytical research model
 
-For this **‘analytical research model’**, implying a fragmentation or dissection of a structure into its basilar components, cf. G. Buccellati’s approach in the linguistic analysis of Akkadian grammar, in [Buccellati 1996](http://urkesh.org/EL2/Buccellati_1996_A_Structural_Grammar_of_Babylonian.pdf).
+For this **‘analytical research model’**, implying a fragmentation or dissection of a structure into its basilar components, cf. G. Buccellati’s approach in the linguistic analysis of Akkadian grammar, specifically in {B}R/Buccellati1996Grammar.
 
 
 @NOTES R/2.10
@@ -118,12 +300,28 @@ TO Mesopotamian politics
 The book here mentioned about the *Origins and Growth of the State* is specifically Buccellati, Giorgio 2013, *Alle origini della politica*, Jaca Book = Buccellati, Giorgio (forth.), *At the Origins of Politics*, Routledge (a [website](http://4banks.net/Mes-pol/title%20P.htm) provides the reader with bibliography and notes on this book).
 
 
+@NOTES R/2.11
+NA mDP
+ND 16 June 2020
+TO nature
+
+For the relationship between culture and **nature** (and influence of the latter on the former), see {B}R/Brelich1976Prolegomeni.
+
+
+@NOTES R/2.12
+NA mDP
+ND 17 June 2020
+TO time
+
+For the concept of **‘time’** in the Bible and ancient Mesopotamian religion, see {B}R/Buccellati2014Time.
+
+
 @NOTES R/2.13
 NA mDP
 ND 7 July 2020
 TO Mesopotamian history
 
-For the **history of Mesopotamia**, see [CAH](https://www.cambridge.org/core/series/cambridge-ancient-history/010C506409EE858277F898C129759025), and Buccellati, Giorgio (forth.), *At the Origins of Politics*, Routledge (a [website](http://4banks.net/Mes-pol/title%20P.htm) provides the reader with bibliography and notes on this book); cf. entry: {B}R/Liverani2014History.
+For the **history of Mesopotamia**, see {B}R/CAH, and Buccellati, Giorgio (forth.), *At the Origins of Politics*, Routledge (a [website](http://4banks.net/Mes-pol/title%20P.htm) provides the reader with bibliography and notes on this book); cf. entry: {B}R/Liverani2014History.
 
 
 @NOTES R/2.13
@@ -152,6 +350,16 @@ TO kibrāt arba’īm (Akkadian)
 For the Akkadian expression ***kibrāt arba’īm***, see [CAD 8 = K, pp. 331-336](http://4Banks.net/Mes-rel/PDF/CAD8_331-336.pdf).
 
 
+@NOTES R/2.14
+NA mDP
+ND 01 May 2021
+TO Amorites; genealogies; ethnogenesis; patriarchal traditions
+
+Buccellati here retraces the origins or **ethnogenesis** of patriarchal traditions back to the period of the **Amorites** (for which see e.g. {B}R/Meyers1997OEANE, Vol. 1, pp. 107-110; cf. Buccellati, Giorgio 1963-1966b on [Urkesh.org/e-Library](http://urkesh.org/pages/922a.htm#Buccellati_Amorites) (with review by Mario Liverani on [Urkesh.org/e-Library](http://urkesh.org/abstracts/923Liverani1968.htm)). The text referring to this topic is available on [Buccellati 2021/Excerpts]((https://4banks.net/Mes-rel/Excerpts/Buccellati2021When.htm#ethnogenesis)). 
+
+On this topic, it is noteworthy to recall a passage in {B}R/Liverani2009Oltre, p. 60 [2005 English edition] (text in [Liverani2005/Excerpt](https://4banks.net/Mes-rel/Excerpts/Liverani2005Israel.htm#Genealogies)), where the author, *contra* Buccellati, recognizes in the exilic and post-exilic period the very moment when (through genealogies) Israel established its ethnogenesis (cf. *infra* {N}R/6.6).
+
+
 @NOTES R/2.15
 NA mDP
 ND 7 July 2020
@@ -164,18 +372,100 @@ The text comes from [*Deut.* 6, 4](https://www.tanakhml.org/d21.php2xml?sfr=5&pr
 
 @NOTES R/3.1
 NA mDP
-ND 8 July 2020
-TO religion
+ND 17 June 2020
+TO absolute
 
-A definition of **‘religion’ linked to the concept of the ‘absolute’** can be found in {B}R/Buccellati1981Wisdom: <<Religion = an institution which may be said, briefly, to regulate the relationship between man and the absolute. One pivotal point in this relationship is the very concept of the absolute>> (p. 36).
+For a comparison on the **‘absolute’** between Bible and Mesopotamian religion (i.e. between monotheism and polytheism), see {B}R/Buccellati2014Time, p. 77: text in [Buccellati 2014/Excerpt](https://4banks.net/Mes-rel/Excerpts/Buccellati2014Time.htm#Absolute).
+
+
+@NOTES R/3.1
+NA mDP
+ND 17 June 2020
+TO absolute; great polarity
+
+For a comparison on the **‘absolute’** and the **'great polarity'** between biblical monotheism and Mesopotamian polytheism, see {B}R/Buccellati2012Trinità, pp. 77: text in [Buccellati 2012/Excerpt](https://4banks.net/Mes-rel/Excerpts/Buccellati2012Trinità.htm#Polytheismandmonotheism).
 
 
 @NOTES R/3.1
 NA mDP
 ND 8 July 2020
-TO fate
+TO religion
 
-A definition of **‘fate’** can be found in {B}R/Buccellati1981Wisdom: <<Fate is not a god because it is not the personification of any single aspect of reality>> (p. 36).
+A definition of **‘religion’ linked to the concept of the ‘absolute’** can be found in {B}R/Buccellati1981Wisdom, p. 36: <<Religion is an institution which may be said, briefly, to regulate the relationship between man and the absolute>>; full text in [Buccellati 1981/Excerpt](https://4banks.net/Mes-rel/Excerpts/Buccellati1981Wisdom.htm#Religion).
+
+
+@NOTES R/3.1
+NA mDP
+ND 29 April 2021
+TO fate; absolute
+
+A definition of **‘fate’** can be found in {B}R/Buccellati1981Wisdom, p. 36: <<Fate is not a god because it is not the personification of any single aspect of reality>>; full text in [Buccellati 1981/Excerpt](https://4banks.net/Mes-rel/Excerpts/Buccellati1981Wisdom.htm#Religion).
+
+Regarding the **‘absolute’**, cf. {B}R/Buccellati2014Time, p. 70: text in [Buccellati 2014/Excerpt](https://4banks.net/Mes-rel/Excerpts/Buccellati2014Time.htm#Absolute).
+
+
+@NOTES R/3.2
+NA mDP
+ND 17 June 2020
+TO polytheism; monotheism
+
+For a discussion about **‘polytheism’** and **‘monotheism’** in the Bible and Mesopotamian religion, see {B}R/Buccellati2012Trinità, pp. 77: text in [Buccellati 2012/Excerpt](https://4banks.net/Mes-rel/Excerpts/Buccellati2012Trinità.htm#Polytheismandmonotheism).
+
+
+@NOTES R/3.2
+NA mDP
+ND 29 April 2021
+TO polytheism; monotheism; open system; close system; time
+
+On the definition of **polytheism** and **monotheysm** and their identification with an **open system** vs. a **close system**, see also {B}R/Buccellati1981Wisdom, p. 36 (full text in [Buccellati 1981/Excerpt](https://4banks.net/Mes-rel/Excerpts/Buccellati1981Wisdom.htm#Religion)); cf. {B}R/Buccellati2012Trinità, pp. 31-32 (full text in [Buccellati 2012b/Excerpt](https://4banks.net/Mes-rel/Excerpts/Buccellati2012Trinità.htm#Polytheismandmonotheism)). On the different perceptions of **time** in polytheism and monotheism, see {B}R/Buccellati2014Time. 
+
+
+@NOTES R/3.3
+NA mDP
+ND 29 April 2021
+TO accumulation
+
+On the process of **accumulation** typical of polytheism as an open system, see {B}R/Buccellati1981Wisdom, p. 36 (full text in [Buccellati 1981/Excerpt](https://4banks.net/Mes-rel/Excerpts/Buccellati1981Wisdom.htm#Religion)).
+
+
+@NOTES R/3.4
+NA mDP
+ND 17 June 2020
+TO absolute
+
+For the **‘absolute’** in ancient Mesopotamian religion, see {B}R/Buccellati2014Time, p. 77: text in [Buccellati 2014/Excerpt](https://4banks.net/Mes-rel/Excerpts/Buccellati2014Time.htm#Absolute).
+
+
+@NOTES R/3.4
+NA mDP
+ND 29 April 2021
+TO absolute (perception of the)
+
+On the different ways of **perception of the absolute** in polytheism and monotheism, see {B}R/Buccellati2012Coerenza, pp. 117-120 (full text in [Buccellati 2012a/Excerpt](https://4banks.net/Mes-rel/Excerpts/Buccellati2012Coerenza.htm#Perception)).
+
+
+@NOTES R/3.5
+NA mDP
+ND 17 June 2020
+TO eternity
+
+For the concept of **‘eternity’** in the Bible and ancient Mesopotamian religion, see {B}R/Buccellati2014Time. Specificallt on the eternity as conceived in Christianity (connected to the Ascension), see {B}R/Buccellati2014Time, pp. 80-83: text in [Buccellati 2014/Excerpt](https://4banks.net/Mes-rel/Excerpts/Buccellati2014Time.htm#Eternity).
+
+
+@NOTES R/3.6
+NA mDP
+ND 18 July 2020
+TO gods’ attributes
+
+<<But seen in these terms, our perception of things is rather superficial. On closer inspection, what happens with Mesopotamian deities is that each individual identifies with a single attribute and excludes the others. The god of wisdom, Ea, is is univocally identified with that quality, and does not embody love, justice, and so on. The same is true for the goddess of physical love (Ishtar), the god of justice (Shamash), and so on>> (Buccellati, §3.6). The author stresses here how Mesopotamian gods where usually identified with specific attributes. About the identification of specific attributes with specific gods/goddesses, see entry {B}R/Jacobsen1976Treasures ([Jacobsen 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Jacobsen1976Treasures.htm#attributes)). Nevertheless, it is to be remarked that these features are not univocal, since the same attribute can be also assigned to different gods.  
+
+
+@NOTES R/3.7
+NA mDP
+ND 02 May 2021
+TO sacred
+
+For the definition of **‘sacred’** in ancient religions, see {B}R/Brelich1976Prolegomeni; cf. [Brelich 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Brelich1976Prolegomeni.htm), *passim*.
 
 
 @NOTES R/3.7
@@ -186,14 +476,32 @@ TO Trisagion
 The text of the **‘Trisagion’** (Greek Τρισάγιον) derives directly from [*Is.* 6, 3](https://www.tanakhml.org/d21.php2xml?sfr=12&prq=6&psq=3&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls), paralleled in [*Rev.* 4, 8](http://www.vatican.va/archive/ENG0839/__P12N.HTM) (cf. [here](https://biblehub.com/interlinear/revelation/4.htm) for the interlinear text).
 
 
+@NOTES R/3.8
+NA mDP
+ND 17 June 2020
+TO transcendence; transcendentality
+
+For the concepts of **‘transcendence’** and **‘transcendentality’** in the Bible and ancient Mesopotamian religion, see {B}R/Buccellati2014Time, pp. 73-74: text in [Buccellati 2014/Excerpt](https://4banks.net/Mes-rel/Excerpts/Buccellati2014Time.htm#Transcendence).
+
+
+@NOTES R/3.9
+NA mDP
+ND 17 June 2020
+TO time
+
+For the concept of **‘time’** in the Bible and ancient Mesopotamian religion, see {B}R/Buccellati2014Time.
+
+
 @NOTES R/4.2
 NA mDP
 ND 8 July 2020
-TO Abraham’s conversion
+TO Abraham
 
 The **conversion of Abraham** is well-known from [*Gen.* 12](http://www.vatican.va/archive/ENG0839/__PE.HTM). 
 
 In an apocryphal text of the Old Testament, called ***The Apocalypse of Abraham***, in the first part it is also described the conversion of Abraham from idolatry to God. The full text of the volume publishing the apocrypha is {B}R/Box1918Apocalypse.
+
+For **Abraham and his origins**, see {B}R/Berlyn2005Abraham; on his spiritual features, see [Buccellati 2015](http://urkesh.org/EL2/Buccellati_2015_Abramo.pdf), with [video](https://www.meetingrimini.org/eventi-totale/abramo-la-nascita-dellio/).
 
 
 @NOTES R/4.2
@@ -207,9 +515,17 @@ On the main work of **Gianbattista Vico** (1744 -- *Principj di scienza nuova*, 
 @NOTES R/4.3
 NA mDP
 ND 8 July 2020
-TO dying god
+TO dying gods
 
-On the topic of the **‘death of gods’** in Mesopotamian religion and literature, cf. Chapter 5, Section 1, point (6).
+On the topic of the **‘death of gods’** in Mesopotamian religion and literature, cf. Chapter 5, Section 1, point (6): text in [Buccellati 2021/Excerpt](https://4banks.net/Mes-rel/Excerpts/Buccellati2012When.htm#deathofgods).
+
+
+@NOTES R/4.3
+NA mDP
+ND 3 July 2020
+TO dying gods
+
+As stressed by G. Buccellati in this section, <<gods are liable to death>>: on this topic, see {B}R/Xella2014Dieux, dealing with **‘dead and resurrected gods’** (*Paragraph 2*, on pp. 526-527: text in [Xella 2014/Excerpt](https://4banks.net/Mes-rel/Excerpts/Xella2014Dieux.htm#Death)). 
 
 
 @NOTES R/4.3
@@ -229,6 +545,8 @@ TO founding personalities
 
 This passage is wholly agreeable. It is true that in ancient Mesopotamia there were not such ‘founding personalities’. Nevertheless, it is at least possible to detect some specific historical figures (mainly kings) who focused on a specific deity, in a kind of henotheism, such as Akhenaten in Egypt, elevating Aten over other gods, or [Nabonidus](http://publikationen.badw.de/de/rla/index#8121) at Babylon, who preferred [Sin](http://oracc.museum.upenn.edu/amgg/listofdeities/nannasuen/index.html) to the polyad god [Marduk](http://oracc.museum.upenn.edu/amgg/listofdeities/marduk/index.html) (although, the latter’s religious ‘swing’ is still historically discussed, as, to be honest, also the former’s religious ‘revolution’).
 
+It is also interesting to recall a passage in {B}R/Liverani2009Oltre, pp. 337 [2005 English edition] (text in [Liverani2005/Excerpt](https://4banks.net/Mes-rel/Excerpts/Liverani2005Israel.htm#Foundingpersonalities)), where the author investigates the topic of 'founding personalities' in the realm of Israelite cultic activities.  
+
 
 @NOTES R/4.6
 NA mDP
@@ -240,18 +558,42 @@ On the topic of Biblical **‘alliance’**, see e.g. the lemma ‘covenant’ (
 
 @NOTES R/5.1
 NA mDP
-ND 8 July 2020
-TO absolute
+ND 17 June 2020
+TO polytheism; monotheism; Trinity
 
-<<We will therefore consider deities as aspects of the **absolute**, so that we arrive, paradoxically, at the concept of a relativized absolute, i. e. a composite absolute that derives its unity from the dynamic interaction of its own constituent parts>>. This sentence could remind us of [Plato](https://plato.stanford.edu/entries/plato/)’s [Theory of Ideas](https://plato.stanford.edu/entries/plato-metaphysics/): the ‘absolute’ can be perceived as an ‘idea’ (in Platonic sense), a ‘unity’ which all the ‘constituents parts’ (i.e., the actual manifestation of gods) derive from.
+For a discussion about **‘polytheism’** and **‘monotheism’** in the Bible and Mesopotamian religion, and their implications on the concept of **‘Trinity’**, see {B}R/Buccellati2012Trinità.
+
+
+@NOTES R/5.1
+NA mDP
+ND 18 July 2020
+TO plurality of the divine
+
+<<I do not want to propose a catalog of names and attributes here, but rather the question of the relationship between the plurality of divine beings and the absolute. We will therefore consider deities as aspects of the absolute, so that we arrive, paradoxically, at the concept of a relativized absolute, i.e. a composite absolute that derives its unity from the dynamic interaction of its own constituent parts>> (Buccellati, §5.1). The plurality of Mesopotamian divine beings is also investigated in {B}R/Jacobsen1976Treasures, especially in Chapter 4 (pp. 93-144; [Jacobsen 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Jacobsen1976Treasures.htm#plurality)): the author insists on the metaphor of gods as ‘rulers’, presenting individual divine figures, paired to specific issues or attributes ([Jacobsen 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Jacobsen1976Treasures.htm#attributes)). Nevertheless, Jacobsen diverges from Buccellati’a idea on the ‘absolute’, since he did not recognize in Mesopotamian religion a similar concept, considering Mesopotamian religion as a *summa* of singular gods/goddesses.
+
+
+@NOTES R/5.1
+NA mDP
+ND 3 July 2020
+TO pantheon; dynamism
+
+G. Buccellati describes in section 5.1 the dynamic nature of ancient Mesopotamian polytheism (text in [Buccellati 2021/Excerpt](https://4banks.net/Mes-rel/Excerpts/Buccellati2012When.htm#dynamicnature)), underlining how this dynamism is well represented in the structure of **pantheon**, in art, myths, and hierarchy: on this topic, see {B}R/Xella2014Dieux, describing Syro-Palestine divinities in a similar way, adding a list of gods and goddesses composing the basic structure of the local pantheon(s) (see e.g. *Paragraph 3.1*, on Ugarit/Ras Shamra's pantheon, pp. 527-530: text in [Xella 2014/Excerpt](https://4banks.net/Mes-rel/Excerpts/Xella2014Dieux.htm#Pantheons)).
+
+
+@NOTES R/5.1
+NA mDP
+ND 3 July 2020
+TO dying gods
+
+G. Buccellati tells about the ‘disappearance’ or ‘death’ of gods in ancient Mesopotamian religious literature (see section 5.1, point 6): on this topic, see {B}R/Xella2014Dieux, dealing with **‘dead and resurrected gods’** (*Paragraph 2*, on pp. 526-527: text in [Xella 2014/Excerpt](https://4banks.net/Mes-rel/Excerpts/Xella2014Dieux.htm#Death)). 
 
 
 @NOTES R/5.1
 NA mDP
 ND 8 July 2020
-TO dynamism
+TO absolute; Plato
 
-G. Buccellati describes in Section 5.1, point (2) the **dynamic nature** of ancient Mesopotamian polytheism, underlining how this dynamism is well represented in the structure of pantheon, in art, myths, and hierarchy: on this topic, see {B}R/Xella2014Dieux, describing Syro-Palestine divinities in a similar way, adding a list of gods and goddesses composing the basic structure of the local pantheon(s).
+<<We will therefore consider deities as aspects of the **absolute**, so that we arrive, paradoxically, at the concept of a relativized absolute, i. e. a composite absolute that derives its unity from the dynamic interaction of its own constituent parts>>. This sentence could remind us of [Plato](https://plato.stanford.edu/entries/plato/)’s [Theory of Ideas/Forms](https://plato.stanford.edu/entries/plato-metaphysics/): the ‘absolute’ can be perceived as an ‘idea’ (in Platonic sense), a ‘unity’ which all the ‘constituents parts’ (i.e., the actual manifestation of gods) derive from. On this topic cf. also {B}R/Fine2019Plato. Specifically on Plato's "Theory of Ideas/Forms", see ([Jacobsen 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Fine2019Plato.htm#Forms)).
 
 
 @NOTES R/5.1
@@ -260,6 +602,14 @@ ND 8 July 2020
 TO ziggurat
 
 On ***ziggurat*** (mentioned in Section 5.1, point (4)), see {B}R/Meyers1997OEANE, Vol. 5, p. 200. 
+
+
+@NOTES R/5.2
+NA mDP
+ND 17 June 2020
+TO polytheism; monotheism; Trinity
+
+For a discussion about **‘polytheism’** and **‘monotheism’** in the Bible and Mesopotamian religion, and their implications on the concept of **‘Trinity’**, see {B}R/Buccellati2012Trinità.
 
 
 @NOTES R/5.2
@@ -296,6 +646,14 @@ For **Marduk**, polyad god of Babylon (mentioned in Section 5.2, point (5)), see
 
 @NOTES R/5.3
 NA mDP
+ND 17 June 2020
+TO fate; destiny
+
+For a comparison about **‘fate’** and **‘destiny’** in the Bible and in Mesopotamian culture, see {B}R/Buccellati2014Time.
+
+
+@NOTES R/5.3
+NA mDP
 ND 8 July 2020
 TO šīmtu (Akkadian)
 
@@ -316,6 +674,14 @@ ND 8 July 2020
 TO me (Sumerian)
 
 For the Sumerian term **‘me’** (‘attributes of reality’) see [ePSD2](http://oracc.org/epsd2/o0034101).
+
+
+@NOTES R/5.4
+NA mDP
+ND 17 June 2020
+TO perception of the absolute
+
+For the **perception of the ‘absolute’** in ancient Israel, see {B}R/Buccellati2014Time.
 
 
 @NOTES R/5.4
@@ -373,9 +739,25 @@ TO Mesopotamian religion; Mesopotamian civilization
 
 <<It is from this point of view that, as already said, I consider it legitimate to speak of **“Mesopotamian religion (or civilization)”** as an organic whole covering a period of three millennia>> (G. Buccellati, Chapter 6, Section 1). 
 
-For a similar opinion about **Mesopotamian religion and civilization**, see e.g. {B}R/Oppenheim1964Mesopotamia. 
+For a similar opinion about **Mesopotamian religion and civilization**, see e.g. {B}R/Oppenheim1964Mesopotamia (see [Oppenheim1964/Excerpt](https://4banks.net/Mes-rel/Excerpts/Oppenheim1964Portrait.htm)).
 
 For a brief overview on the three-millennial **history of Mesopotamia**, see {B}R/Meyers1997OEANE, Vol. 3, pp. 476-489.
+
+
+@NOTES R/6.2
+NA mDP
+ND 17 June 2020
+TO prehistory; time
+
+For the perception of **‘time’** in **prehistory**, see {B}R/Buccellati2014Time.
+
+
+@NOTES R/6.2
+NA mDP
+ND 19 August 2020
+TO emergence of religious thought 
+
+For the **emergence of religious thought** in prehistoric times (specifically in Georgia, at Dmanisi), see e.g. {B}R/Buccellati2014Dalprofondo. 
 
 
 @NOTES R/6.2
@@ -385,7 +767,7 @@ TO Akkadian; Old-Babylonian
 
 <<The validity of the choice depends on the degree of cohesion of the system that is the object of analysis. Thus, to choose an example on the linguistic level, it is valid to speak of **“Babylonian”** s structurally cohesive linguistic organism, even though it extends over period of two millennia>> (G. Buccellati, Chapter 6, Section 2). 
 
-For this analytical and structural evaluation of Babylonian language (i.e., the variant of Akkadian spoken in the Babylonian region), [Buccellati 1996](http://urkesh.org/EL2/Buccellati_1996_A_Structural_Grammar_of_Babylonian.pdf). 
+For this analytical and structural evaluation of Babylonian language (i.e., the variant of Akkadian spoken in the Babylonian region), see {B}R/Buccellati1996Grammar. 
 
 
 @NOTES R/6.2
@@ -459,7 +841,7 @@ NA mDP
 ND 10 July 2020
 TO tiham (Protoeuphratian)
 
-From the term **tiham**, the Akkadian ‘*tâmtu*’ may derive, [‘sea, ocean’ = Tiamat](http://oracc.museum.upenn.edu/amgg/listofdeities/tiamat/index.html) for which see [CAD 18 = T, pp. 156-158](CAD18_156-158).
+From the term **tiham**, the Akkadian ‘*tâmtu*’ may derive [‘sea, ocean’ = Tiamat](http://oracc.museum.upenn.edu/amgg/listofdeities/tiamat/index.html) for which see [CAD 18 = T, pp. 156-158](CAD18_156-158); to be noted that also the biblical term for 'abyss', *t<sup>e</sup>h&#333;m*, in [Gen 1,2](https://www.tanakhml.org/d21.php2xml?sfr=1&prq=1&psq=2&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls) have the same etymology.
 
 
 @NOTES R/6.2
@@ -566,6 +948,14 @@ ND 11 July 2020
 TO 50 names of Marduk
 
 About the **50 names** of [Marduk](http://oracc.museum.upenn.edu/amgg/listofdeities/marduk/index.html), listed at the end of the *Enūma elīš*, see specifically {B}R/Seri2006Marduk. 
+
+
+@NOTES R/6.4
+NA mDP
+ND 11 July 2020
+TO gods’ attributes
+
+<<ASTRACT IDEAS. -- It soon happened that the gods came to be identified with attributes corresponding to major guiding concepts for human activities>> (Buccellati, §6.4, point 4). About the identification of specific attributes with specific gods/goddesses, see entry {B}R/Jacobsen1976Treasures ([Jacobsen 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Jacobsen1976Treasures.htm#attributes)). Nevertheless, it is to be remarked that these features are not univocal, since the same attribute can be assigned to different gods. 
  
 
 @NOTES R/6.4
@@ -581,7 +971,7 @@ NA mDP
 ND 11 July 2020
 TO Abzu; nwn (Egyptian); amorphous chaos
 
-It is interesting to note that the idea of an **‘amorphous chaos’** is shared by both the Mesopotamian (with the Abzu, for which see *supra* {N}R/6.3) and the Egyptian culture (with the *nwn*/*nw.w*, for which see {B}R/Redford2001OEAE, Vol. 2: G-O, pp. 557-558; cf. {B}R/Leitz2002Lexikon, pp. 543-548. 
+It is interesting to note that the idea of an **‘amorphous chaos’** is shared by both the Mesopotamian (with the Abzu, for which see *supra* {N}R/6.3) and the Egyptian culture (with the *nwn*/*nw.w*, for which see {B}R/Redford2001OEAE, Vol. 2: G-O, pp. 557-558; cf. {B}R/Leitz2002Lexikon, pp. 543-548). 
 
 
 @NOTES R/6.4
@@ -624,7 +1014,7 @@ TO gods’ attributes
 <<ASTRACT IDEAS. – It soon happened that the gods came to be identified with **attributes**
 corresponding to major guiding concepts for human activities>> (G. Buccellati, Chapter 6, Section 4, point 4). 
 
-About the identification of specific attributes with specific gods/goddesses, see the entry {B}R/Jacobsen1976Treasures.  
+About the identification of specific attributes with specific gods/goddesses, see the entry {B}R/Jacobsen1976Treasures ([Jacobsen 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Jacobsen1976Treasures.htm#attributes)).  
 
 
 @NOTES R/6.4
@@ -700,9 +1090,9 @@ TO patriarchal traditions; Amorites
 
 <<There are conflicting conceptions about the possible relationships of **patriarchal traditions** as found in the biblical writing and the broader Syro-Mesopotamian context>> (G. Buccellati, Chapter 6, Section 6). 
 
-About the relationship between the patriarchal tradition attested in the Bible and their possible origin from ancient Near Eastern milieu, see {B}R/Keller1956Bible, presenting a different opinion from that expressed by G. Buccellati; while the former recognizes a stream of tradition from the Late-Babylonian culture during the period of the Israelite exile at Babylon (an idea similar to that of {B}R/Liverani2009Oltre, who is even more radical defining the Bible as an ‘invented story’), the latter prefers to reconnect these patriarchal traditions to a previous period (ca. 19th-17th cent. BC), namely that of the peregrination of Israel in the Middle-Euphratean steppes and their consequent contacts with Amorite people. 
+About the relationship between the patriarchal tradition attested in the Bible and their possible origin from ancient Near Eastern milieu, see {B}R/Keller1956Bible, presenting a different opinion from that expressed by G. Buccellati; while the former recognizes a stream of tradition from the Late-Babylonian culture during the period of the Israelite exile at Babylon (an idea similar to that of {B}R/Liverani2009Oltre (cf. [Liverani2005/Excerpt](https://4banks.net/Mes-rel/Excerpts/Liverani2005Israel.htm#Genealogies)), who is even more radical defining the Bible as an ‘invented story’), the latter prefers to reconnect these patriarchal traditions to a previous period (ca. 19th-17th cent. BC), namely that of the peregrination of Israel in the Middle-Euphratean steppes and their consequent contacts with Amorite people (cf. *supra* {N}R/2.14).
 
-About **Amorites**, see {B}R/Meyers1997OEANE, Vol. 1, pp. 107-110; cf. Buccellati, Giorgio 1963-1966b on [Urkesh.org/e-Library](http://urkesh.org/pages/922a.htm#Buccellati_Amorites). 
+About **Amorites**, see {B}R/Meyers1997OEANE, Vol. 1, pp. 107-110; cf. Buccellati, Giorgio 1963-1966b on [Urkesh.org/e-Library](http://urkesh.org/pages/922a.htm#Buccellati_Amorites) (with review by Mario Liverani on [Urkesh.org/e-Library](http://urkesh.org/abstracts/923Liverani1968.htm)).
 
 
 @NOTES R/6.6
@@ -784,7 +1174,7 @@ NA mDP
 ND 11 July 2020
 TO exile
 
-<<It is through this filter that I propose to explain the presence in the biblical tradition of the material clearly derived from Mesopotamian culture. … Since the kingdoms of Israel and Judah had no direct ties of cultural dependence on Assyria or Babylon, we can eliminate the possibility that they were borrowed at that time. The situation is different in the period of **exile**, when the deported populations were in constant contact with the great Mesopotamian culture… . But two concomitant observations make this explanation, in my opinion, quite improbable>> (G. Buccellati, Chapter 6, Section 8). 
+<<It is through this filter that I propose to explain the presence in the biblical tradition of the material clearly derived from Mesopotamian culture. … Since the kingdoms of Israel and Judah had no direct ties of cultural dependence on Assyria or Babylon, we can eliminate the possibility that they were borrowed at that time. The situation is different in the period of **exile**, when the deported populations were in constant contact with the great Mesopotamian culture … . But two concomitant observations make this explanation, in my opinion, quite improbable>> (G. Buccellati, Chapter 6, Section 8). 
 
 *Contra*, see {B}R/Keller1956Bible, presenting a different opinion from that expressed by G. Buccellati (cf. note *supra*). 
 
@@ -797,6 +1187,14 @@ ND 11 July 2020
 TO Ps. 137
 
 For the Hebrew text of *Ps.* 137 and its English translation (King James Version), see [here](https://www.tanakhml.org/d13.php2xml?sfr=27&prq=137&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls).
+
+
+@NOTES R/6.9
+NA mDP
+ND 17 June 2020
+TO monotheism; perception of the divine
+
+For the **perception of the divine in monotheism**, see {B}R/Buccellati2014Time.
 
 
 @NOTES R/6.9
@@ -852,7 +1250,7 @@ TO repetitive modules
 
 <<Concepts and ritual translate into **repetitive modules** what the individual’s spontaneity initially proposed>> (G. Buccellati, Chapter 7, Section 1). 
 
-On this topic and ‘patterns’ in religious activities, cf. Chapter 1, Sections 9-11.
+On this topic and ‘patterns’ in religious activities, cf. Chapter 1, Sections 9-11 (cf. *supra*, {N}R/1.9).
 
 
 @NOTES R/7.1
@@ -905,6 +1303,8 @@ TO superstition; spirituality
 <<We should not, therefore, in the wake of our modern attitude, speak of a Mesopotamian **“superstition”** as opposed to a biblical **“spirituality”**>> (G. Buccellati, Chapter 7, Section 5). 
 
 An example of this ‘spirituality’ in the Bible, representing a true and sincere act of faith, trusting in God’s word, is that of the famous ‘brass/bronze snake-standard’ found in [*Num.* 21, 1-9](https://www.tanakhml.org/d13.php2xml?sfr=4&prq=21&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls). 
+
+It is also interesting to note how in a later time the bronze-emblem became a specific worshipped symbol (named Neḥushtan) and thus prohibited as an idolatric cult, along with that of Asherah (see [2 Kings 18](https://www.tanakhml.org/d13.php2xml?sfr=11&prq=18&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non)). 
 
 
 @NOTES R/7.6
@@ -962,6 +1362,14 @@ TO Utnapishtim; Atrahasis; Ziusudra
 For **Utnapishtim**, also known in Sumerian literature as [Ziusudra](http://oracc.org/epsd2/o0048582) (with reference to the tablet mentioning him), see [RlA](http://publikationen.badw.de/de/rla/index#12327). 
 
 For the dialogue between [Ea](http://oracc.museum.upenn.edu/amgg/listofdeities/enki/index.html) and Utnapishtim/Atramḫasis see {B}R/Foster2005Before, pp. 227-280. Cf. *supra* {N}R/6.2.
+
+
+@NOTES R/7.9
+NA mDP
+ND 17 June 2020
+TO incarnation
+
+For the perception of **‘incarnation’** in monotheism, see {B}R/Buccellati2014Time.
 
 
 @NOTES R/7.9
@@ -1089,7 +1497,7 @@ NA mDP
 ND 20 July 2020
 TO Adapa; Anu; Ishtar; Gilgamesh; Gilgamesh, Enkidu; Humbaba/Huwawa; Ea/Enki
 
-<<Here, too, there are subtle similarities in Mesopotamia, for example in the way **Adapa** confronts the supreme God, **Anu**, following the promptings of another god, Ea, or the repulsion of **Ishtar** by **Gilgamesh**. Then there are the cases of beings that can be defined as semi-divine, such as **Huwawa** and the bull of heaven that are faced by Gilgamesh and **Enkidu**>> (G. Buccellati, Chapter 7, Section 10). 
+<<Here, too, there are subtle similarities in Mesopotamia, for example in the way **Adapa** confronts the supreme God, **Anu**, following the promptings of another god, Ea, or the repulsion of **Ishtar** by **Gilgamesh**. Then there are the cases of beings that can be defined as semi-divine, such as **Huwawa** and the bull of heaven that are faced by Gilgamesh and **Enkidu**>> (G. Buccellati, Chapter 7, Section 10). On semi-divine or suerhuman beings, cf. {B}R/Brelich1976Prolegomeni, p. 14: text in [Brelich 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Brelich1976Prolegomeni.htm#Superhumanbeings).
 
 For [**Adapa**](http://publikationen.badw.de/de/rla/index#164) struggling with [**Anu**](http://oracc.museum.upenn.edu/amgg/listofdeities/an/index.html), under the advises of [Ea](http://oracc.museum.upenn.edu/amgg/listofdeities/enki/index.html) in the *Story of Adapa*, see {B}R/Foster2005Before, pp. 525-530 (cf. *supra* {N}R/6.9 and *infra* {N}R/7.10). 
 
@@ -1457,6 +1865,14 @@ On the [**Ten Commandments**](http://www.jewishencyclopedia.com/articles/14315-t
 
 @NOTES R/8.3
 NA mDP
+ND 16 June 2020
+TO cultural tradition; social context
+
+For a discussion of the role of **cultural tradition** and **social context** in ancient religions, see {B}R/Brelich1976Prolegomeni.
+
+
+@NOTES R/8.3
+NA mDP
 ND 2 August 2020
 TO Hymn to Enlil; Appendix 2
 
@@ -1685,6 +2101,14 @@ ND 3 August 2020
 TO Sophocles
 
 For the text of Sophocles’ tragedies, see [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/searchresults?q=sophocles).
+
+
+@NOTES R/8.6
+NA mDP
+ND 19 August 2020
+TO necromancy; Urkesh 
+
+For necromantic practices at [Urkesh/Tell Mozan](http://urkesh.org/) related to the **‘necromantic pit’** known as ***âbi***, see {B}R/Buccellati2014Dalprofondo. 
 
 
 @NOTES R/8.6
@@ -1948,7 +2372,7 @@ NA mDP
 ND 7 August 2020
 TO nature
 
-For a discussion on **Mesopotamian interpretation of nature**, based on mythology and divination, and a comparison with the later philosophical approach in the Greek culture, see {B}R/Katz1995Emergence, specifically p. 638, where the authors quote {B}R/Cornford1957Philosophy, *Preface*, p. v.
+For a discussion on **Mesopotamian interpretation of nature**, based on mythology and divination, and a comparison with the later philosophical approach in the Greek culture, see {B}R/Katz1995Emergence, specifically p. 638, where the authors quote {B}R/Cornford1957Philosophy, *Preface*, p. v. Cf. also the definition of the role of nature in Mesopotamian religion as it is described in {B}R/Jacobsen1976Treasures, p. 73 (see [Jacobsen 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Jacobsen1976Treasures.htm#nature)).
 
 
 @NOTES R/9.1
@@ -1999,7 +2423,7 @@ NA mDP
 ND 7 August 2020
 TO Šumma izbu
 
-For the text of the *Šumma izbu* (cf. Chapter 9, Section 2, Appendix 5), see {B}R/Leichty1970Izbu; cf. {B}R/DeZorzi2011Kaskal. 
+For the text of the *Šumma izbu* (cf. Chapter 9, Section 2, Appendix 5), see {B}R/Leichty1970Izbu; cf. {B}R/DeZorzi2011Omina. 
 Cf. also [*Appendix 5*](http://4banks.net/Mes-rel/Sources/appendix 5_mDP.htm).
 
 
@@ -2220,6 +2644,14 @@ ND 17 August 2020
 TO nābî (נָבִיא: Hebrew)
 
 For the Hebrew term נָבִיא,*nābî’* (‘prophet’) see [DCH 5, pp. 586-591](http://4Banks.net/Mes-rel/PDF/DCH_Prophet.pdf). It is also interesting to note that also a feminine counterpart does exist, the Hebrew term נְבִיאָה, *n<sup>e</sup>bî’āh*, (‘prophet’, but n.f., hence ‘prophetess’), see [DCH 5, pp. 592](http://4Banks.net/Mes-rel/PDF/DCH_Prophet_feminine.pdf), <<prophesying with song ([*Ex.* 15, 20](https://www.tanakhml.org/d21.php2xml?sfr=2&prq=15&psq=20&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls)), as judge ([*Jg.* 4, 4](https://www.tanakhml.org/d21.php2xml?sfr=7&prq=4&psq=4&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls)), giving word of Y. ([*2 Kings* 22, 14](https://www.tanakhml.org/d21.php2xml?sfr=11&prq=22&psq=14&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls)), opponent of Nehemiah ([*Ne.* 6, 14](http://www.vatican.va/archive/ENG0839/__PC2.HTM)), married to Isaiah ([*Is.* 8, 3](https://www.tanakhml.org/d21.php2xml?sfr=12&prq=8&psq=3&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls)) [etc.]>>.
+
+
+@NOTES R/10.2
+NA mDP
+ND 17 June 2020
+TO creation
+
+For the different perspectives on **‘creation’** in monotheism and polytheism, see {B}R/Buccellati2014Time.
 
 
 @NOTES R/10.3
@@ -2522,9 +2954,7 @@ NA mDP
 ND 25 August 2020
 TO dreams
 
-About **dreams and dream interpretation** in Ancient Near East and Israel:
-
-{B}R/Alster1972Dumuzi; {B}R/Alster2006Dumuzi. 
+About **dreams and dream interpretation** in Ancient Near East and Israel: {B}R/Alster1972Dumuzi; {B}R/Alster2006Dumuzi. 
 
 For the Sumerian text of Dumuzi’s dream [ETCSL 1.4.3](http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1*#), see [here, Sumerian](http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.4.3&display=Crit&charenc=gcirc#) and [here, English](http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.1.4.3#). 
 
@@ -2837,6 +3267,8 @@ About offerings and sacrifices in Ancient Mesopotamia, see [RlA 10, pp. 93ff.](h
 
 For further bibliography in this topic, see: {B}R/Biome1934Opfermaterie; {B}R/Foxvog1989Manual; {B}R/Furlani1932Sacrificio; {B}R/Lafont1999Mari; {B}R/Quaegebeur1993Sacrifice.
 
+Cf. also {B}R/Brelich1976Prolegomeni, pp. 29-30: text in [Brelich 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Brelich1976Prolegomeni.htm#Sacrifices).
+
 
 @NOTES R/13.2
 NA mDP
@@ -2882,6 +3314,14 @@ ND 05 September 2020
 TO ga’al (גָאַל: Hebrew)
 
 For the Hebrew term גָאַל, *ga’al*, ‘to redeem’, see [DCH 2, pp. 293-296](http://4Banks.net/Mes-rel/PDF/DCH_Redeem.pdf).
+
+
+@NOTES R/13.3
+NA mDP
+ND 02 May 2021
+TO rituals
+
+For the practice of **rituals** to re-establish a broken order, see {B}R/Brelich1976Prolegomeni, p. 25: text in [Brelich 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Brelich1976Prolegomeni.htm#Rites).
 
 
 @NOTES R/13.5
@@ -3276,6 +3716,8 @@ TO sacrifices
 
 About **sacrifices** in the Bible, see the [Jewish Encyclopedia](http://www.jewishencyclopedia.com/articles/12984-sacrifice); cf. also {B}R/Achtemeier1996Harper, p. 957 (redirecting to the entry “Worship” on pp. 1222-1226).
 
+Cf. also {B}R/Brelich1976Prolegomeni, pp. 29-30: text in [Brelich 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Brelich1976Prolegomeni.htm#Sacrifices).
+
 
 @NOTES R/13.13
 NA mDP
@@ -3520,6 +3962,14 @@ ND 11 September 2020
 TO Ps. 102
 
 For *Ps.* 102, see [here](https://www.tanakhml.org/d13.php2xml?sfr=27&prq=102&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls).
+
+
+@NOTES R/14.5
+NA mDP
+ND 17 June 2020
+TO determination of fate
+
+For the determination of **‘fate’** in ancient Mesopotamia, see {B}R/Buccellati2014Time.
 
 
 @NOTES R/14.5
@@ -3922,6 +4372,22 @@ TO universal order
 On this topic, see e.g. the **Sumerian and Akkadian cosmogonical myths** as explained by Ira Spar, in a paper on the [MET website](https://www.metmuseum.org/toah/hd/epic/hd_epic.htm). Another example regards the foundation of Babylon by [Marduk](http://oracc.museum.upenn.edu/amgg/listofdeities/marduk/index.html), as told in the *Enūma elīš* (cf. *supra* {N}R/6.2). The gods, in this case Marduk, are the described founders of cities, a clear mythological and etiological explanation for the actual foundation of cities by communities or kings.
 
 
+@NOTES R/16.3
+NA mDP
+ND 17 June 2020
+TO approaches to the absolute
+
+For the different systems to approach the **‘absolute’** in the Bible and ancient Mesopotamian religion, see {B}R/Buccellati2014Time.
+
+
+@NOTES R/16.3
+NA mDP
+ND 17 June 2020
+TO absolute
+
+For the Mesopotamian approach to the **'absolute'**, see {B}R/Buccellati2012Coerenza.
+
+
 @NOTES R/16.5
 NA mDP
 ND 18 September 2020
@@ -3967,7 +4433,7 @@ TO divinized kings
 never plays a structural or institutional role, serving only as an extreme form of glorification. But it is
 certain that kingship as an institution is “divinized,” as the priesthood in its various forms never is>> (G. Buccellati, Chapter 16, Section 5).
 
-On **divinization of kings in Mesopotamia**, see [Matthiae 2012](http://4banks/Mes-rel/Synopses/Rituals_Ebla_mDP.htm#Matthiae2012).
+On **divinization of kings in Mesopotamia**, see [Matthiae 2012](http://4banks/Mes-rel/Synopses/Rituals.htm#Ebla).
 
 A fact which could support the interpretation of the king as a ‘divinized’ figure (i.e. a person in touch with the divine = absolute) is the possible etymology of the aforementioned Sumerian term for “ruler”, [ensi(k)](http://oracc.org/epsd2/o0027087), which could be derived from the Sumerian word [ensi](http://oracc.org/epsd2/o0027083), ‘interpreter (of the divine will)’, both written with the same Sumerogram ENSI<sub>2</sub>.
 
@@ -4035,12 +4501,30 @@ TO Ps. 137, 8f.
 <<“Daughter of Babylon ... blessed is he who will take and throw your little ones against a rock.”>> (G. Buccellati, Chapter 16, Section 6). 
 
 For the text mentioned here by the author, see [*Ps.* 137, 8f.](https://www.tanakhml.org/d13.php2xml?sfr=27&prq=137&psq=1&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=fls).
+
+
 @NOTES R/17.1
 NA mDP
 ND 19 September 2020
 TO Marduk’s 50 names
 
 About [Marduk](http://oracc.museum.upenn.edu/amgg/listofdeities/marduk/index.html)’s **50 names**, see *supra* {N}R/6.3.
+
+
+@NOTES R/17.1
+NA mDP
+ND 17 June 2020
+TO absolute
+
+For the different descriptions of the **‘absolute’** in the Bible and ancient Mesopotamian religion, see {B}R/Buccellati2014Time.
+
+
+@NOTES R/17.1
+NA mDP
+ND 17 June 2020
+TO absolute
+
+For the Mesopotamian approach to the **'absolute'**, see {B}R/Buccellati2012Coerenza.
 
 
 @NOTES R/17.1
@@ -4150,6 +4634,14 @@ ND 19 September 2020
 TO Marduk
 
 For **Marduk**, polyad god of Babylon, see [here](http://oracc.museum.upenn.edu/amgg/listofdeities/marduk/index.html).
+
+
+@NOTES R/17.4
+NA mDP
+ND 02 May 2021
+TO myths
+
+For the meaning and function of **myths** in ancient religions (particularly in Mesopotamia), see {B}R/Brelich1976Prolegomeni, p. 21: text in [Brelich 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Brelich1976Prolegomeni.htm#Myths).
 
 
 @NOTES R/17.4
@@ -4478,10 +4970,26 @@ TO asherah; Kuntillet Ajrud’s vase
 
 <<The archaeological evidence confirms this in a very explicit way, and the most famous case is that of the representations on a vase found in Kuntillet Ajrud in the Sinai peninsula, where anthropomorphic figures are accompanied by the designations of “Yahweh of Samaria and his asherah” and “Yahweh of Teman and his asherah,” the term *asherah* referring either to an iconic object or to the female companion of the male deity>> (G. Buccellati, Chapter 18, Section 4).
 
-On the figure of **asherah**, see the related entry on the [Jewish Encyclopedia](http://www.jewish http://www.jewishencyclopedia.com/articles/1942-asherah encyclopedia.com/articles/1942-asherah); cf. the THEME [“Asherah”]( http://4Banks.net/Mes-rel/TEMI/asherah.htm), by Miriam Carminati.
+On the figure of **asherah**, see the related entry on the [Jewish Encyclopedia](http://www.jewish http://www.jewishencyclopedia.com/articles/1942-asherah encyclopedia.com/articles/1942-asherah); cf. the THEME [“Asherah”](http://4Banks.net/Mes-rel/TEMI/asherah.htm), by Miriam Carminati.
 See also {B}R/Becking2001Only.
 
 About the [**Kuntillet Ajrud’s vase**](https://upload.wikimedia.org/wikipedia/commons/c/ca/Ajrud.jpg) and its interpretation, see e.g. {B}R/Merlo1994Asherah.
+
+
+@NOTES R/19.1
+NA mDP
+ND 17 June 2020
+TO history; manifestation of the absolute/divine
+
+For the **manifestation(s) of the ‘absolute’** in history, see {B}R/Buccellati2014Time.
+
+
+@NOTES R/19.1
+NA mDP
+ND 17 June 2020
+TO history; manifestation of the absolute/divine
+
+For the **manifestation of the divine** in history, see {B}R/Buccellati2012Coerenza.
 
 
 @NOTES R/19.1
@@ -4716,9 +5224,6 @@ TO Shulgi-ili
 For the king **Shulgi**, see the [RlA](http://publikationen.badw.de/de/rla/index#11158).
 
 
-  
-
-
 @NOTES R/20.3
 NA mDP
 ND 11 October 2020
@@ -4879,6 +5384,22 @@ TO God’s presence; shekinah (שכינה: Hebrew)
 <<God’s **presence** in the message requires and awaits the presence of the interlocutors who have heard it>> (G. Buccellati, Chapter 21, Section 3). We can here envisage a connection between the presence (שכינה, *shekinah*) of God in the temple (see *supra* {N}R/20.6) and in the biblical message which is to be proclaimed to the people; God is not relegated in the temple (as the Mesopotamian gods), but can ‘get off’ the temple through his proclaimed message, i.e. the biblical scripture. 
 
 
+@NOTES R/21.4
+NA mDP
+ND 17 June 2020
+TO static presence
+
+For the **static presence** of the ‘absolute’ in ancient Mesopotamia, see {B}R/Buccellati2014Time.
+
+
+@NOTES R/21.5
+NA mDP
+ND 17 June 2020
+TO dynamic presence
+
+For the **dynamic presence** of the ‘absolute’ in the Bible, see {B}R/Buccellati2014Time.
+
+
 @NOTES R/21.5
 NA mDP
 ND 18 October 2020
@@ -4925,6 +5446,14 @@ For an explanation of the concept of ***`<sup>a</sup>bodā(h)***, see e.g. the [
 
 @NOTES R/22.2
 NA mDP
+ND 02 May 2021
+TO sacrifices
+
+For the meaning and function of **sacrifices** in ancient religions (particularly in Mesopotamia), see {B}R/Brelich1976Prolegomeni, pp. 29-30: text in [Brelich 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Brelich1976Prolegomeni.htm#Sacrifices).
+
+
+@NOTES R/22.2
+NA mDP
 ND 25 October 2020
 TO offerings; sacrifices
 
@@ -4963,6 +5492,22 @@ For the biblical passages mentioned by G. Buccellati in Chapter 22, Section 2, s
 [Jer 6, 20](https://www.tanakhml.org/d21.php2xml?sfr=13&prq=6&psq=20&lvl=99&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non).
 
 
+@NOTES R/22.4
+NA mDP
+ND 02 May 2021
+TO sacred; sacralization 
+
+For the meaning of **‘sacred’** and **‘sacralization’** in ancient religions (particularly in Mesopotamia), see {B}R/Brelich1976Prolegomeni; cf. [Brelich 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Brelich1976Prolegomeni.htm), *passim*.
+
+
+@NOTES R/22.5
+NA mDP
+ND 17 June 2020
+TO control of time
+
+For the **control of time** in ancient Mesopotamian perspective, see {B}R/Buccellati2014Time.
+
+
 @NOTES R/22.5
 NA mDP
 ND 25 October 2020
@@ -4985,6 +5530,14 @@ ND 25 October 2020
 TO beginning
 
 For the biblical concept of **‘beginning’**, see *supra* {N}R/6.9.
+
+
+@NOTES R/22.6
+NA mDP
+ND 17 June 2020
+TO control of time
+
+For the **control of time** in the Bible, see {B}R/Buccellati2014Time.
 
 
 @NOTES R/22.6
@@ -5190,6 +5743,8 @@ TO cult technicians
 
 About **cult technicians in ancient Mesopotamia**, see the lemma ‘priest’ in the [RlA](http://publikationen.badw.de/de/rla/index#9715).
 
+On the definition of the priests as 'cult technicians' or 'representatives', see {B}R/Brelich1976Prolegomeni, p. 31: text in [Brelich 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Brelich1976Prolegomeni.htm#Representatives).
+
 
 @NOTES R/22.11
 NA mDP
@@ -5215,9 +5770,6 @@ TO Leviticus
 An introduction to **Leviticus** can be found on the [Jewish Encyclopedia](http://www.jewishencyclopedia.com/articles/9867-leviticus).
 
 For the Hebrew text and an English translation of **Leviticus**, see the [Tanakh Project](https://www.tanakhml.org/d13.php2xml?sfr=3&prq=1&pnt=tru&acc=tru&dia=tru&enc=heb&xml=non).
-
-
-
 
 
 @NOTES R/23.1
@@ -5256,6 +5808,14 @@ TO sacrifice of Isaac
 For the **‘sacrifice’ of Isaac by Abraham**, see *supra* {N}R/6.9.
 
 
+@NOTES R/23.3
+NA mDP
+ND 02 May 2021
+TO sacred; sacralization 
+
+For the meaning of **‘sacred’** and **‘sacralization’** in ancient religions (particularly in Mesopotamia), see {B}R/Brelich1976Prolegomeni; cf. [Brelich 1976/Excerpt](https://4banks.net/Mes-rel/Excerpts/Brelich1976Prolegomeni.htm), *passim*.
+
+
 @NOTES R/24.1
 NA mDP
 ND 1 November 2020
@@ -5274,10 +5834,26 @@ On **fate/destiny** in ancient Mesopotamia, cf. *supra* {N}R/14.5.
 
 @NOTES R/25.1
 NA mDP
+ND 17 June 2020
+TO absolute conditioning 
+
+For the concept of **‘absolute conditioning’**, see {B}R/Buccellati2014Time.
+
+
+@NOTES R/25.1
+NA mDP
 ND 8 November 2020
 TO development of religious thought
 
 For a discussion on the development of first religious thoughts in Ancient Near East, see *supra* {N}R/6.2 and {N}R/16.1.
+
+
+@NOTES R/25.2
+NA mDP
+ND 17 June 2020
+TO confrontation with the absolute
+
+For the human **confrontation with the ‘absolute’**, see {B}R/Buccellati2014Time.
 
 
 @NOTES R/25.2

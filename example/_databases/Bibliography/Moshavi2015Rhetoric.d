@@ -4,6 +4,7 @@ T Between Dialectic and Rhetoric: Rhetorical Questions Expressing Premises in Bi
 P *Vetus Testamentum* 65.1 (2015): 136-151
 P Brill
 
+@@@R
 SA iN
 SD January 2021
 TO argumentation; rhetoric

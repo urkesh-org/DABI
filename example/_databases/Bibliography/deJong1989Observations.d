@@ -1,4 +1,4 @@
-AU deJong Ellis, Maria
+AU de Jong Ellis, Maria
 Y 1989
 T “Observations on Mesopotamian Oracles and Prophetic Texts”
 P *Journal of Cuneiform Studies* 41/2, pp. 127-186 

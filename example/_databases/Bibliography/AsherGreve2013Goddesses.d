@@ -1,7 +1,7 @@
 AU Asher-Greve, Julia and Goodnick Westenholz
 Y 2013
-T [Goddesses in Context: On Divine Powers, Roles, Relationships and Gender in Mesopotamian Textual and Visual Sources](https://doi.org/10.5167/uzh-135436)
-P OBO 259, Fribourg, Göttingen: Academic Press, Vandenhoeck and Ruprecht
+T *Goddesses in Context: On Divine Powers, Roles, Relationships and Gender in Mesopotamian Textual and Visual Sources*
+P Orbis Biblicus et Orientalis 259, Fribourg, Göttingen: Academic Press, Vandenhoeck and Ruprecht
 
 @@@R
 SA mDP
@@ -21,6 +21,9 @@ The present publication is divided into 5 chapters about **gender of divinities*
 *Chapter 5*, "Epilogue" (summary of the previous chapters).
 
 [The volume discusses the description and the definition of the gender of ancient Mesopotamian divinities, displaying their singular features and their physical representations.]
+
+
+PDF available [here](https://doi.org/10.5167/uzh-135436)
 
 
 @NOTES R/18.1

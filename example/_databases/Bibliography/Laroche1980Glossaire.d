@@ -1,6 +1,6 @@
 AU Laroche, Emmanuel
 Y 1980
-T *Glossaire de la langue hourrite*
+T [*Glossaire de la langue hourrite*](https://archive.org/details/LarocheGlossaireDeLaLangueHourrite)
 P Paris: Klincksieck
 
 @@@R

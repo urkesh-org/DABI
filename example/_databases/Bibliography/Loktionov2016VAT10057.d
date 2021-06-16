@@ -1,6 +1,6 @@
 ﻿AU Loktionov, Alexandre Alexandrovich
 Y 2016
-T “An ‘Egyptianising’ Underworld Judging an Assyrian Prince? New Perspectives on VAT 10057” 
+T [“An ‘Egyptianising’ Underworld Judging an Assyrian Prince? New Perspectives on VAT 10057”](https://doi.org/10.1515/janeh-2016-0012) 
 P *Journal of Ancient Near Eastern History* 3/1, pp. 39-55
 
 @@@R

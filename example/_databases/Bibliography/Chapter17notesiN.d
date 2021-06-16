@@ -39,7 +39,7 @@ NA iN
 ND December 2020
 TO nature of myths; public consumption
 
-For an overview of how the common people of Mesopotamia may have digested mythic traditions and practiced religion, see {B}R/Nefat2007Commonpeople
+For an overview of how the common people of Mesopotamia may have digested mythic traditions and practiced religion, see {B}R/Nejat2007Commonreligion
 
 
 
